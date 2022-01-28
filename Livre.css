@@ -1,0 +1,17 @@
+body {background-color: #e9ebee;}
+.rating, .rating > span {width: 65px;height: 16px;display: block;background: url('../images/rating.png') 0 -22px no-repeat;}
+.rating-star {background-position: 0 -0px;display: inline-table;vertical-align: middle;}
+.content-img{max-height: 300px;}
+.content-title{overflow: hidden; white-space: nowrap; text-overflow: ellipsis;}
+a.alert-link{text-decoration:none}
+#chat{padding-left: 0;}
+#chat li{list-style: none;padding: 5px;}
+#chat li .chat-avatar{float: left;padding: 5px;}
+#chat li .chat-avatar img{border-radius:50%;height:35px;width:35px;}
+#chat li .chat-content{overflow:auto;}
+#chat li .chat-content .chat-name{font-weight:bold;}
+#chat li .chat-content .chat-body{color: #6e6d74;}
+#chat li .chat-content .chat-controls{text-align:right;font-size:x-small;}
+#chat li:nth-of-type(odd){background-color:rgba(0,0,0,.03);}
+#navbarContent2.navbarContent2{position: absolute; left: 0px; top: -140px; padding: 10px;}
+.jdl {color: #333; font-family: 'Trocchi', serif; font-size: 30px; font-weight: normal; line-height: 48px; margin: 0;display: block;width: 400px;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;}
