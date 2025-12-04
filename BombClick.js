@@ -1,3 +1,5 @@
+window.addEventListener('DOMContentLoaded', ()=>{
+
 const WA_ADMIN = "6285777411667";
 const MIN_SALDO = 10000;
 const SECRET_LIFETIME = 2 * 60 * 60 * 1000; // 2 JAM
