@@ -1,0 +1,274 @@
+[
+  {
+    "title": "Master Digital Marketing",
+    "rating": 4.5,
+    "desc": "Panduan lengkap digital marketing dari nol sampai mahir.",
+    "author": "John Doe",
+    "price": "FREE",
+    "image": "cover1.jpg",
+  "link": "detail.html?id=1"
+  },
+  {
+    "title": "Belajar JavaScript Modern",
+    "rating": 4.7,
+    "desc": "Dasar sampai advanced JavaScript ES6+.",
+    "author": "Jane Smith",
+    "price": "$5",
+    "image": "cover2.jpg",
+  "link": "detail.html?id=1"
+  },
+  {
+    "title": "HTML & CSS Mastery",
+    "rating": 4.6,
+    "desc": "Panduan membuat website profesional.",
+    "author": "Alex Turner",
+    "price": "FREE",
+    "image": "cover3.jpg",
+  "link": "detail.html?id=1"
+  },
+  {
+    "title": "Python Untuk Pemula",
+    "rating": 4.8,
+    "desc": "Belajar Python dari dasar hingga proyek nyata.",
+    "author": "Michael Brown",
+    "price": "$7",
+    "image": "cover4.jpg",
+  "link": "detail.html?id=1"
+  },
+  {
+    "title": "AI for Everyone",
+    "rating": 4.6,
+    "desc": "Pengantar kecerdasan buatan dengan cara sederhana.",
+    "author": "Andrew Ng",
+    "price": "$10",
+    "image": "cover5.jpg",
+  "link": "detail.html?id=1"
+  },
+  {
+    "title": "Business Startup Guide",
+    "rating": 4.4,
+    "desc": "Cara membangun bisnis dari nol.",
+    "author": "Elon Writer",
+    "price": "$6",
+    "image": "cover6.jpg",
+  "link": "detail.html?id=1"
+  },
+  {
+    "title": "Mindset Sukses",
+    "rating": 4.9,
+    "desc": "Mengubah pola pikir untuk kesuksesan.",
+    "author": "Tony Robbins",
+    "price": "FREE",
+    "image": "cover7.jpg",
+  "link": "detail.html?id=1"
+  },
+  {
+    "title": "Crypto Trading Basics",
+    "rating": 4.3,
+    "desc": "Dasar trading cryptocurrency.",
+    "author": "Satoshi Guide",
+    "price": "$8",
+    "image": "cover8.jpg",
+  "link": "detail.html?id=1"
+  },
+  {
+    "title": "Design UI/UX",
+    "rating": 4.7,
+    "desc": "Belajar desain aplikasi modern.",
+    "author": "Sarah UI",
+    "price": "$9",
+    "image": "cover9.jpg",
+  "link": "detail.html?id=1"
+  },
+  {
+    "title": "Data Science Intro",
+    "rating": 4.6,
+    "desc": "Dasar data science untuk pemula.",
+    "author": "Kevin Data",
+    "price": "$12",
+    "image": "cover10.jpg",
+  "link": "detail.html?id=1"
+  },
+
+  {
+    "title": "React JS Guide",
+    "rating": 4.8,
+    "desc": "Belajar React dari dasar sampai project.",
+    "author": "Dan Abramov",
+    "price": "$11",
+    "image": "cover11.jpg",
+  "link": "detail.html?id=1"
+  },
+  {
+    "title": "Node.js Mastery",
+    "rating": 4.5,
+    "desc": "Backend development dengan Node.js.",
+    "author": "Ryan Dahl",
+    "price": "$10",
+    "image": "cover12.jpg",
+  "link": "detail.html?id=1"
+  },
+  {
+    "title": "Machine Learning Basics",
+    "rating": 4.7,
+    "desc": "Dasar machine learning mudah dipahami.",
+    "author": "AI Expert",
+    "price": "$15",
+    "image": "cover13.jpg",
+  "link": "detail.html?id=1"
+  },
+  {
+    "title": "Public Speaking",
+    "rating": 4.4,
+    "desc": "Cara berbicara percaya diri di depan umum.",
+    "author": "Chris Voice",
+    "price": "FREE",
+    "image": "cover14.jpg",
+  "link": "detail.html?id=1"
+  },
+  {
+    "title": "Personal Finance",
+    "rating": 4.6,
+    "desc": "Mengatur keuangan pribadi dengan benar.",
+    "author": "Robert Kiyosaki",
+    "price": "$6",
+    "image": "cover15.jpg",
+  "link": "detail.html?id=1"
+  },
+  {
+    "title": "Marketing Psychology",
+    "rating": 4.7,
+    "desc": "Rahasia psikologi dalam marketing.",
+    "author": "Philip Kotler",
+    "price": "$9",
+    "image": "cover16.jpg",
+  "link": "detail.html?id=1"
+  },
+  {
+    "title": "SEO Mastery",
+    "rating": 4.5,
+    "desc": "Optimasi website agar muncul di Google.",
+    "author": "SEO Guru",
+    "price": "$8",
+    "image": "cover17.jpg",
+  "link": "detail.html?id=1"
+  },
+  {
+    "title": "Affiliate Marketing",
+    "rating": 4.4,
+    "desc": "Cara menghasilkan uang dari affiliate.",
+    "author": "Affiliate Pro",
+    "price": "$5",
+    "image": "cover18.jpg",
+  "link": "detail.html?id=1"
+  },
+  {
+    "title": "Web Design Modern",
+    "rating": 4.6,
+    "desc": "Desain website modern dan responsive.",
+    "author": "UI Master",
+    "price": "$7",
+    "image": "cover19.jpg",
+  "link": "detail.html?id=1"
+  },
+  {
+    "title": "Startup Secrets",
+    "rating": 4.8,
+    "desc": "Rahasia membangun startup sukses.",
+    "author": "Startup Founder",
+    "price": "$12",
+    "image": "cover20.jpg",
+  "link": "detail.html?id=1"
+  },
+
+  {
+    "title": "Leadership Skills",
+    "rating": 4.7,
+    "desc": "Cara menjadi pemimpin yang baik.",
+    "author": "John Maxwell",
+    "price": "$8",
+    "image": "cover21.jpg",
+  "link": "detail.html?id=1"
+  },
+  {
+    "title": "Time Management",
+    "rating": 4.5,
+    "desc": "Mengatur waktu agar lebih produktif.",
+    "author": "Brian Tracy",
+    "price": "FREE",
+    "image": "cover22.jpg",
+  "link": "detail.html?id=1"
+  },
+  {
+    "title": "Networking Guide",
+    "rating": 4.3,
+    "desc": "Cara membangun relasi profesional.",
+    "author": "Linked Expert",
+    "price": "$4",
+    "image": "cover23.jpg",
+  "link": "detail.html?id=1"
+  },
+  {
+    "title": "Coding Interview Prep",
+    "rating": 4.8,
+    "desc": "Persiapan interview programmer.",
+    "author": "Tech HR",
+    "price": "$10",
+    "image": "cover24.jpg",
+  "link": "detail.html?id=1"
+  },
+  {
+    "title": "Android Development",
+    "rating": 4.6,
+    "desc": "Belajar membuat aplikasi Android.",
+    "author": "Google Dev",
+    "price": "$9",
+    "image": "cover25.jpg",
+  "link": "detail.html?id=1"
+  },
+  {
+    "title": "iOS Development",
+    "rating": 4.5,
+    "desc": "Belajar Swift dan iOS apps.",
+    "author": "Apple Dev",
+    "price": "$11",
+    "image": "cover26.jpg",
+  "link": "detail.html?id=1"
+  },
+  {
+    "title": "Cloud Computing",
+    "rating": 4.7,
+    "desc": "Dasar AWS dan cloud system.",
+    "author": "Cloud Expert",
+    "price": "$13",
+    "image": "cover27.jpg",
+  "link": "detail.html?id=1"
+  },
+  {
+    "title": "Cyber Security Basics",
+    "rating": 4.6,
+    "desc": "Keamanan data dan sistem.",
+    "author": "Security Pro",
+    "price": "$12",
+    "image": "cover28.jpg",
+  "link": "detail.html?id=1"
+  },
+  {
+    "title": "Freelancing Guide",
+    "rating": 4.8,
+    "desc": "Cara kerja freelance online.",
+    "author": "Freelance Master",
+    "price": "FREE",
+    "image": "cover29.jpg",
+  "link": "detail.html?id=1"
+  },
+  {
+    "title": "E-commerce Success",
+    "rating": 4.7,
+    "desc": "Bangun toko online sukses.",
+    "author": "Shop Expert",
+    "price": "$10",
+    "image": "cover30.jpg",
+  "link": "detail.html?id=1"
+  }
+]
