@@ -2,41 +2,77 @@
   "trending": {
     "movie": [
       {
-        "title": "Avengers: Endgame",
-        "poster": "https://image.tmdb.org/t/p/w300/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
-        "url": "https://www.themoviedb.org/movie/299534"
+        "id": 603,
+        "title": "The Matrix",
+        "poster": "https://image.tmdb.org/t/p/w300/1ZJ4o0YJ3Y0dQ8Q0x9v0v0v0v0.jpg",
+        "link": "https://www.themoviedb.org/movie/603"
       },
       {
-        "title": "Spider-Man: No Way Home",
-        "poster": "https://image.tmdb.org/t/p/w300/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
-        "url": "https://www.themoviedb.org/movie/634649"
+        "id": 550,
+        "title": "Fight Club",
+        "poster": "https://image.tmdb.org/t/p/w300/2lECpi35Hnbpa4y46JX0aY3AWTy.jpg",
+        "link": "https://www.themoviedb.org/movie/550"
+      },
+      {
+        "id": 155,
+        "title": "The Dark Knight",
+        "poster": "https://image.tmdb.org/t/p/w300/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+        "link": "https://www.themoviedb.org/movie/155"
+      },
+      {
+        "id": 27205,
+        "title": "Inception",
+        "poster": "https://image.tmdb.org/t/p/w300/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",
+        "link": "https://www.themoviedb.org/movie/27205"
+      },
+      {
+        "id": 157336,
+        "title": "Interstellar",
+        "poster": "https://image.tmdb.org/t/p/w300/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+        "link": "https://www.themoviedb.org/movie/157336"
       }
     ]
   },
 
   "now_playing": [
     {
-      "title": "Deadpool & Wolverine",
-      "poster": "https://image.tmdb.org/t/p/w300/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
-      "url": "https://www.themoviedb.org/movie/533535"
+      "id": 299536,
+      "title": "Avengers: Infinity War",
+      "poster": "https://image.tmdb.org/t/p/w300/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "link": "https://www.themoviedb.org/movie/299536"
     },
     {
-      "title": "Dune: Part Two",
-      "poster": "https://image.tmdb.org/t/p/w300/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
-      "url": "https://www.themoviedb.org/movie/693134"
+      "id": 634649,
+      "title": "Spider-Man: No Way Home",
+      "poster": "https://image.tmdb.org/t/p/w300/5weKu49pzJCt06OPpjvT80efnQj.jpg",
+      "link": "https://www.themoviedb.org/movie/634649"
+    },
+    {
+      "id": 438631,
+      "title": "Dune",
+      "poster": "https://image.tmdb.org/t/p/w300/1OpfHnJbF8n3b5o0q0x0x0x0x0.jpg",
+      "link": "https://www.themoviedb.org/movie/438631"
     }
   ],
 
   "airing_today": [
     {
-      "name": "House of the Dragon",
-      "poster": "https://image.tmdb.org/t/p/w300/1X4h40fcB4WWUmIBK0auT4zRBAV.jpg",
-      "url": "https://www.themoviedb.org/tv/94997"
+      "id": 1399,
+      "name": "Game of Thrones",
+      "poster": "https://image.tmdb.org/t/p/w300/7WUHnWGx5OO145IRxPDUkQSh4C7.jpg",
+      "link": "https://www.themoviedb.org/tv/1399"
     },
     {
-      "name": "Loki",
-      "poster": "https://image.tmdb.org/t/p/w300/voHUmluYmKyleFkTu3lOXQG702u.jpg",
-      "url": "https://www.themoviedb.org/tv/84958"
+      "id": 1402,
+      "name": "The Walking Dead",
+      "poster": "https://image.tmdb.org/t/p/w300/y4zYjbbQvlZL0zR4t7h0x0x0x0.jpg",
+      "link": "https://www.themoviedb.org/tv/1402"
+    },
+    {
+      "id": 60735,
+      "name": "The Flash",
+      "poster": "https://image.tmdb.org/t/p/w300/wHa6KOJAoNTFLFtp7wguUJKSnju.jpg",
+      "link": "https://www.themoviedb.org/tv/60735"
     }
   ]
 }
