@@ -1,12 +1,23 @@
 {
-  "trending": [
+  "site": {
+    "title": "MovieZone",
+    "logo": "MovieZone",
+    "description": "Streaming movie & TV terbaru"
+  },
+
+  "hero": {
+    "title": "Welcome to Movie & TV Streaming",
+    "background": "https://image.tmdb.org/t/p/original/your-hero-bg.jpg",
+    "subtitle": "Watch trending movies & TV shows updated daily"
+  },
+
+  "slider_trending": [
     {
       "id": 299534,
       "type": "movie",
       "title": "Avengers: Endgame",
       "poster": "https://image.tmdb.org/t/p/w300/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
       "rating": 8.7,
-      "year": 2019,
       "url": "https://www.themoviedb.org/movie/299534"
     },
     {
@@ -15,7 +26,6 @@
       "title": "Spider-Man: No Way Home",
       "poster": "https://image.tmdb.org/t/p/w300/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
       "rating": 8.3,
-      "year": 2021,
       "url": "https://www.themoviedb.org/movie/634649"
     },
     {
@@ -24,36 +34,30 @@
       "title": "Game of Thrones",
       "poster": "https://image.tmdb.org/t/p/w300/7WUHnWGx5OO145IRxPDUkQSh4C7.jpg",
       "rating": 9.2,
-      "year": 2011,
       "url": "https://www.themoviedb.org/tv/1399"
     }
   ],
 
-  "now_playing": [
+  "now_playing_movie": [
     {
       "id": 533535,
-      "type": "movie",
       "title": "Deadpool & Wolverine",
       "poster": "https://image.tmdb.org/t/p/w300/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
       "rating": 8.5,
-      "year": 2024,
       "url": "https://www.themoviedb.org/movie/533535"
     },
     {
       "id": 693134,
-      "type": "movie",
       "title": "Dune: Part Two",
       "poster": "https://image.tmdb.org/t/p/w300/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
       "rating": 8.8,
-      "year": 2024,
       "url": "https://www.themoviedb.org/movie/693134"
     }
   ],
 
-  "airing_today": [
+  "airing_today_tv": [
     {
       "id": 94997,
-      "type": "tv",
       "title": "House of the Dragon",
       "poster": "https://image.tmdb.org/t/p/w300/1X4h40fcB4WWUmIBK0auT4zRBAV.jpg",
       "rating": 8.6,
@@ -63,7 +67,6 @@
     },
     {
       "id": 84958,
-      "type": "tv",
       "title": "Loki",
       "poster": "https://image.tmdb.org/t/p/w300/voHUmluYmKyleFkTu3lOXQG702u.jpg",
       "rating": 8.5,
@@ -73,6 +76,21 @@
     }
   ],
 
+  "description_block": {
+    "text": "Discover thousands of movies and TV shows updated daily from TMDB.",
+    "buttons": [
+      { "label": "Go Movie", "target": "#movie" },
+      { "label": "Go TV", "target": "#tv" }
+    ]
+  },
+
+  "quick_links": [
+    { "label": "Now Playing Movie", "href": "#movie" },
+    { "label": "Airing Today TV", "href": "#tv" },
+    { "label": "Trending", "href": "#slider" },
+    { "label": "Top Rated", "href": "#" }
+  ],
+
   "stats": {
     "visitors": 5321,
     "movies": 1200,
@@ -80,8 +98,16 @@
     "online": 128
   },
 
-  "site": {
-    "title": "MovieZone",
-    "description": "Streaming movie & TV update terbaru"
-  }
+  "credit": {
+    "text": "Powered by TMDB API"
+  },
+
+  "footer": [
+    { "label": "Home", "href": "#" },
+    { "label": "Terms", "href": "#" },
+    { "label": "Privacy", "href": "#" },
+    { "label": "DMCA", "href": "#" },
+    { "label": "Contact", "href": "#" },
+    { "label": "Disclaimer", "href": "#" }
+  ]
 }
