@@ -1,3 +1,21 @@
-(data.trending.movie || []).forEach(m => {
-  slider.innerHTML += `<div class="slide">${m.title}</div>`;
-});
+{
+  "trending": {
+    "movie": [
+      { "title": "Avengers: Endgame" },
+      { "title": "Spider-Man: No Way Home" },
+      { "title": "Dune: Part Two" }
+    ]
+  },
+
+  "now_playing": [
+    { "title": "Deadpool & Wolverine" },
+    { "title": "Dune: Part Two" },
+    { "title": "Inside Out 2" }
+  ],
+
+  "airing_today": [
+    { "name": "House of the Dragon" },
+    { "name": "Loki" },
+    { "name": "The Boys" }
+  ]
+}
