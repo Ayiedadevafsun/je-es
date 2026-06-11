@@ -1,21 +1,48 @@
 {
   "trending": {
     "movie": [
-      { "title": "Avengers: Endgame" },
-      { "title": "Spider-Man: No Way Home" },
-      { "title": "Dune: Part Two" }
+      {
+        "title": "Avengers: Endgame",
+        "url": "https://www.themoviedb.org/movie/299534"
+      },
+      {
+        "title": "Spider-Man: No Way Home",
+        "url": "https://www.themoviedb.org/movie/634649"
+      },
+      {
+        "title": "Dune: Part Two",
+        "url": "https://www.themoviedb.org/movie/693134"
+      }
     ]
   },
 
   "now_playing": [
-    { "title": "Deadpool & Wolverine" },
-    { "title": "Dune: Part Two" },
-    { "title": "Inside Out 2" }
+    {
+      "title": "Deadpool & Wolverine",
+      "url": "https://www.themoviedb.org/movie/533535"
+    },
+    {
+      "title": "Inside Out 2",
+      "url": "https://www.themoviedb.org/movie/508883"
+    },
+    {
+      "title": "The Batman",
+      "url": "https://www.themoviedb.org/movie/414906"
+    }
   ],
 
   "airing_today": [
-    { "name": "House of the Dragon" },
-    { "name": "Loki" },
-    { "name": "The Boys" }
+    {
+      "name": "House of the Dragon",
+      "url": "https://www.themoviedb.org/tv/94997"
+    },
+    {
+      "name": "Loki",
+      "url": "https://www.themoviedb.org/tv/84958"
+    },
+    {
+      "name": "The Boys",
+      "url": "https://www.themoviedb.org/tv/76479"
+    }
   ]
 }
