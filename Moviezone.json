@@ -18,6 +18,30 @@
         "link": "/p/movie.html?id=155"
       },
       {
+        "id": 61865,
+        "title": "When Calls the Heart (2014)",
+        "poster": "https://media.themoviedb.org/t/p/w188_and_h282_face/wSQkHb9PBQ2bSjjDtSzazN8opS5.jpg",
+        "rating": 8.5,
+        "type": "TV",
+        "link": "/p/tv.html?id=61865"
+      },
+{
+        "id": 273240,
+        "title": "Off Campus (2026)",
+        "poster": "https://media.themoviedb.org/t/p/w188_and_h282_face/cbODFqkcmRgrYH8NkG4Q4Hcg8Z1.jpg",
+        "rating": 9.0,
+        "type": "TV",
+        "link": "/p/tv.html?id=273240"
+      },
+{
+        "id": 299167,
+        "title": "Dutton Ranch (2026)",
+        "poster": "https://media.themoviedb.org/t/p/w188_and_h282_face/jIz8r1XtWics92iytNVQqWtT9C8.jpg",
+        "rating": 9.3,
+        "type": "TV",
+        "link": "/p/tv.html?id=299167"
+      },
+      {
         "id": 19995,
         "title": "Avatar",
         "poster": "https://image.tmdb.org/t/p/w500/kyeqWdyUXW608qlYkRqosgbbJyK.jpg",
