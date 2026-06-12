@@ -26,7 +26,6 @@
         "link": "/p/movie.html?id=19995"
       }
     ],
-
     "tv": [
       {
         "id": 61865,
@@ -53,8 +52,7 @@
         "link": "/p/tv.html?id=299167"
       }
     ]
-},
-
+  },
   "now_playing": [
     {
       "id": 1275779,
@@ -89,11 +87,10 @@
       "link": "/p/movie.html?id=346698"
     }
   ],
-
   "airing_today": [
-  {
+    {
       "id": 270476,
-      "name": "Widow's Bay (2026)",
+      "title": "Widow's Bay (2026)",
       "poster": "https://media.themoviedb.org/t/p/w188_and_h282_face/vKq8XEJKxQTHd2Bm5zZMFPUrke7.jpg",
       "rating": 8.3,
       "type": "TV",
@@ -101,7 +98,7 @@
     },
     {
       "id": 260592,
-      "name": "Every Year After (2026)",
+      "title": "Every Year After (2026)",
       "poster": "https://media.themoviedb.org/t/p/w188_and_h282_face/ahCjPfWA26qluZPOQItTsLwFvVV.jpg",
       "rating": 8.3,
       "type": "TV",
@@ -109,7 +106,7 @@
     },
     {
       "id": 1399,
-      "name": "Game of Thrones",
+      "title": "Game of Thrones",
       "poster": "https://image.tmdb.org/t/p/w500/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
       "rating": 8.4,
       "type": "TV",
@@ -117,7 +114,7 @@
     },
     {
       "id": 60735,
-      "name": "The Flash",
+      "title": "The Flash",
       "poster": "https://image.tmdb.org/t/p/w500/wHa6KOJAoNTFLFtp7wguUJKSnju.jpg",
       "rating": 7.6,
       "type": "TV",
