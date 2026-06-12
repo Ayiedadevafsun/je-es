@@ -86,7 +86,7 @@ fetch('https://raw.githubusercontent.com/Ayiedadevafsun/je-es/main/X.json')
 let movieYears='';
 let tvYears='';
 
-for(let year=new Date().getFullYear();year>=1950;year--){
+for(let year=new Date().getFullYear();year>=data.startYear;year--){
 
   movieYears += `
     <a href="/p/explore-movies-tv-shows.html?type=movie&year=${year}">
