@@ -7,7 +7,7 @@
         "poster": "https://media.themoviedb.org/t/p/w188_and_h282_face/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
         "rating": 8.4,
         "type": "Movie",
-        "link": "https://www.themoviedb.org/movie/27205"
+        "link": "/p/movie.html?id=27205"
       },
       {
         "id": 155,
@@ -15,7 +15,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
         "rating": 8.5,
         "type": "Movie",
-        "link": "https://www.themoviedb.org/movie/155"
+        "link": "/p/movie.html?id=155"
       },
       {
         "id": 19995,
@@ -23,7 +23,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/kyeqWdyUXW608qlYkRqosgbbJyK.jpg",
         "rating": 7.6,
         "type": "Movie",
-        "link": "https://www.themoviedb.org/movie/19995"
+        "link": "/p/movie.html?id=19995"
       }
     ]
   },
@@ -51,7 +51,7 @@
       "poster": "https://media.themoviedb.org/t/p/w188_and_h282_face/ptpr0kGAckfQkJeJIt8st5dglvd.jpg",
       "rating": 8.1,
       "type": "Movie",
-      "link": "https://www.themoviedb.org/movie/872585"
+      "link": "/p/movie.html?id=872585"
     },
     {
       "id": 346698,
@@ -59,18 +59,34 @@
       "poster": "https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
       "rating": 7.0,
       "type": "Movie",
-      "link": "https://www.themoviedb.org/movie/346698"
+      "link": "/p/movie.html?id=346698"
     }
   ],
 
   "airing_today": [
+  {
+      "id": 270476,
+      "name": "Widow's Bay (2026)",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_face/vKq8XEJKxQTHd2Bm5zZMFPUrke7.jpg",
+      "rating": 8.3,
+      "type": "TV",
+      "link": "/p/tv.html?id=270476"
+    },
+    {
+      "id": 260592,
+      "name": "Every Year After (2026)",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_face/ahCjPfWA26qluZPOQItTsLwFvVV.jpg",
+      "rating": 8.3,
+      "type": "TV",
+      "link": "/p/tv.html?id=260592"
+    },
     {
       "id": 1399,
       "name": "Game of Thrones",
       "poster": "https://image.tmdb.org/t/p/w500/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
       "rating": 8.4,
       "type": "TV",
-      "link": "https://www.themoviedb.org/tv/1399"
+      "link": "/p/tv.html?id=1399"
     },
     {
       "id": 60735,
@@ -78,7 +94,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/wHa6KOJAoNTFLFtp7wguUJKSnju.jpg",
       "rating": 7.6,
       "type": "TV",
-      "link": "https://www.themoviedb.org/tv/60735"
+      "link": "/p/tv.html?id=60735"
     }
   ]
 }
