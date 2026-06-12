@@ -30,12 +30,20 @@
 
   "now_playing": [
     {
+      "id": 1275779,
+      "title": "Disclosure Day (2026)",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_face/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+      "rating": 7,4,
+      "type": "Movie",
+      "link": "/p/movie.html?id=693134"
+    },
+    {
       "id": 693134,
       "title": "Dune: Part Two",
       "poster": "https://image.tmdb.org/t/p/w500/8b8R8l88Qje9dn9OE8PY05Nxl1X.jpg",
       "rating": 8.6,
       "type": "Movie",
-      "link": "https://www.themoviedb.org/movie/693134"
+      "link": "/p/movie.html?id=693134"
     },
     {
       "id": 872585,
