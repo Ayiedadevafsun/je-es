@@ -2,61 +2,75 @@
   "trending": {
     "movie": [
       {
-        "title": "The Matrix",
-        "poster": "https://image.tmdb.org/t/p/w300/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
-        "link": "https://www.themoviedb.org/movie/603"
-      },
-      {
-        "title": "Fight Club",
-        "poster": "https://image.tmdb.org/t/p/w300/bptfVGEQuv6vDTIMVCHjJ9Dz8PX.jpg",
-        "link": "https://www.themoviedb.org/movie/550"
-      },
-      {
-        "title": "Interstellar",
-        "poster": "https://image.tmdb.org/t/p/w300/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
-        "link": "https://www.themoviedb.org/movie/157336"
-      },
-      {
+        "id": 27205,
         "title": "Inception",
-        "poster": "https://image.tmdb.org/t/p/w300/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/qmDpIHrmpJINaRKAfWQfftjCdyi.jpg",
+        "rating": 8.4,
+        "type": "Movie",
         "link": "https://www.themoviedb.org/movie/27205"
+      },
+      {
+        "id": 155,
+        "title": "The Dark Knight",
+        "poster": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+        "rating": 8.5,
+        "type": "Movie",
+        "link": "https://www.themoviedb.org/movie/155"
+      },
+      {
+        "id": 19995,
+        "title": "Avatar",
+        "poster": "https://image.tmdb.org/t/p/w500/kyeqWdyUXW608qlYkRqosgbbJyK.jpg",
+        "rating": 7.6,
+        "type": "Movie",
+        "link": "https://www.themoviedb.org/movie/19995"
       }
     ]
   },
 
   "now_playing": [
     {
-      "title": "Avengers: Endgame",
-      "poster": "https://image.tmdb.org/t/p/w300/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
-      "link": "https://www.themoviedb.org/movie/299534"
+      "id": 693134,
+      "title": "Dune: Part Two",
+      "poster": "https://image.tmdb.org/t/p/w500/8b8R8l88Qje9dn9OE8PY05Nxl1X.jpg",
+      "rating": 8.6,
+      "type": "Movie",
+      "link": "https://www.themoviedb.org/movie/693134"
     },
     {
-      "title": "The Dark Knight",
-      "poster": "https://image.tmdb.org/t/p/w300/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
-      "link": "https://www.themoviedb.org/movie/155"
+      "id": 872585,
+      "title": "Oppenheimer",
+      "poster": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDk2E5G8B4r2v1z.jpg",
+      "rating": 8.1,
+      "type": "Movie",
+      "link": "https://www.themoviedb.org/movie/872585"
     },
     {
-      "title": "Spider-Man: No Way Home",
-      "poster": "https://image.tmdb.org/t/p/w300/5weKu49pzJCt06OPpjvT80efnQj.jpg",
-      "link": "https://www.themoviedb.org/movie/634649"
+      "id": 346698,
+      "title": "Barbie",
+      "poster": "https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "rating": 7.0,
+      "type": "Movie",
+      "link": "https://www.themoviedb.org/movie/346698"
     }
   ],
 
   "airing_today": [
     {
+      "id": 1399,
       "name": "Game of Thrones",
-      "poster": "https://image.tmdb.org/t/p/w300/7WUHnWGx5OO145IRxPDUkQSh4C7.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+      "rating": 8.4,
+      "type": "TV",
       "link": "https://www.themoviedb.org/tv/1399"
     },
     {
+      "id": 60735,
       "name": "The Flash",
-      "poster": "https://image.tmdb.org/t/p/w300/wHa6KOJAoNTFLFtp7wguUJKSnju.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/wHa6KOJAoNTFLFtp7wguUJKSnju.jpg",
+      "rating": 7.6,
+      "type": "TV",
       "link": "https://www.themoviedb.org/tv/60735"
-    },
-    {
-      "name": "Arrow",
-      "poster": "https://image.tmdb.org/t/p/w300/khKJwHxgXSpDl3iKGJ5Sx8b4z5W.jpg",
-      "link": "https://www.themoviedb.org/tv/1412"
     }
   ]
 }
