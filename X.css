@@ -8,7 +8,6 @@
   display:flex;
   gap:10px;
   margin-bottom:20px;
-  flex-wrap:wrap;
 }
 
 .tab-btn{
@@ -18,7 +17,6 @@
   cursor:pointer;
   background:#222;
   color:#fff;
-  transition:.2s;
 }
 
 .tab-btn.active{
@@ -47,7 +45,6 @@
   background:#1a1a1a;
   border-radius:6px;
   font-size:13px;
-  transition:.2s;
 }
 
 .link-list a:hover{
@@ -55,7 +52,7 @@
   background:#222;
 }
 
-.explore-tabs h3{
+h3{
   margin:20px 0 10px;
   font-size:16px;
 }
