@@ -1,0 +1,556 @@
+"Nanggroe Aceh Darussalam": {
+  "Subussalam": "0627",
+  "Kutacane": "0629",
+  "Langsa": "0641",
+  "Blangkejeren": "0642",
+  "Takengon": "0643",
+  "Bireuen": "0644",
+  "Lhokseumawe": "0645",
+  "Idi": "0646",
+  "Sinabang (Simeulue)": "0650",
+  "Banda Aceh": "0651",
+  "Jantho": "0651",
+  "Lamno": "0651",
+  "Sabang": "0652",
+  "Sigli": "0653",
+  "Calang": "0654",
+  "Meulaboh": "0655",
+  "Tapaktuan": "0656",
+  "Bakongan": "0657",
+  "Singkil": "0658",
+  "Blangpidie": "0659"
+},
+"Sumatra Utara": {
+  "Medan": "061",
+  "Binjai": "061",
+  "Stabat": "061",
+  "Pangkalanbrandan": "0620",
+  "Tebingtinggi": "0621",
+  "Pematangsiantar": "0622",
+  "Kisaran": "0623",
+  "Tanjungbalai": "0623",
+  "Rantauprapat": "0624",
+  "Parapat": "0625",
+  "Pangururan": "0626",
+  "Sidikalang": "0627",
+  "Salak": "0627",
+  "Karo": "0628",
+  "Telukdalam": "0630",
+  "Sibolga": "0631",
+  "Balige": "0632",
+  "Tarutung": "0633",
+  "Padangsidempuan": "0634",
+  "Panyabungan": "0636",
+  "Barus": "0638",
+  "Gunungsitoli": "0639"
+},
+"Sumatra Barat": {
+  "Padang": "0751",
+  "Pariaman": "0751",
+  "Bukittinggi": "0752",
+  "Batusangkar": "0752",
+  "Padangpanjang": "0752",
+  "Payakumbuh": "0752",
+  "Lubuksikaping": "0753",
+  "Sawahlunto": "0754",
+  "Solok": "0755",
+  "Alahanpanjang": "0755",
+  "Painan": "0756",
+  "Balaiselasa": "0757",
+  "Muarasiberut": "0759"
+},
+
+"Riau": {
+  "Telukkuantan": "0760",
+  "Pekanbaru": "0761",
+  "Pangkalankerinci": "0761",
+  "Rumbai": "0761",
+  "Bangkinang": "0762",
+  "Selatpanjang": "0763",
+  "Siak Sri Indrapura": "0764",
+  "Dumai": "0765",
+  "Duri": "0765",
+  "Bengkalis": "0766",
+  "Bagan Siapi-api": "0767",
+  "Tembilahan": "0768",
+  "Rengat": "0769",
+  "Airmolek": "0769"
+},
+
+"Kepulauan Riau": {
+  "Tanjungpinang": "0771",
+  "Terempa": "0772",
+  "Ranai": "0773",
+  "Dabosingkep": "0776",
+  "Tanjungbalai Karimun": "0777",
+  "Batam": "0778",
+  "Kabil": "0778",
+  "Nongsa": "0778",
+  "Tanjungbatu": "0779"
+},
+
+"Jambi": {
+  "Jambi": "0741",
+  "Kualatungkal": "0742",
+  "Muarabulian": "0743",
+  "Muaratebo": "0744",
+  "Sarolangun": "0745",
+  "Bangko": "0746",
+  "Muarabungo": "0747",
+  "Sungaipenuh": "0748"
+},
+
+"Sumatra Selatan": {
+  "Palembang": "0711",
+  "Pangkalanbalai": "0711",
+  "Betung": "0711",
+  "Kayuagung": "0712",
+  "Prabumulih": "0713",
+  "Sekayu": "0714",
+  "Lahat": "0731",
+  "Pendopo": "0733",
+  "Lubuk Linggau": "0733",
+  "Muaraenim": "0734",
+  "Baturaja": "0735"
+},
+"Bangka-Belitung": {
+  "Belinyu": "0715",
+  "Muntok": "0716",
+  "Pangkalpinang": "0717",
+  "Sungailiat": "0717",
+  "Koba": "0718",
+  "Toboali": "0718",
+  "Manggar": "0719",
+  "Tanjungpandan": "0719"
+},
+
+"Bengkulu": {
+  "Curup": "0732",
+  "Bengkulu": "0736",
+  "Tais": "0736",
+  "Argamakmur": "0737",
+  "Mukomuko": "0737",
+  "Muara Aman": "0738",
+  "Bintuan": "0739",
+  "Manna": "0739"
+},
+
+"Lampung": {
+  "Bandarlampung": "0721",
+  "Kotabumi": "0724",
+  "Metro": "0725",
+  "Menggala": "0726",
+  "Kalianda": "0727",
+  "Liwa": "0728",
+  "Pringsewu": "0729"
+},
+
+"Jakarta Raya": {
+  "Jakarta": "021",
+  "Depok": "021",
+  "Tangerang": "021",
+  "Bekasi": "021"
+},
+
+"Banten": {
+  "Rangkasbitung": "0252",
+  "Pandeglang": "0253",
+  "Labuan": "0253",
+  "Serang": "0254",
+  "Cilegon": "0254",
+  "Merak": "0254"
+},
+
+"Jawa Barat": {
+  "Bandung": "022",
+  "Cimahi": "022",
+  "Soreang": "022",
+  "Lembang": "022",
+  "Cirebon": "0231",
+  "Losari": "0231",
+  "Kuningan": "0232",
+  "Majalengka": "0233",
+  "Kadipaten": "0233",
+  "Indramayu": "0234",
+  "Jatibarang": "0234",
+  "Bogor": "0251",
+  "Pasauran": "0257",
+  "Subang": "0260",
+  "Pamanukan": "0260",
+  "Sumedang": "0261",
+  "Garut": "0262",
+  "Cianjur": "0263",
+  "Purwakarta": "0264",
+  "Tasikmalaya": "0265",
+  "Banjar": "0265",
+  "Ciamis": "0265",
+  "Pangandaran": "0265",
+  "Sukabumi": "0266",
+  "Pelabuhan Ratu": "0266",
+  "Karawang": "0267"
+},
+"Jawa Tengah": {
+  "Semarang": "024",
+  "Ungaran": "024",
+
+  "Surakarta (Solo)": "0271",
+  "Kartasura": "0271",
+  "Sukoharjo": "0271",
+  "Karanganyar": "0271",
+  "Sragen": "0271",
+
+  "Klaten": "0272",
+  "Wonogiri": "0273",
+  "Purworejo": "0275",
+  "Boyolali": "0276",
+
+  "Majenang": "0280",
+  "Sidareja": "0280",
+
+  "Purwokerto": "0281",
+  "Banyumas": "0281",
+  "Purbalingga": "0281",
+
+  "Cilacap": "0282",
+
+  "Tegal": "0283",
+  "Slawi": "0283",
+  "Brebes": "0283",
+
+  "Pemalang": "0284",
+
+  "Pekalongan": "0285",
+  "Batang": "0285",
+
+  "Banjarnegara": "0286",
+  "Wonosobo": "0286",
+
+  "Kebumen": "0287",
+  "Gombong": "0287",
+
+  "Bumiayu": "0289",
+
+  "Demak": "0291",
+  "Jepara": "0291",
+  "Kudus": "0291",
+
+  "Purwodadi": "0292",
+
+  "Magelang": "0293",
+  "Mungkid": "0293",
+  "Temanggung": "0293",
+
+  "Kendal": "0294",
+  "Kaliwungu": "0294",
+  "Weleri": "0294",
+
+  "Pati": "0295",
+  "Rembang": "0295",
+  "Lasem": "0295",
+
+  "Blora": "0296",
+  "Cepu": "0296",
+
+  "Karimun Jawa": "0297",
+
+  "Salatiga": "0298",
+  "Ambarawa": "0298"
+},
+
+"DI Yogyakarta": {
+  "Yogyakarta": "0274",
+  "Sleman": "0274",
+  "Wates": "0274",
+  "Bantul": "0274",
+  "Wonosari": "0274"
+},
+
+"Jawa Timur": {
+  "Surabaya": "031",
+  "Gresik": "031",
+  "Sidoarjo": "031",
+  "Bangkalan": "031",
+
+  "Mojokerto": "0321",
+  "Jombang": "0321",
+
+  "Lamongan": "0322",
+  "Babat": "0322",
+
+  "Sampang": "0323",
+  "Pamekasan": "0324",
+
+  "Sangkapura": "0325",
+
+  "Kepulauan Kangean": "0327",
+  "Kepulauan Masalembu": "0327",
+
+  "Sumenep": "0328",
+
+  "Jember": "0331",
+
+  "Bondowoso": "0332",
+  "Sukosari": "0332",
+  "Prajekan": "0332",
+
+  "Banyuwangi": "0333",
+  "Muncar": "0333",
+
+  "Lumajang": "0334",
+
+  "Probolinggo": "0335",
+  "Kraksaan": "0335",
+
+  "Ambulu": "0336",
+  "Puger": "0336",
+
+  "Situbondo": "0338",
+  "Besuki": "0338",
+
+  "Malang": "0341",
+  "Kepanjen": "0341",
+  "Batu": "0341",
+
+  "Blitar": "0342",
+  "Wlingi": "0342",
+
+  "Pasuruan": "0343",
+  "Pandaan": "0343",
+  "Gempol": "0343",
+
+  "Madiun": "0351",
+  "Caruban": "0351",
+  "Magetan": "0351",
+  "Ngawi": "0351",
+
+  "Ponorogo": "0352",
+  "Bojonegoro": "0353",
+
+  "Kediri": "0354",
+  "Pare": "0354",
+
+  "Tulungagung": "0355",
+  "Trenggalek": "0355",
+
+  "Tuban": "0356",
+  "Pacitan": "0357",
+
+  "Nganjuk": "0358",
+  "Kertosono": "0358"
+},
+"Bali": {
+  "Denpasar": "0361",
+  "Gianyar": "0361",
+  "Kuta": "0361",
+  "Tabanan": "0361",
+  "Tampaksiring": "0361",
+  "Ubud": "0361",
+
+  "Singaraja": "0362",
+  "Amlapura": "0363",
+
+  "Negara": "0365",
+  "Gilimanuk": "0365",
+
+  "Klungkung": "0366",
+  "Kintamani": "0366",
+
+  "Baturiti": "0368"
+},
+
+"Nusa Tenggara Barat": {
+  "Mataram": "0370",
+  "Praya": "0370",
+
+  "Sumbawa": "0371",
+
+  "Alas": "0372",
+  "Taliwang": "0372",
+
+  "Dompu": "0373",
+  "Bima": "0374",
+
+  "Selong": "0376"
+},
+
+"Nusa Tenggara Timur": {
+  "Kupang": "0380",
+  "Baa (Roti)": "0380",
+
+  "Ende": "0381",
+  "Maumere": "0382",
+  "Larantuka": "0383",
+  "Bajawa": "0384",
+
+  "Labuhanbajo": "0385",
+  "Ruteng": "0385",
+
+  "Kalabahi": "0386",
+
+  "Waingapu": "0387",
+  "Waikabubak": "0387",
+
+  "Kefamenanu": "0388",
+  "Soe": "0388",
+
+  "Atambua": "0389"
+},
+
+"Kalimantan Barat": {
+  "Pontianak": "0561",
+  "Mempawah": "0561",
+
+  "Sambas": "0562",
+  "Singkawang": "0562",
+  "Bengkayang": "0562",
+
+  "Ngabang": "0563",
+  "Sanggau": "0564",
+  "Sintang": "0565",
+
+  "Putussibau": "0567",
+
+  "Nangapinoh": "0568"
+},
+"Kalimantan Tengah": {
+  "Kualakapuas": "0513",
+  "Pulangpisau": "0513",
+
+  "Muarateweh": "0519",
+
+  "Ampah": "0522",
+
+  "Buntok": "0525",
+
+  "Tamianglayang": "0526",
+
+  "Purukcahu": "0528",
+
+  "Sampit": "0531",
+
+  "Pangkalanbun": "0532",
+  "Kumai": "0532",
+
+  "Kendawangan": "0534",
+
+  "Palangkaraya": "0536",
+  "Kasongan": "0536",
+
+  "Kualakurun": "0537",
+  "Kualapembuang": "0538",
+  "Kualakuayan": "0539"
+},
+
+"Kalimantan Selatan": {
+  "Banjarmasin": "0511",
+  "Banjarbaru": "0511",
+  "Martapura": "0511",
+  "Marabahan": "0511",
+
+  "Pelaihari": "0512",
+
+  "Kandangan": "0517",
+  "Barabai": "0517",
+  "Rantau": "0517",
+  "Negara": "0517",
+
+  "Kotabaru": "0518",
+  "Batulicin": "0518",
+
+  "Tanjung": "0526",
+  "Amuntai": "0527"
+},
+
+"Kalimantan Timur": {
+  "Samarinda": "0541",
+  "Tenggarong": "0541",
+
+  "Balikpapan": "0542",
+  "Tanahgrogot": "0543",
+  "Melak": "0545",
+
+  "Bontang": "0548",
+  "Sangatta": "0549",
+
+  "Tarakan": "0551",
+  "Tanjungselor": "0552",
+  "Malinau": "0553",
+  "Tanjungredeb": "0554",
+  "Nunukan": "0556"
+},
+
+"Sulawesi Utara": {
+  "Amurang": "0430",
+
+  "Manado": "0431",
+  "Tomohon": "0431",
+  "Tondano": "0431",
+
+  "Tahuna": "0432",
+
+  "Kotamobagu": "0434",
+
+  "Bitung": "0438"
+},
+"Sulawesi Tenggara": {
+  "Kendari": "0401",
+  "Baubau": "0402",
+  "Raha": "0403",
+  "Wanci": "0404",
+  "Kolaka": "0405",
+  "Unaaha": "0408"
+},
+
+"Maluku dan Maluku Utara": {
+  "Bandaneira": "0910",
+  "Ambon": "0911",
+  "Namlea": "0913",
+  "Masohi": "0914",
+  "Bula": "0915",
+  "Tual": "0916",
+  "Dobo": "0917",
+  "Saumlaku": "0918",
+  "Soasiu": "0921",
+  "Jailolo": "0922",
+  "Morotai": "0923",
+  "Tobelo": "0924",
+  "Labuha": "0927",
+  "Sanana": "0929",
+  "Saparua": "0931"
+},
+
+"Papua dan Irian Jaya Barat": {
+  "Timika": "0901",
+  "Freeport": "0901",
+  "Tembagapura": "0901",
+
+  "Agats (Asmat)": "0902",
+
+  "Sorong": "0951",
+  "Teminabuan": "0952",
+
+  "Bintuni": "0955",
+  "Fakfak": "0956",
+  "Kaimana": "0957",
+
+  "Sarmi": "0966",
+
+  "Jayapura": "0967",
+  "Abepura": "0967",
+
+  "Wamena": "0969",
+
+  "Merauke": "0971",
+
+  "Tanahmerah": "0975",
+
+  "Ransiki": "0980",
+
+  "Biak": "0981",
+
+  "Serui": "0983",
+
+  "Nabire": "0984",
+
+  "Manokwari": "0986"
+}
