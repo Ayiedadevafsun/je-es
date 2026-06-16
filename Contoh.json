@@ -1,11 +1,42 @@
-[
-  {
-    "id":"Niat",
-    "title":"Niat Shalat",
-    "arab":"نَوَيْتُ أَنْ أُصَلِّيَ فَرْضَ الصُّبْحِ رَكْعَتَيْنِ مُسْتَقْبِلَ الْقِبْلَةِ أَدَاءً لِلّٰهِ تَعَالَى",
-    "latin":"Nawaitu an ushalliya fardhash-shubhi rak'ataini mustaqbilal qiblati adaa'an lillaahi ta'aalaa",
-    "arti":"Saya niat shalat fardhu Subuh dua rakaat menghadap kiblat karena Allah Ta'ala."
-  },
+[{
+  "id":"Niat",
+  "title":"Niat Shalat",
+  "image":"https://example.com/niat.jpg",
+
+  "options":[
+
+    {
+      "title":"Niat Shalat Subuh",
+      "arab":"نَوَيْتُ أَنْ أُصَلِّيَ فَرْضَ الصُّبْحِ...",
+      "latin":"Nawaitu an ushalliya fardhash shubhi...",
+      "arti":"Saya niat shalat Subuh..."
+    },
+{
+      "title":"Niat Shalat Dzuhur",
+      "arab":"نَوَيْتُ أَنْ أُصَلِّيَ فَرْضَ الْعَصْرِ...",
+      "latin":"Nawaitu an ushalliya fardhal 'ashri...",
+      "arti":"Saya niat shalat Dzuhur..."
+    },
+    {
+      "title":"Niat Shalat Ashar",
+      "arab":"نَوَيْتُ أَنْ أُصَلِّيَ فَرْضَ الْعَصْرِ...",
+      "latin":"Nawaitu an ushalliya fardhal 'ashri...",
+      "arti":"Saya niat shalat Ashar..."
+    },
+    {
+      "title":"Niat Shalat Maghrib",
+      "arab":"نَوَيْتُ أَنْ أُصَلِّيَ فَرْضَ الْعَصْرِ...",
+      "latin":"Nawaitu an ushalliya fardhal 'ashri...",
+      "arti":"Saya niat shalat Maghrib..."
+    },
+{
+      "title":"Niat Shalat Isya",
+      "arab":"نَوَيْتُ أَنْ أُصَلِّيَ فَرْضَ الْعَصْرِ...",
+      "latin":"Nawaitu an ushalliya fardhal 'ashri...",
+      "arti":"Saya niat shalat Isya..."
+    },
+  ]
+}
   {
     "id":"Takbiratul-Ihram",
     "title":"Takbiratul Ihram",
