@@ -1,0 +1,72 @@
+[
+  {
+    "id":"Niat",
+    "title":"Niat Shalat",
+    "arab":"نَوَيْتُ أَنْ أُصَلِّيَ فَرْضَ الصُّبْحِ رَكْعَتَيْنِ مُسْتَقْبِلَ الْقِبْلَةِ أَدَاءً لِلّٰهِ تَعَالَى",
+    "latin":"Nawaitu an ushalliya fardhash-shubhi rak'ataini mustaqbilal qiblati adaa'an lillaahi ta'aalaa",
+    "arti":"Saya niat shalat fardhu Subuh dua rakaat menghadap kiblat karena Allah Ta'ala."
+  },
+  {
+    "id":"Takbiratul-Ihram",
+    "title":"Takbiratul Ihram",
+    "arab":"اللّٰهُ أَكْبَرُ",
+    "latin":"Allahu Akbar",
+    "arti":"Allah Maha Besar."
+  },
+  {
+    "id":"Doa-Iftitah",
+    "title":"Doa Iftitah",
+    "arab":"اللّٰهُمَّ بَاعِدْ بَيْنِي وَبَيْنَ خَطَايَايَ كَمَا بَاعَدْتَ بَيْنَ الْمَشْرِقِ وَالْمَغْرِبِ",
+    "latin":"Allahumma baa'id bainii wa baina khathaayaaya kamaa baa'adta bainal masyriqi wal maghrib",
+    "arti":"Ya Allah, jauhkanlah antara aku dan kesalahanku sebagaimana Engkau menjauhkan timur dan barat."
+  },
+  {
+    "id":"Al-Fatihah",
+    "title":"Surah Al-Fatihah",
+    "arab":"اللّٰهُ أَكْبَرُ كَبِيرًا وَالْحَمْدُ لِلّٰهِ كَثِيرًا وَسُبْحَانَ اللّٰهِ بُكْرَةً وَأَصِيلًا، إِنِّي وَجَّهْتُ وَجْهِيَ لِلَّذِي فَطَرَ السَّمَاوَاتِ وَالْأَرْضَ حَنِيفًا مُسْلِمًا وَمَا أَنَا مِنَ الْمُشْرِكِينَ، إِنَّ صَلَاتِي وَنُسُكِي وَمَحْيَايَ وَمَمَاتِي لِلّٰهِ رَبِّ الْعَالَمِينَ، لَا شَرِيكَ لَهُ وَبِذَٰلِكَ أُمِرْتُ وَأَنَا مِنَ الْمُسْلِمِينَ",
+  "latin":"Allaahu akbar kabiraa walhamdulillaahi katsiiraa, wa subhaanallaahi bukratan wa ashiilaa. Innii wajjahtu wajhiya lilladzii fatharas samaawaati wal ardha haniifan musliman wa maa anaa minal musyrikiin. Inna shalaatii wa nusukii wa mahyaaya wa mamaatii lillaahi rabbil 'aalamiin. Laa syariika lahu wa bidzaalika umirtu wa ana minal muslimiin.",
+  "arti":"Allah Maha Besar dengan sebesar-besarnya. Segala puji bagi Allah dengan pujian yang banyak. Maha Suci Allah pada waktu pagi dan petang. Sesungguhnya aku menghadapkan wajahku kepada Dzat yang menciptakan langit dan bumi dengan penuh kepasrahan sebagai seorang muslim, dan aku bukanlah termasuk orang-orang musyrik. Sesungguhnya shalatku, ibadahku, hidupku, dan matiku hanyalah untuk Allah Tuhan semesta alam. Tiada sekutu bagi-Nya. Dengan itulah aku diperintahkan dan aku termasuk orang-orang muslim."
+  },
+  {
+    "id":"Ruku",
+    "title":"Bacaan Ruku",
+    "arab":"سُبْحَانَ رَبِّيَ الْعَظِيمِ وَبِحَمْدِهِ (٣×)",
+    "latin":"Subhaana rabbiyal 'adziimi wabihamdihi.",
+  "arti":"Maha Suci Tuhanku Yang Maha Agung dan dengan memuji-Nya."
+  },
+  {
+    "id":"Itidal",
+    "title":"Bacaan I'tidal",
+    "arab":"رَبَّنَا لَكَ الْحَمْدُ مِلْءَ السَّمَاوَاتِ وَمِلْءَ الْأَرْضِ وَمِلْءَ مَا شِئْتَ مِنْ شَيْءٍ بَعْدُ",
+    "latin":"Rabbanaa lakal hamdu mil'us samaawaati wa mil'ul ardhi wa mil'u maa syi'ta min syai'in ba'du.",
+  "arti":"Wahai Tuhan kami, bagi-Mu segala puji sepenuh langit dan sepenuh bumi serta sepenuh apa saja yang Engkau kehendaki setelah itu."
+  },
+  {
+    "id":"Sujud",
+    "title":"Bacaan Sujud",
+    "arab":"سُبْحَانَ رَبِّيَ الْأَعْلَى وَبِحَمْدِهِ (٣×)",
+    "latin":"Subhaana rabbiyal a'laa wabihamdihi.",
+  "arti":"Maha Suci Tuhanku Yang Maha Tinggi dan dengan memuji-Nya."
+  },
+  {
+    "id":"Duduk-Antara-Dua-Sujud",
+    "title":"Duduk Antara Dua Sujud",
+    "arab":"رَبِّ اغْفِرْ لِي وَارْحَمْنِي وَاجْبُرْنِي وَارْفَعْنِي وَارْزُقْنِي وَاهْدِنِي وَعَافِنِي وَاعْفُ عَنِّي",
+    "latin":"Rabbighfir lii warhamnii wajburnii warfa'nii warzuqnii wahdinii wa'aafinii wa'fu 'annii",
+    "arti":"Ya Tuhanku, ampunilah aku, rahmatilah aku, cukupilah aku, angkatlah derajatku, berilah rezeki kepadaku, tunjukilah aku, sehatkanlah aku, dan maafkanlah aku."
+  },
+  {
+    "id":"Tasyahud-Akhir",
+    "title":"Tasyahud Akhir",
+    "arab":"التَّحِيَّاتُ لِلّٰهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ...",
+    "latin":"Attahiyyaatu lillaahi wash shalawaatu wath thayyibaat...",
+    "arti":"Segala penghormatan, keberkahan, shalawat dan kebaikan hanyalah milik Allah..."
+  },
+  {
+    "id":"Salam",
+    "title":"Salam",
+    "arab":"السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللّٰهِ",
+    "latin":"Assalaamu'alaikum warahmatullaah",
+    "arti":"Semoga keselamatan dan rahmat Allah tercurah kepada kalian."
+  }
+]
