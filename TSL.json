@@ -16,37 +16,37 @@
   {
     "id":"Doa-Iftitah",
     "title":"Doa Iftitah",
-    "arab":"اللّٰهُمَّ بَاعِدْ بَيْنِي وَبَيْنَ خَطَايَايَ كَمَا بَاعَدْتَ بَيْنَ الْمَشْرِقِ وَالْمَغْرِبِ",
-    "latin":"Allahumma baa'id bainii wa baina khathaayaaya kamaa baa'adta bainal masyriqi wal maghrib",
-    "arti":"Ya Allah, jauhkanlah antara aku dan kesalahanku sebagaimana Engkau menjauhkan timur dan barat."
+    "arab":"اللّٰهُ أَكْبَرُ كَبِيرًا وَالْحَمْدُ لِلّٰهِ كَثِيرًا وَسُبْحَانَ اللّٰهِ بُكْرَةً وَأَصِيلًا، إِنِّي وَجَّهْتُ وَجْهِيَ لِلَّذِي فَطَرَ السَّمَاوَاتِ وَالْأَرْضَ حَنِيفًا مُسْلِمًا وَمَا أَنَا مِنَ الْمُشْرِكِينَ، إِنَّ صَلَاتِي وَنُسُكِي وَمَحْيَايَ وَمَمَاتِي لِلّٰهِ رَبِّ الْعَالَمِينَ، لَا شَرِيكَ لَهُ وَبِذَٰلِكَ أُمِرْتُ وَأَنَا مِنَ الْمُسْلِمِينَ",
+  "latin":"Allaahu akbar kabiraa walhamdulillaahi katsiiraa, wa subhaanallaahi bukratan wa ashiilaa. Innii wajjahtu wajhiya lilladzii fatharas samaawaati wal ardha haniifan musliman wa maa anaa minal musyrikiin. Inna shalaatii wa nusukii wa mahyaaya wa mamaatii lillaahi rabbil 'aalamiin. Laa syariika lahu wa bidzaalika umirtu wa ana minal muslimiin.",
+  "arti":"Allah Maha Besar dengan sebesar-besarnya. Segala puji bagi Allah dengan pujian yang banyak. Maha Suci Allah pada waktu pagi dan petang. Sesungguhnya aku menghadapkan wajahku kepada Dzat yang menciptakan langit dan bumi dengan penuh kepasrahan sebagai seorang muslim, dan aku bukanlah termasuk orang-orang musyrik. Sesungguhnya shalatku, ibadahku, hidupku, dan matiku hanyalah untuk Allah Tuhan semesta alam. Tiada sekutu bagi-Nya. Dengan itulah aku diperintahkan dan aku termasuk orang-orang muslim."
   },
   {
     "id":"Al-Fatihah",
     "title":"Surah Al-Fatihah",
     "arab":"بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ ۝ الْحَمْدُ لِلّٰهِ رَبِّ الْعَالَمِيْنَ ۝ الرَّحْمٰنِ الرَّحِيْمِ ۝ مَالِكِ يَوْمِ الدِّيْنِ ۝ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِيْنُ ۝ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَ ۝ صِرَاطَ الَّذِيْنَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوْبِ عَلَيْهِمْ وَلَا الضَّالِّيْنَ",
-    "latin":"Bismillaahir rahmaanir rahiim ... waladh-dhaalliin",
-    "arti":"Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang ... dan bukan jalan mereka yang sesat."
+    "latin":"Bismillaahir rahmaanir rahiim. Alhamdu lillaahi rabbil 'aalamiin. Ar-rahmaanir rahiim. Maaliki yaumid diin. Iyyaaka na'budu wa iyyaaka nasta'iin. Ihdinash shiraathal mustaqiim. Shiraathal ladziina an'amta 'alaihim ghairil maghdhuubi 'alaihim waladh-dhaalliin.",
+    "arti":"Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah, Tuhan seluruh alam. Yang Maha Pengasih lagi Maha Penyayang. Pemilik Hari Pembalasan. Hanya kepada-Mu kami menyembah dan hanya kepada-Mu kami memohon pertolongan. Tunjukilah kami jalan yang lurus. (Yaitu) jalan orang-orang yang telah Engkau beri nikmat, bukan jalan mereka yang dimurkai dan bukan (pula) jalan mereka yang sesat."
   },
   {
     "id":"Ruku",
     "title":"Bacaan Ruku",
-    "arab":"سُبْحَانَ رَبِّيَ الْعَظِيمِ",
-    "latin":"Subhaana rabbiyal 'azhiim",
-    "arti":"Maha Suci Tuhanku Yang Maha Agung."
+    "arab":"سُبْحَانَ رَبِّيَ الْعَظِيمِ وَبِحَمْدِهِ (٣×)",
+    "latin":"Subhaana rabbiyal 'adziimi wabihamdihi.",
+  "arti":"Maha Suci Tuhanku Yang Maha Agung dan dengan memuji-Nya."
   },
   {
     "id":"Itidal",
     "title":"Bacaan I'tidal",
-    "arab":"سَمِعَ اللّٰهُ لِمَنْ حَمِدَهُ رَبَّنَا وَلَكَ الْحَمْدُ",
-    "latin":"Sami'allaahu liman hamidah, rabbanaa wa lakal hamd",
-    "arti":"Allah mendengar orang yang memuji-Nya. Wahai Tuhan kami, bagi-Mu segala puji."
+    "arab":"رَبَّنَا لَكَ الْحَمْدُ مِلْءَ السَّمَاوَاتِ وَمِلْءَ الْأَرْضِ وَمِلْءَ مَا شِئْتَ مِنْ شَيْءٍ بَعْدُ",
+    "latin":"Rabbanaa lakal hamdu mil'us samaawaati wa mil'ul ardhi wa mil'u maa syi'ta min syai'in ba'du.",
+  "arti":"Wahai Tuhan kami, bagi-Mu segala puji sepenuh langit dan sepenuh bumi serta sepenuh apa saja yang Engkau kehendaki setelah itu."
   },
   {
     "id":"Sujud",
     "title":"Bacaan Sujud",
-    "arab":"سُبْحَانَ رَبِّيَ الْأَعْلَى",
-    "latin":"Subhaana rabbiyal a'laa",
-    "arti":"Maha Suci Tuhanku Yang Maha Tinggi."
+    "arab":"سُبْحَانَ رَبِّيَ الْأَعْلَى وَبِحَمْدِهِ (٣×)",
+    "latin":"Subhaana rabbiyal a'laa wabihamdihi.",
+  "arti":"Maha Suci Tuhanku Yang Maha Tinggi dan dengan memuji-Nya."
   },
   {
     "id":"Duduk-Antara-Dua-Sujud",
