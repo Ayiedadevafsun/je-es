@@ -23,31 +23,32 @@
 {
 "id":"Al-Fatihah",
 "title":"Surah Al-Fatihah",
+"title":"Surah Al-Fatihah",
 "arab":"بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ ۝ الْحَمْدُ لِلّٰهِ رَبِّ الْعَالَمِيْنَ ۝ الرَّحْمٰنِ الرَّحِيْمِ ۝ مَالِكِ يَوْمِ الدِّيْنِ ۝ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِيْنُ ۝ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَ ۝ صِرَاطَ الَّذِيْنَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوْبِ عَلَيْهِمْ وَلَا الضَّالِّيْنَ",
-"latin":"bismillâhir-raḫmânir-raḫîm ḫamdu lillâhi rabbil-‘âlamîn ar-raḫmânir-raḫîm mâliki yaumid-dîn iyyâka na‘budu wa iyyâka nasta‘în ihdinash-shirâthal-mustaqîm shirâthalladzîna an‘amta ‘alaihim ghairil-maghdlûbi ‘alaihim wa ladl-dlâllîn",
-    "arti":"Dengan nama Allah Yang Maha Pengasih, Maha Penyayang, Segala puji bagi Allah, Tuhan semesta alam, Yang Maha Pengasih lagi Maha Penyayang,Pemilik hari Pembalasan.Hanya kepada Engkaulah kami menyembah dan hanya kepada Engkaulah kami memohon pertolongan. Bimbinglah kami ke jalan yang lurus,(yaitu) jalan orang-orang yang telah Engkau beri nikmat, bukan (jalan) mereka yang dimurkai dan bukan (pula jalan) orang-orang yang sesat."
+"latin":"Bismillaahir rahmaanir rahiim ... waladh-dhaalliin",
+"arti":"Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang ... dan bukan jalan mereka yang sesat."
 },
 {
 "id":"Ruku",
 "title":"Bacaan Ruku",
-"arab":"سُبْحَانَ رَبِّيَ الْعَظِيمِ وَبِحَمْدِهِ (٣×)",
-    "latin":"Subhaana rabbiyal 'adziimi wabihamdihi.",
-  "arti":"Maha Suci Tuhanku Yang Maha Agung dan dengan memuji-Nya."
-  },
+"arab":"سُبْحَانَ رَبِّيَ الْعَظِيمِ",
+"latin":"Subhaana rabbiyal 'azhiim",
+"arti":"Maha Suci Tuhanku Yang Maha Agung."
+},
 {
 "id":"Itidal",
 "title":"Bacaan I'tidal",
-"arab":"رَبَّنَا لَكَ الْحَمْدُ مِلْءَ السَّمَاوَاتِ وَمِلْءَ الْأَرْضِ وَمِلْءَ مَا شِئْتَ مِنْ شَيْءٍ بَعْدُ",
-    "latin":"Rabbanaa lakal hamdu mil'us samaawaati wa mil'ul ardhi wa mil'u maa syi'ta min syai'in ba'du.",
-  "arti":"Wahai Tuhan kami, bagi-Mu segala puji sepenuh langit dan sepenuh bumi serta sepenuh apa saja yang Engkau kehendaki setelah itu."
-  },
+"arab":"سَمِعَ اللّٰهُ لِمَنْ حَمِدَهُ رَبَّنَا وَلَكَ الْحَمْدُ",
+"latin":"Sami'allaahu liman hamidah, rabbanaa wa lakal hamd",
+"arti":"Allah mendengar orang yang memuji-Nya. Wahai Tuhan kami, bagi-Mu segala puji."
+},
 {
 "id":"Sujud",
 "title":"Bacaan Sujud",
-"arab":"سُبْحَانَ رَبِّيَ الْأَعْلَى وَبِحَمْدِهِ (٣×)",
-    "latin":"Subhaana rabbiyal a'laa wabihamdihi.",
-  "arti":"Maha Suci Tuhanku Yang Maha Tinggi dan dengan memuji-Nya."
-  },
+"arab":"سُبْحَانَ رَبِّيَ الْأَعْلَى",
+"latin":"Subhaana rabbiyal a'laa",
+"arti":"Maha Suci Tuhanku Yang Maha Tinggi."
+},
 {
 "id":"Duduk-Antara-Dua-Sujud",
 "title":"Duduk Antara Dua Sujud",
@@ -58,8 +59,8 @@
 {
 "id":"Tasyahud-Akhir",
 "title":"Tasyahud Akhir",
-"arab":"التَّحِيَّاتُ الْمُبَارَكَاتُ الصَّلَوَاتُ الطَّيِّبَاتُ لِلّٰهِ، السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللّٰهِ وَبَرَكَاتُهُ، السَّلَامُ عَلَيْنَا وَعَلَىٰ عِبَادِ اللّٰهِ الصَّالِحِينَ، أَشْهَدُ أَنْ لَا إِلٰهَ إِلَّا اللّٰهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ اللّٰهِ، اللَّهُمَّ صَلِّ عَلَىٰ سَيِّدِنَا مُحَمَّدٍ وَعَلَىٰ آلِ سَيِّدِنَا مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَىٰ سَيِّدِنَا إِبْرَاهِيمَ وَعَلَىٰ آلِ سَيِّدِنَا إِبْرَاهِيمَ، وَبَارِكْ عَلَىٰ سَيِّدِنَا مُحَمَّدٍ وَعَلَىٰ آلِ سَيِّدِنَا مُحَمَّدٍ كَمَا بَارَكْتَ عَلَىٰ سَيِّدِنَا إِبْرَاهِيمَ وَعَلَىٰ آلِ سَيِّدِنَا إِبْرَاهِيمَ فِي الْعَالَمِينَ إِنَّكَ حَمِيدٌ مَجِيدٌ، اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ عَذَابِ الْقَبْرِ وَمِنْ عَذَابِ النَّارِ وَمِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ وَمِنْ فِتْنَةِ الْمَسِيحِ الدَّجَّالِ، يَا مُقَلِّبَ الْقُلُوبِ ثَبِّتْ قَلْبِي عَلَىٰ دِينِكَ",
-    "latin":"Attahiyyaatu lillaahi wash shalawaatu wath thayyibaat...",
+"arab":"التَّحِيَّاتُ لِلّٰهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ...",
+"latin":"Attahiyyaatu lillaahi wash shalawaatu wath thayyibaat...",
 "arti":"Segala penghormatan, keberkahan, shalawat dan kebaikan hanyalah milik Allah..."
 },
 {
