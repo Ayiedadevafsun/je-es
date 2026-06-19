@@ -23,7 +23,7 @@ body,.Blog .blog-posts .post-outer-container{
   background:var(--bg);
   color:var(--text);
 }
-.comments,h3.post-title{display:none}
+.post-title{display:none}
 
 @font-face {
   font-family: "LPMQ";
