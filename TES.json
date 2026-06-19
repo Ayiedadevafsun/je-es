@@ -1,0 +1,466 @@
+[
+  {
+    "group": "Subuh",
+    "rakaat": 2,
+    "id": "subuh",
+    "step": "niat",
+    "title": "Niat Shalat Subuh",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+  {
+    "group": "Subuh",
+    "id": "subuh",
+    "step": "takbiratul-ihram",
+    "title": "Takbiratul Ihram",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+  {
+    "group": "Subuh",
+    "id": "subuh",
+    "step": "doa-iftitah",
+    "title": "Doa Iftitah",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+  {
+    "group": "Subuh",
+    "id": "subuh",
+    "step": "alfatihah",
+    "title": "Al-Fatihah",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+  {
+    "group": "Subuh",
+    "id": "subuh",
+    "step": "surat-pendek",
+    "title": "Surat Pendek",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+  {
+    "group": "Subuh",
+    "id": "subuh",
+    "step": "rukuk",
+    "title": "Rukuk",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+  {
+    "group": "Subuh",
+    "id": "subuh",
+    "step": "itidal",
+    "title": "I'tidal",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+  {
+    "group": "Subuh",
+    "id": "subuh",
+    "step": "sujud-1",
+    "title": "Sujud Pertama",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+  {
+    "group": "Subuh",
+    "id": "subuh",
+    "step": "duduk-antara-dua-sujud",
+    "title": "Duduk di antara dua sujud",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+  {
+    "group": "Subuh",
+    "id": "subuh",
+    "step": "sujud-2",
+    "title": "Sujud Kedua",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+
+  {
+    "group": "Subuh",
+    "id": "subuh",
+    "step": "rakaat-2-alfatihah",
+    "title": "Rakaat Kedua - Al-Fatihah",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+  {
+    "group": "Subuh",
+    "id": "subuh",
+    "step": "rakaat-2-surat",
+    "title": "Rakaat Kedua - Surat Pendek",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+  {
+    "group": "Subuh",
+    "id": "subuh",
+    "step": "rukuk",
+    "title": "Rukuk",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+  {
+    "group": "Subuh",
+    "id": "subuh",
+    "step": "itidal",
+    "title": "I'tidal",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+  {
+    "group": "Subuh",
+    "id": "subuh",
+    "step": "qunut",
+    "title": "Doa Qunut",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+  {
+    "group": "Subuh",
+    "id": "subuh",
+    "step": "sujud-1",
+    "title": "Sujud Pertama",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+  {
+    "group": "Subuh",
+    "id": "subuh",
+    "step": "duduk-antara-dua-sujud",
+    "title": "Duduk di antara dua sujud",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+  {
+    "group": "Subuh",
+    "id": "subuh",
+    "step": "sujud-2",
+    "title": "Sujud Kedua",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+  {
+    "group": "Subuh",
+    "id": "subuh",
+    "step": "tasyahud-akhir",
+    "title": "Tasyahud Akhir",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+  {
+    "group": "Subuh",
+    "id": "subuh",
+    "step": "salam",
+    "title": "Salam",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+
+  {
+    "group": "Dzuhur",
+    "rakaat": 4,
+    "id": "dzuhur",
+    "step": "niat",
+    "title": "Niat Shalat Dzuhur",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+  {
+    "group": "Dzuhur",
+    "id": "dzuhur",
+    "step": "takbiratul-ihram",
+    "title": "Takbiratul Ihram",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+  {
+    "group": "Dzuhur",
+    "id": "dzuhur",
+    "step": "doa-iftitah",
+    "title": "Doa Iftitah",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+  {
+    "group": "Dzuhur",
+    "id": "dzuhur",
+    "step": "alfatihah",
+    "title": "Al-Fatihah",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+  {
+    "group": "Dzuhur",
+    "id": "dzuhur",
+    "step": "surat-pendek",
+    "title": "Surat Pendek",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+  {
+    "group": "Dzuhur",
+    "id": "dzuhur",
+    "step": "rukuk",
+    "title": "Rukuk",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+  {
+    "group": "Dzuhur",
+    "id": "dzuhur",
+    "step": "itidal",
+    "title": "I'tidal",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+  {
+    "group": "Dzuhur",
+    "id": "dzuhur",
+    "step": "sujud-1",
+    "title": "Sujud Pertama",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+  {
+    "group": "Dzuhur",
+    "id": "dzuhur",
+    "step": "duduk-antara-dua-sujud",
+    "title": "Duduk di antara dua sujud",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+  {
+    "group": "Dzuhur",
+    "id": "dzuhur",
+    "step": "sujud-2",
+    "title": "Sujud Kedua",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+
+  {
+    "group": "Dzuhur",
+    "id": "dzuhur",
+    "step": "rakaat-2-alfatihah",
+    "title": "Rakaat Kedua - Al-Fatihah",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+  {
+    "group": "Dzuhur",
+    "id": "dzuhur",
+    "step": "rukuk",
+    "title": "Rukuk",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+  {
+    "group": "Dzuhur",
+    "id": "dzuhur",
+    "step": "itidal",
+    "title": "I'tidal",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+  {
+    "group": "Dzuhur",
+    "id": "dzuhur",
+    "step": "sujud-1",
+    "title": "Sujud Pertama",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+  {
+    "group": "Dzuhur",
+    "id": "dzuhur",
+    "step": "duduk-antara-dua-sujud",
+    "title": "Duduk di antara dua sujud",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+  {
+    "group": "Dzuhur",
+    "id": "dzuhur",
+    "step": "sujud-2",
+    "title": "Sujud Kedua",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+  {
+    "group": "Dzuhur",
+    "id": "dzuhur",
+    "step": "tasyahud-awal",
+    "title": "Tasyahud Awal",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+  {
+    "group": "Dzuhur",
+    "id": "dzuhur",
+    "step": "rakaat-3-alfatihah",
+    "title": "Rakaat Ketiga - Al-Fatihah",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+  {
+    "group": "Dzuhur",
+    "id": "dzuhur",
+    "step": "rukuk",
+    "title": "Rukuk",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+  {
+    "group": "Dzuhur",
+    "id": "dzuhur",
+    "step": "itidal",
+    "title": "I'tidal",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+  {
+    "group": "Dzuhur",
+    "id": "dzuhur",
+    "step": "sujud-1",
+    "title": "Sujud Pertama",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+  {
+    "group": "Dzuhur",
+    "id": "dzuhur",
+    "step": "duduk-antara-dua-sujud",
+    "title": "Duduk di antara dua sujud",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+  {
+    "group": "Dzuhur",
+    "id": "dzuhur",
+    "step": "sujud-2",
+    "title": "Sujud Kedua",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+  {
+    "group": "Dzuhur",
+    "id": "dzuhur",
+    "step": "rakaat-4-alfatihah",
+    "title": "Rakaat Keempat - Al-Fatihah",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+  {
+    "group": "Dzuhur",
+    "id": "dzuhur",
+    "step": "rukuk",
+    "title": "Rukuk",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+  {
+    "group": "Dzuhur",
+    "id": "dzuhur",
+    "step": "itidal",
+    "title": "I'tidal",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+  {
+    "group": "Dzuhur",
+    "id": "dzuhur",
+    "step": "sujud-1",
+    "title": "Sujud Pertama",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+  {
+    "group": "Dzuhur",
+    "id": "dzuhur",
+    "step": "duduk-antara-dua-sujud",
+    "title": "Duduk di antara dua sujud",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+  {
+    "group": "Dzuhur",
+    "id": "dzuhur",
+    "step": "sujud-2",
+    "title": "Sujud Kedua",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+  {
+    "group": "Dzuhur",
+    "id": "dzuhur",
+    "step": "tasyahud-akhir",
+    "title": "Tasyahud Akhir",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+  {
+    "group": "Dzuhur",
+    "id": "dzuhur",
+    "step": "salam",
+    "title": "Salam",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  }
+]
