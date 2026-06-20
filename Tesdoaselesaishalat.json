@@ -1,0 +1,32 @@
+[
+  {
+    "category":"Doa Selesai Shalat",
+    "group":"Doa",
+    "id":"doa",
+    "step":"doa-selesai-shalat",
+    "title":"Doa Selesai Shalat",
+    "arab":"isi",
+    "latin":"isi",
+    "arti":"isi"
+  },
+  {
+    "category":"Wirid",
+    "group":"Doa",
+    "id":"doa",
+    "step":"wirid",
+    "title":"Wirid",
+    "arab":"isi",
+    "latin":"isi",
+    "arti":"isi"
+  },
+  {
+    "category":"Doa Selamat",
+    "group":"Doa",
+    "id":"doa",
+    "step":"doa-selamat",
+    "title":"Doa Selamat",
+    "arab":"isi",
+    "latin":"isi",
+    "arti":"isi"
+  }
+]
