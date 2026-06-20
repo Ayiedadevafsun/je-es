@@ -386,7 +386,7 @@ body,.Blog .blog-posts .post-outer-container{
 }
  .back-btn{
   position:absolute;
-  top:120px;
+  bottom:20px;
   left:20px;
   width:35px;
   height:35px;
