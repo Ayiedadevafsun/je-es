@@ -1,0 +1,42 @@
+[
+  {
+    "category":"Kumpulan Doa",
+    "group":"Kumpulan Doa",
+    "id":"kumpulandoa",
+    "step":"doa-mau-makan",
+    "title":"Doa Mau Makan",
+    "arab":"isi",
+    "latin":"isi",
+    "arti":"isi"
+  },
+  {
+    "category":"Kumpulan Doa",
+    "group":"Kumpulan Doa",
+    "id":"kumpulandoa",
+    "step":"doa-sesudah-makan",
+    "title":"Doa Sesudah Makan",
+    "arab":"isi",
+    "latin":"isi",
+    "arti":"isi"
+  },
+  {
+    "category":"Kumpulan Doa",
+    "group":"Kumpulan Doa",
+    "id":"kumpulandoa",
+    "step":"doa-masuk-masjid",
+    "title":"Doa Masuk Masjid",
+    "arab":"isi",
+    "latin":"isi",
+    "arti":"isi"
+  },
+  {
+    "category":"Kumpulan Doa",
+    "group":"Kumpulan Doa",
+    "id":"kumpulandoa",
+    "step":"doa-keluar-masjid",
+    "title":"Doa Keluar Masjid",
+    "arab":"isi",
+    "latin":"isi",
+    "arti":"isi"
+  }
+]
