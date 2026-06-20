@@ -5,90 +5,90 @@
     "id": "subuh",
     "step": "niat",
     "title": "Niat Shalat Subuh",
-    "arab": "isi",
-    "latin": "isi",
-    "arti": "isi"
-  },
+    "arab":"نَوَيْتُ أُصَلِّي فَرْضَ الصُّبْحِ رَكْعَتَيْنِ مُسْتَقْبِلَ الْقِبْلَةِ أَدَاءً لِلّٰهِ تَعَالَى",
+        "latin":"Nawaitu Usholli fardhol subhi rok'ataini mustaqbilal qiblati adaa-an lillaahi ta'aalaa.",
+  "arti":"Saya niat shalat fardu Subuh dua rakaat menghadap kiblat karena Allah Ta'ala."
+      },
   {
     "group": "Subuh",
     "id": "subuh",
     "step": "takbiratul-ihram",
-    "title": "Takbiratul Ihram",
-    "arab": "isi",
-    "latin": "isi",
-    "arti": "isi"
+    "title":"Takbiratul Ihram",
+    "arab":"اللّٰهُ أَكْبَرُ",
+    "latin":"Allahu Akbar",
+    "arti":"Allah Maha Besar."
   },
   {
     "group": "Subuh",
     "id": "subuh",
     "step": "doa-iftitah",
-    "title": "Doa Iftitah",
-    "arab": "isi",
-    "latin": "isi",
-    "arti": "isi"
+    "title":"Doa Iftitah",
+    "arab":"اللّٰهُ أَكْبَرُ كَبِيرًا وَالْحَمْدُ لِلّٰهِ كَثِيرًا وَسُبْحَانَ اللّٰهِ بُكْرَةً وَأَصِيلًا، إِنِّي وَجَّهْتُ وَجْهِيَ لِلَّذِي فَطَرَ السَّمَاوَاتِ وَالْأَرْضَ حَنِيفًا مُسْلِمًا وَمَا أَنَا مِنَ الْمُشْرِكِينَ، إِنَّ صَلَاتِي وَنُسُكِي وَمَحْيَايَ وَمَمَاتِي لِلّٰهِ رَبِّ الْعَالَمِينَ، لَا شَرِيكَ لَهُ وَبِذَٰلِكَ أُمِرْتُ وَأَنَا مِنَ الْمُسْلِمِينَ",
+  "latin":"Allaahu akbar kabiraa walhamdulillaahi katsiiraa, wa subhaanallaahi bukratan wa ashiilaa. Innii wajjahtu wajhiya lilladzii fatharas samaawaati wal ardha haniifan musliman wa maa anaa minal musyrikiin. Inna shalaatii wa nusukii wa mahyaaya wa mamaatii lillaahi rabbil 'aalamiin. Laa syariika lahu wa bidzaalika umirtu wa ana minal muslimiin.",
+  "arti":"Allah Maha Besar dengan sebesar-besarnya. Segala puji bagi Allah dengan pujian yang banyak. Maha Suci Allah pada waktu pagi dan petang. Sesungguhnya aku menghadapkan wajahku kepada Dzat yang menciptakan langit dan bumi dengan penuh kepasrahan sebagai seorang muslim, dan aku bukanlah termasuk orang-orang musyrik. Sesungguhnya shalatku, ibadahku, hidupku, dan matiku hanyalah untuk Allah Tuhan semesta alam. Tiada sekutu bagi-Nya. Dengan itulah aku diperintahkan dan aku termasuk orang-orang muslim."
   },
   {
     "group": "Subuh",
     "id": "subuh",
     "step": "alfatihah",
-    "title": "Al-Fatihah",
-    "arab": "isi",
-    "latin": "isi",
-    "arti": "isi"
+    "title":"Surah Al-Fatihah",
+    "arab":"بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ ۝ الْحَمْدُ لِلّٰهِ رَبِّ الْعَالَمِيْنَ ۝ الرَّحْمٰنِ الرَّحِيْمِ ۝ مَالِكِ يَوْمِ الدِّيْنِ ۝ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِيْنُ ۝ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَ ۝ صِرَاطَ الَّذِيْنَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوْبِ عَلَيْهِمْ وَلَا الضَّالِّيْنَ",
+    "latin":"Bismillaahir rahmaanir rahiim. Alhamdu lillaahi rabbil 'aalamiin. Ar-rahmaanir rahiim. Maaliki yaumid diin. Iyyaaka na'budu wa iyyaaka nasta'iin. Ihdinash shiraathal mustaqiim. Shiraathal ladziina an'amta 'alaihim ghairil maghdhuubi 'alaihim waladh-dhaalliin.",
+  "arti":"Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah, Tuhan seluruh alam. Yang Maha Pengasih lagi Maha Penyayang. Pemilik Hari Pembalasan. Hanya kepada-Mu kami menyembah dan hanya kepada-Mu kami memohon pertolongan. Tunjukilah kami jalan yang lurus. (Yaitu) jalan orang-orang yang telah Engkau beri nikmat, bukan jalan mereka yang dimurkai dan bukan (pula) jalan mereka yang sesat."
   },
   {
     "group": "Subuh",
     "id": "subuh",
     "step": "surat-pendek",
-    "title": "Surat Pendek",
-    "arab": "isi",
-    "latin": "isi",
-    "arti": "isi"
-  },
+    "title": "Surat Pendek Contoh Surah Al-Kafirun",
+      "arab":"قُلْ يَا أَيُّهَا الْكَافِرُونَ ۝ لَا أَعْبُدُ مَا تَعْبُدُونَ ۝ وَلَا أَنْتُمْ عَابِدُونَ مَا أَعْبُدُ ۝ وَلَا أَنَا عَابِدٌ مَا عَبَدْتُمْ ۝ وَلَا أَنْتُمْ عَابِدُونَ مَا أَعْبُدُ ۝ لَكُمْ دِينُكُمْ وَلِيَ دِينِ",
+      "latin":"Qul yaa ayyuhal kaafiruun. Laa a'budu maa ta'buduun. Wa laa antum 'aabiduuna maa a'bud. Wa laa ana 'aabidum maa 'abadtum. Wa laa antum 'aabiduuna maa a'bud. Lakum diinukum waliya diin.",
+    "arti":"Katakanlah: Wahai orang-orang kafir. Aku tidak akan menyembah apa yang kamu sembah... Untukmu agamamu dan untukku agamaku."
+    },
   {
     "group": "Subuh",
     "id": "subuh",
     "step": "rukuk",
-    "title": "Rukuk",
-    "arab": "isi",
-    "latin": "isi",
-    "arti": "isi"
+    "title":"Bacaan Ruku",
+    "arab":"سُبْحَانَ رَبِّيَ الْعَظِيمِ وَبِحَمْدِهِ (٣×)",
+    "latin":"Subhaana rabbiyal 'adziimi wabihamdihi.",
+  "arti":"Maha Suci Tuhanku Yang Maha Agung dan dengan memuji-Nya."
   },
   {
     "group": "Subuh",
     "id": "subuh",
     "step": "itidal",
-    "title": "I'tidal",
-    "arab": "isi",
-    "latin": "isi",
-    "arti": "isi"
+    "title":"Bacaan I'tidal",
+    "arab":"رَبَّنَا لَكَ الْحَمْدُ مِلْءَ السَّمَاوَاتِ وَمِلْءَ الْأَرْضِ وَمِلْءَ مَا شِئْتَ مِنْ شَيْءٍ بَعْدُ",
+    "latin":"Rabbanaa lakal hamdu mil'us samaawaati wa mil'ul ardhi wa mil'u maa syi'ta min syai'in ba'du.",
+  "arti":"Wahai Tuhan kami, bagi-Mu segala puji sepenuh langit dan sepenuh bumi serta sepenuh apa saja yang Engkau kehendaki setelah itu."
   },
   {
     "group": "Subuh",
     "id": "subuh",
     "step": "sujud-1",
-    "title": "Sujud Pertama",
-    "arab": "isi",
-    "latin": "isi",
-    "arti": "isi"
+    "title":"Bacaan Sujud Pertama",
+    "arab":"سُبْحَانَ رَبِّيَ الْأَعْلَى وَبِحَمْدِهِ (٣×)",
+    "latin":"Subhaana rabbiyal a'laa wabihamdihi.",
+  "arti":"Maha Suci Tuhanku Yang Maha Tinggi dan dengan memuji-Nya."
   },
   {
     "group": "Subuh",
     "id": "subuh",
     "step": "duduk-antara-dua-sujud",
-    "title": "Duduk di antara dua sujud",
-    "arab": "isi",
-    "latin": "isi",
-    "arti": "isi"
+    "title":"Duduk Antara Dua Sujud",
+    "arab":"رَبِّ اغْفِرْ لِي وَارْحَمْنِي وَاجْبُرْنِي وَارْفَعْنِي وَارْزُقْنِي وَاهْدِنِي وَعَافِنِي وَاعْفُ عَنِّي",
+    "latin":"Rabbighfir lii warhamnii wajburnii warfa'nii warzuqnii wahdinii wa'aafinii wa'fu 'annii",
+    "arti":"Ya Tuhanku, ampunilah aku, rahmatilah aku, cukupilah aku, angkatlah derajatku, berilah rezeki kepadaku, tunjukilah aku, sehatkanlah aku, dan maafkanlah aku."
   },
   {
     "group": "Subuh",
     "id": "subuh",
     "step": "sujud-2",
-    "title": "Sujud Kedua",
-    "arab": "isi",
-    "latin": "isi",
-    "arti": "isi"
+    "title":"Bacaan Sujud Kedua",
+    "arab":"سُبْحَانَ رَبِّيَ الْأَعْلَى وَبِحَمْدِهِ (٣×)",
+    "latin":"Subhaana rabbiyal a'laa wabihamdihi.",
+  "arti":"Maha Suci Tuhanku Yang Maha Tinggi dan dengan memuji-Nya."
   },
 
   {
@@ -96,9 +96,9 @@
     "id": "subuh",
     "step": "rakaat-2-alfatihah",
     "title": "Rakaat Kedua - Al-Fatihah",
-    "arab": "isi",
-    "latin": "isi",
-    "arti": "isi"
+    "arab":"بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ ۝ الْحَمْدُ لِلّٰهِ رَبِّ الْعَالَمِيْنَ ۝ الرَّحْمٰنِ الرَّحِيْمِ ۝ مَالِكِ يَوْمِ الدِّيْنِ ۝ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِيْنُ ۝ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَ ۝ صِرَاطَ الَّذِيْنَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوْبِ عَلَيْهِمْ وَلَا الضَّالِّيْنَ",
+    "latin":"Bismillaahir rahmaanir rahiim. Alhamdu lillaahi rabbil 'aalamiin. Ar-rahmaanir rahiim. Maaliki yaumid diin. Iyyaaka na'budu wa iyyaaka nasta'iin. Ihdinash shiraathal mustaqiim. Shiraathal ladziina an'amta 'alaihim ghairil maghdhuubi 'alaihim waladh-dhaalliin.",
+  "arti":"Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah, Tuhan seluruh alam. Yang Maha Pengasih lagi Maha Penyayang. Pemilik Hari Pembalasan. Hanya kepada-Mu kami menyembah dan hanya kepada-Mu kami memohon pertolongan. Tunjukilah kami jalan yang lurus. (Yaitu) jalan orang-orang yang telah Engkau beri nikmat, bukan jalan mereka yang dimurkai dan bukan (pula) jalan mereka yang sesat."
   },
   {
     "group": "Subuh",
@@ -113,19 +113,19 @@
     "group": "Subuh",
     "id": "subuh",
     "step": "rukuk",
-    "title": "Rukuk",
-    "arab": "isi",
-    "latin": "isi",
-    "arti": "isi"
+    "title":"Bacaan Ruku",
+    "arab":"سُبْحَانَ رَبِّيَ الْعَظِيمِ وَبِحَمْدِهِ (٣×)",
+    "latin":"Subhaana rabbiyal 'adziimi wabihamdihi.",
+  "arti":"Maha Suci Tuhanku Yang Maha Agung dan dengan memuji-Nya."
   },
   {
     "group": "Subuh",
     "id": "subuh",
     "step": "itidal",
-    "title": "I'tidal",
-    "arab": "isi",
-    "latin": "isi",
-    "arti": "isi"
+    "title":"Bacaan I'tidal",
+    "arab":"رَبَّنَا لَكَ الْحَمْدُ مِلْءَ السَّمَاوَاتِ وَمِلْءَ الْأَرْضِ وَمِلْءَ مَا شِئْتَ مِنْ شَيْءٍ بَعْدُ",
+    "latin":"Rabbanaa lakal hamdu mil'us samaawaati wa mil'ul ardhi wa mil'u maa syi'ta min syai'in ba'du.",
+  "arti":"Wahai Tuhan kami, bagi-Mu segala puji sepenuh langit dan sepenuh bumi serta sepenuh apa saja yang Engkau kehendaki setelah itu."
   },
   {
     "group": "Subuh",
@@ -140,46 +140,47 @@
     "group": "Subuh",
     "id": "subuh",
     "step": "sujud-1",
-    "title": "Sujud Pertama",
-    "arab": "isi",
-    "latin": "isi",
-    "arti": "isi"
+    "title":"Bacaan Sujud Pertama",
+    "arab":"سُبْحَانَ رَبِّيَ الْأَعْلَى وَبِحَمْدِهِ (٣×)",
+    "latin":"Subhaana rabbiyal a'laa wabihamdihi.",
+  "arti":"Maha Suci Tuhanku Yang Maha Tinggi dan dengan memuji-Nya."
   },
   {
     "group": "Subuh",
     "id": "subuh",
     "step": "duduk-antara-dua-sujud",
-    "title": "Duduk di antara dua sujud",
-    "arab": "isi",
-    "latin": "isi",
-    "arti": "isi"
+    "title":"Duduk Antara Dua Sujud",
+    "arab":"رَبِّ اغْفِرْ لِي وَارْحَمْنِي وَاجْبُرْنِي وَارْفَعْنِي وَارْزُقْنِي وَاهْدِنِي وَعَافِنِي وَاعْفُ عَنِّي",
+    "latin":"Rabbighfir lii warhamnii wajburnii warfa'nii warzuqnii wahdinii wa'aafinii wa'fu 'annii",
+    "arti":"Ya Tuhanku, ampunilah aku, rahmatilah aku, cukupilah aku, angkatlah derajatku, berilah rezeki kepadaku, tunjukilah aku, sehatkanlah aku, dan maafkanlah aku."
   },
   {
     "group": "Subuh",
     "id": "subuh",
     "step": "sujud-2",
-    "title": "Sujud Kedua",
-    "arab": "isi",
-    "latin": "isi",
-    "arti": "isi"
+    "title":"Bacaan Sujud Kedua",
+    "arab":"سُبْحَانَ رَبِّيَ الْأَعْلَى وَبِحَمْدِهِ (٣×)",
+    "latin":"Subhaana rabbiyal a'laa wabihamdihi.",
+  "arti":"Maha Suci Tuhanku Yang Maha Tinggi dan dengan memuji-Nya."
   },
   {
     "group": "Subuh",
     "id": "subuh",
     "step": "tasyahud-akhir",
-    "title": "Tasyahud Akhir",
-    "arab": "isi",
-    "latin": "isi",
-    "arti": "isi"
-  },
+    "title":"Tasyahud Akhir",
+    "arab":"التَّحِيَّاتُ الْمُبَارَكَاتُ الصَّلَوَاتُ الطَّيِّبَاتُ لِلّٰهِ، السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللّٰهِ وَبَرَكَاتُهُ، السَّلَامُ عَلَيْنَا وَعَلَىٰ عِبَادِ اللّٰهِ الصَّالِحِينَ، أَشْهَدُ أَنْ لَا إِلٰهَ إِلَّا اللّٰهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ اللّٰهِ، اللَّهُمَّ صَلِّ عَلَىٰ سَيِّدِنَا مُحَمَّدٍ وَعَلَىٰ آلِ سَيِّدِنَا مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَىٰ سَيِّدِنَا إِبْرَاهِيمَ وَعَلَىٰ آلِ سَيِّدِنَا إِبْرَاهِيمَ، وَبَارِكْ عَلَىٰ سَيِّدِنَا مُحَمَّدٍ وَعَلَىٰ آلِ سَيِّدِنَا مُحَمَّدٍ كَمَا بَارَكْتَ عَلَىٰ سَيِّدِنَا إِبْرَاهِيمَ وَعَلَىٰ آلِ سَيِّدِنَا إِبْرَاهِيمَ فِي الْعَالَمِينَ إِنَّكَ حَمِيدٌ مَجِيدٌ،",
+"latin":"Attahiyyaatul mubaarakaatush shalawaatuth thayyibatul lillaah, Assalaamu’alaika ayyuhan nabiyyu warahmatullaahi wabarakaatuh, Assalaamu’alainaa wa’alaa ‘ibaadillaahish shaalihiin. Asyhadu allaa ilaaha illallaah, Wa Asyhadu anna Muhammadar rasuulullaah. Allahhumma shalli ‘alaa Muhammad wa ‘alaa aali Muhammad, kamaa shallaita ‘alaa Ibraahim, wa ‘alaa aali Ibraahim. Wabaarik ‘alaa Muhammad, wa ‘alaa aali Muhammad, kamaa baarakta ‘alaa Ibraahim, wa ‘alaa aali Ibraahim. Fil ‘aalamiina innaka hamiidum majiid.",
+"arti":"Segala kehormatan, keberkahan, kebahagiaan dan kebaikan bagi Allah, salam, rahmat, dan berkah-Nya kupanjatkan kepadamu wahai Nabi (Muhammad). Salam keselamatan semoga tetap untuk kami seluruh hamba yang saleh-saleh. Aku bersaksi bahwa tiada Tuhan melainkan Allah. dan aku bersaksi bahwa Nabi Muhammad adalah utusan Allah.
+Ya Allah! Limpahkanlah rahmat kepada Nabi Muhammad. Sebagaimana pernah Engkau beri rahmat kepada Nabi Ibrahim dan keluarganya. Dan limpahkanlah berkah atas Nabi Muhammad beserta para keluarganya. Sebagaimana Engkau memberi berkah kepada Nabi Ibrahim dan keluarganya. Di seluruh alam semesta."
+},
   {
     "group": "Subuh",
     "id": "subuh",
     "step": "salam",
-    "title": "Salam",
-    "arab": "isi",
-    "latin": "isi",
-    "arti": "isi"
+    "title":"Salam",
+    "arab":"السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللّٰهِ",
+    "latin":"Assalaamu'alaikum warahmatullaah",
+    "arti":"Semoga keselamatan dan rahmat Allah tercurah kepada kalian."
   },
 
   {
@@ -188,36 +189,36 @@
     "id": "dzuhur",
     "step": "niat",
     "title": "Niat Shalat Dzuhur",
-    "arab": "isi",
-    "latin": "isi",
-    "arti": "isi"
-  },
+    "arab":"نَوَيْتُ أُصَلِّي فَرْضَ الظُّهْرِ أَرْبَعَ رَكَعَاتٍ مُسْتَقْبِلَ الْقِبْلَةِ أَدَاءً لِلّٰهِ تَعَالَى",
+        "latin":"Nawaitu Usholli fardhol zhuhri arba'a roka'aatin mustaqbilal qiblati adaa-an lillaahi ta'aalaa.",
+  "arti":"Saya niat shalat fardu Dzuhur empat rakaat menghadap kiblat karena Allah Ta'ala."
+      },
   {
     "group": "Dzuhur",
     "id": "dzuhur",
     "step": "takbiratul-ihram",
-    "title": "Takbiratul Ihram",
-    "arab": "isi",
-    "latin": "isi",
-    "arti": "isi"
+    "title":"Takbiratul Ihram",
+    "arab":"اللّٰهُ أَكْبَرُ",
+    "latin":"Allahu Akbar",
+    "arti":"Allah Maha Besar."
   },
   {
     "group": "Dzuhur",
     "id": "dzuhur",
     "step": "doa-iftitah",
-    "title": "Doa Iftitah",
-    "arab": "isi",
-    "latin": "isi",
-    "arti": "isi"
+    "title":"Doa Iftitah",
+    "arab":"اللّٰهُ أَكْبَرُ كَبِيرًا وَالْحَمْدُ لِلّٰهِ كَثِيرًا وَسُبْحَانَ اللّٰهِ بُكْرَةً وَأَصِيلًا، إِنِّي وَجَّهْتُ وَجْهِيَ لِلَّذِي فَطَرَ السَّمَاوَاتِ وَالْأَرْضَ حَنِيفًا مُسْلِمًا وَمَا أَنَا مِنَ الْمُشْرِكِينَ، إِنَّ صَلَاتِي وَنُسُكِي وَمَحْيَايَ وَمَمَاتِي لِلّٰهِ رَبِّ الْعَالَمِينَ، لَا شَرِيكَ لَهُ وَبِذَٰلِكَ أُمِرْتُ وَأَنَا مِنَ الْمُسْلِمِينَ",
+  "latin":"Allaahu akbar kabiraa walhamdulillaahi katsiiraa, wa subhaanallaahi bukratan wa ashiilaa. Innii wajjahtu wajhiya lilladzii fatharas samaawaati wal ardha haniifan musliman wa maa anaa minal musyrikiin. Inna shalaatii wa nusukii wa mahyaaya wa mamaatii lillaahi rabbil 'aalamiin. Laa syariika lahu wa bidzaalika umirtu wa ana minal muslimiin.",
+  "arti":"Allah Maha Besar dengan sebesar-besarnya. Segala puji bagi Allah dengan pujian yang banyak. Maha Suci Allah pada waktu pagi dan petang. Sesungguhnya aku menghadapkan wajahku kepada Dzat yang menciptakan langit dan bumi dengan penuh kepasrahan sebagai seorang muslim, dan aku bukanlah termasuk orang-orang musyrik. Sesungguhnya shalatku, ibadahku, hidupku, dan matiku hanyalah untuk Allah Tuhan semesta alam. Tiada sekutu bagi-Nya. Dengan itulah aku diperintahkan dan aku termasuk orang-orang muslim."
   },
   {
     "group": "Dzuhur",
     "id": "dzuhur",
     "step": "alfatihah",
-    "title": "Al-Fatihah",
-    "arab": "isi",
-    "latin": "isi",
-    "arti": "isi"
+    "title":"Surah Al-Fatihah",
+    "arab":"بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ ۝ الْحَمْدُ لِلّٰهِ رَبِّ الْعَالَمِيْنَ ۝ الرَّحْمٰنِ الرَّحِيْمِ ۝ مَالِكِ يَوْمِ الدِّيْنِ ۝ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِيْنُ ۝ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَ ۝ صِرَاطَ الَّذِيْنَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوْبِ عَلَيْهِمْ وَلَا الضَّالِّيْنَ",
+    "latin":"Bismillaahir rahmaanir rahiim. Alhamdu lillaahi rabbil 'aalamiin. Ar-rahmaanir rahiim. Maaliki yaumid diin. Iyyaaka na'budu wa iyyaaka nasta'iin. Ihdinash shiraathal mustaqiim. Shiraathal ladziina an'amta 'alaihim ghairil maghdhuubi 'alaihim waladh-dhaalliin.",
+  "arti":"Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah, Tuhan seluruh alam. Yang Maha Pengasih lagi Maha Penyayang. Pemilik Hari Pembalasan. Hanya kepada-Mu kami menyembah dan hanya kepada-Mu kami memohon pertolongan. Tunjukilah kami jalan yang lurus. (Yaitu) jalan orang-orang yang telah Engkau beri nikmat, bukan jalan mereka yang dimurkai dan bukan (pula) jalan mereka yang sesat."
   },
   {
     "group": "Dzuhur",
@@ -232,46 +233,46 @@
     "group": "Dzuhur",
     "id": "dzuhur",
     "step": "rukuk",
-    "title": "Rukuk",
-    "arab": "isi",
-    "latin": "isi",
-    "arti": "isi"
+    "title":"Bacaan Ruku",
+    "arab":"سُبْحَانَ رَبِّيَ الْعَظِيمِ وَبِحَمْدِهِ (٣×)",
+    "latin":"Subhaana rabbiyal 'adziimi wabihamdihi.",
+  "arti":"Maha Suci Tuhanku Yang Maha Agung dan dengan memuji-Nya."
   },
   {
     "group": "Dzuhur",
     "id": "dzuhur",
     "step": "itidal",
-    "title": "I'tidal",
-    "arab": "isi",
-    "latin": "isi",
-    "arti": "isi"
+    "title":"Bacaan I'tidal",
+    "arab":"رَبَّنَا لَكَ الْحَمْدُ مِلْءَ السَّمَاوَاتِ وَمِلْءَ الْأَرْضِ وَمِلْءَ مَا شِئْتَ مِنْ شَيْءٍ بَعْدُ",
+    "latin":"Rabbanaa lakal hamdu mil'us samaawaati wa mil'ul ardhi wa mil'u maa syi'ta min syai'in ba'du.",
+  "arti":"Wahai Tuhan kami, bagi-Mu segala puji sepenuh langit dan sepenuh bumi serta sepenuh apa saja yang Engkau kehendaki setelah itu."
   },
   {
     "group": "Dzuhur",
     "id": "dzuhur",
     "step": "sujud-1",
-    "title": "Sujud Pertama",
-    "arab": "isi",
-    "latin": "isi",
-    "arti": "isi"
+    "title":"Bacaan Sujud Pertama",
+    "arab":"سُبْحَانَ رَبِّيَ الْأَعْلَى وَبِحَمْدِهِ (٣×)",
+    "latin":"Subhaana rabbiyal a'laa wabihamdihi.",
+  "arti":"Maha Suci Tuhanku Yang Maha Tinggi dan dengan memuji-Nya."
   },
   {
     "group": "Dzuhur",
     "id": "dzuhur",
     "step": "duduk-antara-dua-sujud",
-    "title": "Duduk di antara dua sujud",
-    "arab": "isi",
-    "latin": "isi",
-    "arti": "isi"
+    "title":"Duduk Antara Dua Sujud",
+    "arab":"رَبِّ اغْفِرْ لِي وَارْحَمْنِي وَاجْبُرْنِي وَارْفَعْنِي وَارْزُقْنِي وَاهْدِنِي وَعَافِنِي وَاعْفُ عَنِّي",
+    "latin":"Rabbighfir lii warhamnii wajburnii warfa'nii warzuqnii wahdinii wa'aafinii wa'fu 'annii",
+    "arti":"Ya Tuhanku, ampunilah aku, rahmatilah aku, cukupilah aku, angkatlah derajatku, berilah rezeki kepadaku, tunjukilah aku, sehatkanlah aku, dan maafkanlah aku."
   },
   {
     "group": "Dzuhur",
     "id": "dzuhur",
     "step": "sujud-2",
-    "title": "Sujud Kedua",
-    "arab": "isi",
-    "latin": "isi",
-    "arti": "isi"
+    "title":"Bacaan Sujud Kedua",
+    "arab":"سُبْحَانَ رَبِّيَ الْأَعْلَى وَبِحَمْدِهِ (٣×)",
+    "latin":"Subhaana rabbiyal a'laa wabihamdihi.",
+  "arti":"Maha Suci Tuhanku Yang Maha Tinggi dan dengan memuji-Nya."
   },
 
   {
@@ -279,6 +280,15 @@
     "id": "dzuhur",
     "step": "rakaat-2-alfatihah",
     "title": "Rakaat Kedua - Al-Fatihah",
+    "arab":"بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ ۝ الْحَمْدُ لِلّٰهِ رَبِّ الْعَالَمِيْنَ ۝ الرَّحْمٰنِ الرَّحِيْمِ ۝ مَالِكِ يَوْمِ الدِّيْنِ ۝ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِيْنُ ۝ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَ ۝ صِرَاطَ الَّذِيْنَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوْبِ عَلَيْهِمْ وَلَا الضَّالِّيْنَ",
+    "latin":"Bismillaahir rahmaanir rahiim. Alhamdu lillaahi rabbil 'aalamiin. Ar-rahmaanir rahiim. Maaliki yaumid diin. Iyyaaka na'budu wa iyyaaka nasta'iin. Ihdinash shiraathal mustaqiim. Shiraathal ladziina an'amta 'alaihim ghairil maghdhuubi 'alaihim waladh-dhaalliin.",
+  "arti":"Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah, Tuhan seluruh alam. Yang Maha Pengasih lagi Maha Penyayang. Pemilik Hari Pembalasan. Hanya kepada-Mu kami menyembah dan hanya kepada-Mu kami memohon pertolongan. Tunjukilah kami jalan yang lurus. (Yaitu) jalan orang-orang yang telah Engkau beri nikmat, bukan jalan mereka yang dimurkai dan bukan (pula) jalan mereka yang sesat."
+  },
+  {
+    "group": "Dzuhur",
+    "id": "dzuhur",
+    "step": "rakaat-2-surat-pendek",
+    "title": "Rakaat Kedua - Surat Pendek",
     "arab": "isi",
     "latin": "isi",
     "arti": "isi"
@@ -287,46 +297,46 @@
     "group": "Dzuhur",
     "id": "dzuhur",
     "step": "rukuk",
-    "title": "Rukuk",
-    "arab": "isi",
-    "latin": "isi",
-    "arti": "isi"
+    "title":"Bacaan Ruku",
+    "arab":"سُبْحَانَ رَبِّيَ الْعَظِيمِ وَبِحَمْدِهِ (٣×)",
+    "latin":"Subhaana rabbiyal 'adziimi wabihamdihi.",
+  "arti":"Maha Suci Tuhanku Yang Maha Agung dan dengan memuji-Nya."
   },
   {
     "group": "Dzuhur",
     "id": "dzuhur",
     "step": "itidal",
-    "title": "I'tidal",
-    "arab": "isi",
-    "latin": "isi",
-    "arti": "isi"
+    "title":"Bacaan I'tidal",
+    "arab":"رَبَّنَا لَكَ الْحَمْدُ مِلْءَ السَّمَاوَاتِ وَمِلْءَ الْأَرْضِ وَمِلْءَ مَا شِئْتَ مِنْ شَيْءٍ بَعْدُ",
+    "latin":"Rabbanaa lakal hamdu mil'us samaawaati wa mil'ul ardhi wa mil'u maa syi'ta min syai'in ba'du.",
+  "arti":"Wahai Tuhan kami, bagi-Mu segala puji sepenuh langit dan sepenuh bumi serta sepenuh apa saja yang Engkau kehendaki setelah itu."
   },
   {
     "group": "Dzuhur",
     "id": "dzuhur",
     "step": "sujud-1",
-    "title": "Sujud Pertama",
-    "arab": "isi",
-    "latin": "isi",
-    "arti": "isi"
+    "title":"Bacaan Sujud Pertama",
+    "arab":"سُبْحَانَ رَبِّيَ الْأَعْلَى وَبِحَمْدِهِ (٣×)",
+    "latin":"Subhaana rabbiyal a'laa wabihamdihi.",
+  "arti":"Maha Suci Tuhanku Yang Maha Tinggi dan dengan memuji-Nya."
   },
   {
     "group": "Dzuhur",
     "id": "dzuhur",
     "step": "duduk-antara-dua-sujud",
-    "title": "Duduk di antara dua sujud",
-    "arab": "isi",
-    "latin": "isi",
-    "arti": "isi"
+    "title":"Duduk Antara Dua Sujud",
+    "arab":"رَبِّ اغْفِرْ لِي وَارْحَمْنِي وَاجْبُرْنِي وَارْفَعْنِي وَارْزُقْنِي وَاهْدِنِي وَعَافِنِي وَاعْفُ عَنِّي",
+    "latin":"Rabbighfir lii warhamnii wajburnii warfa'nii warzuqnii wahdinii wa'aafinii wa'fu 'annii",
+    "arti":"Ya Tuhanku, ampunilah aku, rahmatilah aku, cukupilah aku, angkatlah derajatku, berilah rezeki kepadaku, tunjukilah aku, sehatkanlah aku, dan maafkanlah aku."
   },
   {
     "group": "Dzuhur",
     "id": "dzuhur",
     "step": "sujud-2",
-    "title": "Sujud Kedua",
-    "arab": "isi",
-    "latin": "isi",
-    "arti": "isi"
+    "title":"Bacaan Sujud Kedua",
+    "arab":"سُبْحَانَ رَبِّيَ الْأَعْلَى وَبِحَمْدِهِ (٣×)",
+    "latin":"Subhaana rabbiyal a'laa wabihamdihi.",
+  "arti":"Maha Suci Tuhanku Yang Maha Tinggi dan dengan memuji-Nya."
   },
   {
     "group": "Dzuhur",
@@ -342,125 +352,948 @@
     "id": "dzuhur",
     "step": "rakaat-3-alfatihah",
     "title": "Rakaat Ketiga - Al-Fatihah",
-    "arab": "isi",
-    "latin": "isi",
-    "arti": "isi"
+    "arab":"بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ ۝ الْحَمْدُ لِلّٰهِ رَبِّ الْعَالَمِيْنَ ۝ الرَّحْمٰنِ الرَّحِيْمِ ۝ مَالِكِ يَوْمِ الدِّيْنِ ۝ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِيْنُ ۝ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَ ۝ صِرَاطَ الَّذِيْنَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوْبِ عَلَيْهِمْ وَلَا الضَّالِّيْنَ",
+    "latin":"Bismillaahir rahmaanir rahiim. Alhamdu lillaahi rabbil 'aalamiin. Ar-rahmaanir rahiim. Maaliki yaumid diin. Iyyaaka na'budu wa iyyaaka nasta'iin. Ihdinash shiraathal mustaqiim. Shiraathal ladziina an'amta 'alaihim ghairil maghdhuubi 'alaihim waladh-dhaalliin.",
+  "arti":"Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah, Tuhan seluruh alam. Yang Maha Pengasih lagi Maha Penyayang. Pemilik Hari Pembalasan. Hanya kepada-Mu kami menyembah dan hanya kepada-Mu kami memohon pertolongan. Tunjukilah kami jalan yang lurus. (Yaitu) jalan orang-orang yang telah Engkau beri nikmat, bukan jalan mereka yang dimurkai dan bukan (pula) jalan mereka yang sesat."
   },
   {
     "group": "Dzuhur",
     "id": "dzuhur",
     "step": "rukuk",
-    "title": "Rukuk",
-    "arab": "isi",
-    "latin": "isi",
-    "arti": "isi"
+    "title":"Bacaan Ruku",
+    "arab":"سُبْحَانَ رَبِّيَ الْعَظِيمِ وَبِحَمْدِهِ (٣×)",
+    "latin":"Subhaana rabbiyal 'adziimi wabihamdihi.",
+  "arti":"Maha Suci Tuhanku Yang Maha Agung dan dengan memuji-Nya."
   },
   {
     "group": "Dzuhur",
     "id": "dzuhur",
     "step": "itidal",
-    "title": "I'tidal",
-    "arab": "isi",
-    "latin": "isi",
-    "arti": "isi"
+    "title":"Bacaan I'tidal",
+    "arab":"رَبَّنَا لَكَ الْحَمْدُ مِلْءَ السَّمَاوَاتِ وَمِلْءَ الْأَرْضِ وَمِلْءَ مَا شِئْتَ مِنْ شَيْءٍ بَعْدُ",
+    "latin":"Rabbanaa lakal hamdu mil'us samaawaati wa mil'ul ardhi wa mil'u maa syi'ta min syai'in ba'du.",
+  "arti":"Wahai Tuhan kami, bagi-Mu segala puji sepenuh langit dan sepenuh bumi serta sepenuh apa saja yang Engkau kehendaki setelah itu."
   },
   {
     "group": "Dzuhur",
     "id": "dzuhur",
     "step": "sujud-1",
-    "title": "Sujud Pertama",
-    "arab": "isi",
-    "latin": "isi",
-    "arti": "isi"
+    "title":"Bacaan Sujud Pertama",
+    "arab":"سُبْحَانَ رَبِّيَ الْأَعْلَى وَبِحَمْدِهِ (٣×)",
+    "latin":"Subhaana rabbiyal a'laa wabihamdihi.",
+  "arti":"Maha Suci Tuhanku Yang Maha Tinggi dan dengan memuji-Nya."
   },
   {
     "group": "Dzuhur",
     "id": "dzuhur",
     "step": "duduk-antara-dua-sujud",
-    "title": "Duduk di antara dua sujud",
-    "arab": "isi",
-    "latin": "isi",
-    "arti": "isi"
+    "title":"Duduk Antara Dua Sujud",
+    "arab":"رَبِّ اغْفِرْ لِي وَارْحَمْنِي وَاجْبُرْنِي وَارْفَعْنِي وَارْزُقْنِي وَاهْدِنِي وَعَافِنِي وَاعْفُ عَنِّي",
+    "latin":"Rabbighfir lii warhamnii wajburnii warfa'nii warzuqnii wahdinii wa'aafinii wa'fu 'annii",
+    "arti":"Ya Tuhanku, ampunilah aku, rahmatilah aku, cukupilah aku, angkatlah derajatku, berilah rezeki kepadaku, tunjukilah aku, sehatkanlah aku, dan maafkanlah aku."
   },
   {
     "group": "Dzuhur",
     "id": "dzuhur",
     "step": "sujud-2",
-    "title": "Sujud Kedua",
-    "arab": "isi",
-    "latin": "isi",
-    "arti": "isi"
+    "title":"Bacaan Sujud Kedua",
+    "arab":"سُبْحَانَ رَبِّيَ الْأَعْلَى وَبِحَمْدِهِ (٣×)",
+    "latin":"Subhaana rabbiyal a'laa wabihamdihi.",
+  "arti":"Maha Suci Tuhanku Yang Maha Tinggi dan dengan memuji-Nya."
   },
   {
     "group": "Dzuhur",
     "id": "dzuhur",
     "step": "rakaat-4-alfatihah",
     "title": "Rakaat Keempat - Al-Fatihah",
-    "arab": "isi",
-    "latin": "isi",
-    "arti": "isi"
+    "arab":"بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ ۝ الْحَمْدُ لِلّٰهِ رَبِّ الْعَالَمِيْنَ ۝ الرَّحْمٰنِ الرَّحِيْمِ ۝ مَالِكِ يَوْمِ الدِّيْنِ ۝ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِيْنُ ۝ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَ ۝ صِرَاطَ الَّذِيْنَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوْبِ عَلَيْهِمْ وَلَا الضَّالِّيْنَ",
+    "latin":"Bismillaahir rahmaanir rahiim. Alhamdu lillaahi rabbil 'aalamiin. Ar-rahmaanir rahiim. Maaliki yaumid diin. Iyyaaka na'budu wa iyyaaka nasta'iin. Ihdinash shiraathal mustaqiim. Shiraathal ladziina an'amta 'alaihim ghairil maghdhuubi 'alaihim waladh-dhaalliin.",
+  "arti":"Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah, Tuhan seluruh alam. Yang Maha Pengasih lagi Maha Penyayang. Pemilik Hari Pembalasan. Hanya kepada-Mu kami menyembah dan hanya kepada-Mu kami memohon pertolongan. Tunjukilah kami jalan yang lurus. (Yaitu) jalan orang-orang yang telah Engkau beri nikmat, bukan jalan mereka yang dimurkai dan bukan (pula) jalan mereka yang sesat."
   },
   {
     "group": "Dzuhur",
     "id": "dzuhur",
     "step": "rukuk",
-    "title": "Rukuk",
-    "arab": "isi",
-    "latin": "isi",
-    "arti": "isi"
+    "title":"Bacaan Ruku",
+    "arab":"سُبْحَانَ رَبِّيَ الْعَظِيمِ وَبِحَمْدِهِ (٣×)",
+    "latin":"Subhaana rabbiyal 'adziimi wabihamdihi.",
+  "arti":"Maha Suci Tuhanku Yang Maha Agung dan dengan memuji-Nya."
   },
   {
     "group": "Dzuhur",
     "id": "dzuhur",
     "step": "itidal",
-    "title": "I'tidal",
-    "arab": "isi",
-    "latin": "isi",
-    "arti": "isi"
+    "title":"Bacaan I'tidal",
+    "arab":"رَبَّنَا لَكَ الْحَمْدُ مِلْءَ السَّمَاوَاتِ وَمِلْءَ الْأَرْضِ وَمِلْءَ مَا شِئْتَ مِنْ شَيْءٍ بَعْدُ",
+    "latin":"Rabbanaa lakal hamdu mil'us samaawaati wa mil'ul ardhi wa mil'u maa syi'ta min syai'in ba'du.",
+  "arti":"Wahai Tuhan kami, bagi-Mu segala puji sepenuh langit dan sepenuh bumi serta sepenuh apa saja yang Engkau kehendaki setelah itu."
   },
   {
     "group": "Dzuhur",
     "id": "dzuhur",
     "step": "sujud-1",
-    "title": "Sujud Pertama",
-    "arab": "isi",
-    "latin": "isi",
-    "arti": "isi"
+    "title":"Bacaan Sujud Pertama",
+    "arab":"سُبْحَانَ رَبِّيَ الْأَعْلَى وَبِحَمْدِهِ (٣×)",
+    "latin":"Subhaana rabbiyal a'laa wabihamdihi.",
+  "arti":"Maha Suci Tuhanku Yang Maha Tinggi dan dengan memuji-Nya."
   },
   {
     "group": "Dzuhur",
     "id": "dzuhur",
     "step": "duduk-antara-dua-sujud",
-    "title": "Duduk di antara dua sujud",
-    "arab": "isi",
-    "latin": "isi",
-    "arti": "isi"
+    "title":"Duduk Antara Dua Sujud",
+    "arab":"رَبِّ اغْفِرْ لِي وَارْحَمْنِي وَاجْبُرْنِي وَارْفَعْنِي وَارْزُقْنِي وَاهْدِنِي وَعَافِنِي وَاعْفُ عَنِّي",
+    "latin":"Rabbighfir lii warhamnii wajburnii warfa'nii warzuqnii wahdinii wa'aafinii wa'fu 'annii",
+    "arti":"Ya Tuhanku, ampunilah aku, rahmatilah aku, cukupilah aku, angkatlah derajatku, berilah rezeki kepadaku, tunjukilah aku, sehatkanlah aku, dan maafkanlah aku."
   },
   {
     "group": "Dzuhur",
     "id": "dzuhur",
     "step": "sujud-2",
-    "title": "Sujud Kedua",
-    "arab": "isi",
-    "latin": "isi",
-    "arti": "isi"
+    "title":"Bacaan Sujud Kedua",
+    "arab":"سُبْحَانَ رَبِّيَ الْأَعْلَى وَبِحَمْدِهِ (٣×)",
+    "latin":"Subhaana rabbiyal a'laa wabihamdihi.",
+  "arti":"Maha Suci Tuhanku Yang Maha Tinggi dan dengan memuji-Nya."
   },
   {
     "group": "Dzuhur",
     "id": "dzuhur",
     "step": "tasyahud-akhir",
-    "title": "Tasyahud Akhir",
+    "title":"Tasyahud Akhir",
+    "arab":"التَّحِيَّاتُ الْمُبَارَكَاتُ الصَّلَوَاتُ الطَّيِّبَاتُ لِلّٰهِ، السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللّٰهِ وَبَرَكَاتُهُ، السَّلَامُ عَلَيْنَا وَعَلَىٰ عِبَادِ اللّٰهِ الصَّالِحِينَ، أَشْهَدُ أَنْ لَا إِلٰهَ إِلَّا اللّٰهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ اللّٰهِ، اللَّهُمَّ صَلِّ عَلَىٰ سَيِّدِنَا مُحَمَّدٍ وَعَلَىٰ آلِ سَيِّدِنَا مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَىٰ سَيِّدِنَا إِبْرَاهِيمَ وَعَلَىٰ آلِ سَيِّدِنَا إِبْرَاهِيمَ، وَبَارِكْ عَلَىٰ سَيِّدِنَا مُحَمَّدٍ وَعَلَىٰ آلِ سَيِّدِنَا مُحَمَّدٍ كَمَا بَارَكْتَ عَلَىٰ سَيِّدِنَا إِبْرَاهِيمَ وَعَلَىٰ آلِ سَيِّدِنَا إِبْرَاهِيمَ فِي الْعَالَمِينَ إِنَّكَ حَمِيدٌ مَجِيدٌ،",
+"latin":"Attahiyyaatul mubaarakaatush shalawaatuth thayyibatul lillaah, Assalaamu’alaika ayyuhan nabiyyu warahmatullaahi wabarakaatuh, Assalaamu’alainaa wa’alaa ‘ibaadillaahish shaalihiin. Asyhadu allaa ilaaha illallaah, Wa Asyhadu anna Muhammadar rasuulullaah. Allahhumma shalli ‘alaa Muhammad wa ‘alaa aali Muhammad, kamaa shallaita ‘alaa Ibraahim, wa ‘alaa aali Ibraahim. Wabaarik ‘alaa Muhammad, wa ‘alaa aali Muhammad, kamaa baarakta ‘alaa Ibraahim, wa ‘alaa aali Ibraahim. Fil ‘aalamiina innaka hamiidum majiid.",
+"arti":"Segala kehormatan, keberkahan, kebahagiaan dan kebaikan bagi Allah, salam, rahmat, dan berkah-Nya kupanjatkan kepadamu wahai Nabi (Muhammad). Salam keselamatan semoga tetap untuk kami seluruh hamba yang saleh-saleh. Aku bersaksi bahwa tiada Tuhan melainkan Allah. dan aku bersaksi bahwa Nabi Muhammad adalah utusan Allah.
+Ya Allah! Limpahkanlah rahmat kepada Nabi Muhammad. Sebagaimana pernah Engkau beri rahmat kepada Nabi Ibrahim dan keluarganya. Dan limpahkanlah berkah atas Nabi Muhammad beserta para keluarganya. Sebagaimana Engkau memberi berkah kepada Nabi Ibrahim dan keluarganya. Di seluruh alam semesta."
+},
+  {
+    "group": "Dzuhur",
+    "id": "dzuhur",
+    "step": "salam",
+    "title":"Salam",
+    "arab":"السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللّٰهِ",
+    "latin":"Assalaamu'alaikum warahmatullaah",
+    "arti":"Semoga keselamatan dan rahmat Allah tercurah kepada kalian."
+  },
+  
+  {
+    "group": "Ashar",
+    "rakaat": 4,
+    "id": "Ashar",
+    "step": "niat",
+    "title": "Niat Shalat Ashar",
+    "arab":"نَوَيْتُ أُصَلِّي فَرْضَ الْعَصْرِ أَرْبَعَ رَكَعَاتٍ مُسْتَقْبِلَ الْقِبْلَةِ أَدَاءً لِلّٰهِ تَعَالَى",
+        "latin":"Nawaitu Usholli fardhol 'ashri arba'a roka'aatin mustaqbilal qiblati adaa-an lillaahi ta'aalaa.",
+  "arti":"Saya niat shalat fardu Ashar empat rakaat menghadap kiblat karena Allah Ta'ala."
+      },
+  {
+    "group": "Ashar",
+    "id": "Ashar",
+    "step": "takbiratul-ihram",
+    "title":"Takbiratul Ihram",
+    "arab":"اللّٰهُ أَكْبَرُ",
+    "latin":"Allahu Akbar",
+    "arti":"Allah Maha Besar."
+  },
+  {
+    "group": "Ashar",
+    "id": "Ashar",
+    "step": "doa-iftitah",
+    "title":"Doa Iftitah",
+    "arab":"اللّٰهُ أَكْبَرُ كَبِيرًا وَالْحَمْدُ لِلّٰهِ كَثِيرًا وَسُبْحَانَ اللّٰهِ بُكْرَةً وَأَصِيلًا، إِنِّي وَجَّهْتُ وَجْهِيَ لِلَّذِي فَطَرَ السَّمَاوَاتِ وَالْأَرْضَ حَنِيفًا مُسْلِمًا وَمَا أَنَا مِنَ الْمُشْرِكِينَ، إِنَّ صَلَاتِي وَنُسُكِي وَمَحْيَايَ وَمَمَاتِي لِلّٰهِ رَبِّ الْعَالَمِينَ، لَا شَرِيكَ لَهُ وَبِذَٰلِكَ أُمِرْتُ وَأَنَا مِنَ الْمُسْلِمِينَ",
+  "latin":"Allaahu akbar kabiraa walhamdulillaahi katsiiraa, wa subhaanallaahi bukratan wa ashiilaa. Innii wajjahtu wajhiya lilladzii fatharas samaawaati wal ardha haniifan musliman wa maa anaa minal musyrikiin. Inna shalaatii wa nusukii wa mahyaaya wa mamaatii lillaahi rabbil 'aalamiin. Laa syariika lahu wa bidzaalika umirtu wa ana minal muslimiin.",
+  "arti":"Allah Maha Besar dengan sebesar-besarnya. Segala puji bagi Allah dengan pujian yang banyak. Maha Suci Allah pada waktu pagi dan petang. Sesungguhnya aku menghadapkan wajahku kepada Dzat yang menciptakan langit dan bumi dengan penuh kepasrahan sebagai seorang muslim, dan aku bukanlah termasuk orang-orang musyrik. Sesungguhnya shalatku, ibadahku, hidupku, dan matiku hanyalah untuk Allah Tuhan semesta alam. Tiada sekutu bagi-Nya. Dengan itulah aku diperintahkan dan aku termasuk orang-orang muslim."
+  },
+  {
+    "group": "Ashar",
+    "id": "Ashar",
+    "step": "alfatihah",
+    "title":"Surah Al-Fatihah",
+    "arab":"بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ ۝ الْحَمْدُ لِلّٰهِ رَبِّ الْعَالَمِيْنَ ۝ الرَّحْمٰنِ الرَّحِيْمِ ۝ مَالِكِ يَوْمِ الدِّيْنِ ۝ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِيْنُ ۝ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَ ۝ صِرَاطَ الَّذِيْنَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوْبِ عَلَيْهِمْ وَلَا الضَّالِّيْنَ",
+    "latin":"Bismillaahir rahmaanir rahiim. Alhamdu lillaahi rabbil 'aalamiin. Ar-rahmaanir rahiim. Maaliki yaumid diin. Iyyaaka na'budu wa iyyaaka nasta'iin. Ihdinash shiraathal mustaqiim. Shiraathal ladziina an'amta 'alaihim ghairil maghdhuubi 'alaihim waladh-dhaalliin.",
+  "arti":"Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah, Tuhan seluruh alam. Yang Maha Pengasih lagi Maha Penyayang. Pemilik Hari Pembalasan. Hanya kepada-Mu kami menyembah dan hanya kepada-Mu kami memohon pertolongan. Tunjukilah kami jalan yang lurus. (Yaitu) jalan orang-orang yang telah Engkau beri nikmat, bukan jalan mereka yang dimurkai dan bukan (pula) jalan mereka yang sesat."
+  },
+  {
+    "group": "Ashar",
+    "id": "Ashar",
+    "step": "surat-pendek",
+    "title": "Surat Pendek",
     "arab": "isi",
     "latin": "isi",
     "arti": "isi"
   },
   {
-    "group": "Dzuhur",
-    "id": "dzuhur",
-    "step": "salam",
-    "title": "Salam",
+    "group": "Ashar",
+    "id": "Ashar",
+    "step": "rukuk",
+    "title":"Bacaan Ruku",
+    "arab":"سُبْحَانَ رَبِّيَ الْعَظِيمِ وَبِحَمْدِهِ (٣×)",
+    "latin":"Subhaana rabbiyal 'adziimi wabihamdihi.",
+  "arti":"Maha Suci Tuhanku Yang Maha Agung dan dengan memuji-Nya."
+  },
+  {
+    "group": "Ashar",
+    "id": "Ashar",
+    "step": "itidal",
+    "title":"Bacaan I'tidal",
+    "arab":"رَبَّنَا لَكَ الْحَمْدُ مِلْءَ السَّمَاوَاتِ وَمِلْءَ الْأَرْضِ وَمِلْءَ مَا شِئْتَ مِنْ شَيْءٍ بَعْدُ",
+    "latin":"Rabbanaa lakal hamdu mil'us samaawaati wa mil'ul ardhi wa mil'u maa syi'ta min syai'in ba'du.",
+  "arti":"Wahai Tuhan kami, bagi-Mu segala puji sepenuh langit dan sepenuh bumi serta sepenuh apa saja yang Engkau kehendaki setelah itu."
+  },
+  {
+    "group": "Ashar",
+    "id": "Ashar",
+    "step": "sujud-1",
+    "title":"Bacaan Sujud Pertama",
+    "arab":"سُبْحَانَ رَبِّيَ الْأَعْلَى وَبِحَمْدِهِ (٣×)",
+    "latin":"Subhaana rabbiyal a'laa wabihamdihi.",
+  "arti":"Maha Suci Tuhanku Yang Maha Tinggi dan dengan memuji-Nya."
+  },
+  {
+    "group": "Ashar",
+    "id": "Ashar",
+    "step": "duduk-antara-dua-sujud",
+    "title":"Duduk Antara Dua Sujud",
+    "arab":"رَبِّ اغْفِرْ لِي وَارْحَمْنِي وَاجْبُرْنِي وَارْفَعْنِي وَارْزُقْنِي وَاهْدِنِي وَعَافِنِي وَاعْفُ عَنِّي",
+    "latin":"Rabbighfir lii warhamnii wajburnii warfa'nii warzuqnii wahdinii wa'aafinii wa'fu 'annii",
+    "arti":"Ya Tuhanku, ampunilah aku, rahmatilah aku, cukupilah aku, angkatlah derajatku, berilah rezeki kepadaku, tunjukilah aku, sehatkanlah aku, dan maafkanlah aku."
+  },
+  {
+    "group": "Ashar",
+    "id": "Ashar",
+    "step": "sujud-2",
+    "title":"Bacaan Sujud Kedua",
+    "arab":"سُبْحَانَ رَبِّيَ الْأَعْلَى وَبِحَمْدِهِ (٣×)",
+    "latin":"Subhaana rabbiyal a'laa wabihamdihi.",
+  "arti":"Maha Suci Tuhanku Yang Maha Tinggi dan dengan memuji-Nya."
+  },
+
+  {
+    "group": "Ashar",
+    "id": "Ashar",
+    "step": "rakaat-2-alfatihah",
+    "title": "Rakaat Kedua - Al-Fatihah",
+    "arab":"بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ ۝ الْحَمْدُ لِلّٰهِ رَبِّ الْعَالَمِيْنَ ۝ الرَّحْمٰنِ الرَّحِيْمِ ۝ مَالِكِ يَوْمِ الدِّيْنِ ۝ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِيْنُ ۝ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَ ۝ صِرَاطَ الَّذِيْنَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوْبِ عَلَيْهِمْ وَلَا الضَّالِّيْنَ",
+    "latin":"Bismillaahir rahmaanir rahiim. Alhamdu lillaahi rabbil 'aalamiin. Ar-rahmaanir rahiim. Maaliki yaumid diin. Iyyaaka na'budu wa iyyaaka nasta'iin. Ihdinash shiraathal mustaqiim. Shiraathal ladziina an'amta 'alaihim ghairil maghdhuubi 'alaihim waladh-dhaalliin.",
+  "arti":"Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah, Tuhan seluruh alam. Yang Maha Pengasih lagi Maha Penyayang. Pemilik Hari Pembalasan. Hanya kepada-Mu kami menyembah dan hanya kepada-Mu kami memohon pertolongan. Tunjukilah kami jalan yang lurus. (Yaitu) jalan orang-orang yang telah Engkau beri nikmat, bukan jalan mereka yang dimurkai dan bukan (pula) jalan mereka yang sesat."
+  },
+  {
+    "group": "Ashar",
+    "id": "Ashar",
+    "step": "rakaat-2-surat-pendek",
+    "title": "Rakaat Kedua - Surat Pendek",
     "arab": "isi",
     "latin": "isi",
     "arti": "isi"
+  },
+  {
+    "group": "Ashar",
+    "id": "Ashar",
+    "step": "rukuk",
+    "title":"Bacaan Ruku",
+    "arab":"سُبْحَانَ رَبِّيَ الْعَظِيمِ وَبِحَمْدِهِ (٣×)",
+    "latin":"Subhaana rabbiyal 'adziimi wabihamdihi.",
+  "arti":"Maha Suci Tuhanku Yang Maha Agung dan dengan memuji-Nya."
+  },
+  {
+    "group": "Ashar",
+    "id": "Ashar",
+    "step": "itidal",
+    "title":"Bacaan I'tidal",
+    "arab":"رَبَّنَا لَكَ الْحَمْدُ مِلْءَ السَّمَاوَاتِ وَمِلْءَ الْأَرْضِ وَمِلْءَ مَا شِئْتَ مِنْ شَيْءٍ بَعْدُ",
+    "latin":"Rabbanaa lakal hamdu mil'us samaawaati wa mil'ul ardhi wa mil'u maa syi'ta min syai'in ba'du.",
+  "arti":"Wahai Tuhan kami, bagi-Mu segala puji sepenuh langit dan sepenuh bumi serta sepenuh apa saja yang Engkau kehendaki setelah itu."
+  },
+  {
+    "group": "Ashar",
+    "id": "Ashar",
+    "step": "sujud-1",
+    "title":"Bacaan Sujud Pertama",
+    "arab":"سُبْحَانَ رَبِّيَ الْأَعْلَى وَبِحَمْدِهِ (٣×)",
+    "latin":"Subhaana rabbiyal a'laa wabihamdihi.",
+  "arti":"Maha Suci Tuhanku Yang Maha Tinggi dan dengan memuji-Nya."
+  },
+  {
+    "group": "Ashar",
+    "id": "Ashar",
+    "step": "duduk-antara-dua-sujud",
+    "title":"Duduk Antara Dua Sujud",
+    "arab":"رَبِّ اغْفِرْ لِي وَارْحَمْنِي وَاجْبُرْنِي وَارْفَعْنِي وَارْزُقْنِي وَاهْدِنِي وَعَافِنِي وَاعْفُ عَنِّي",
+    "latin":"Rabbighfir lii warhamnii wajburnii warfa'nii warzuqnii wahdinii wa'aafinii wa'fu 'annii",
+    "arti":"Ya Tuhanku, ampunilah aku, rahmatilah aku, cukupilah aku, angkatlah derajatku, berilah rezeki kepadaku, tunjukilah aku, sehatkanlah aku, dan maafkanlah aku."
+  },
+  {
+    "group": "Ashar",
+    "id": "Ashar",
+    "step": "sujud-2",
+    "title":"Bacaan Sujud Kedua",
+    "arab":"سُبْحَانَ رَبِّيَ الْأَعْلَى وَبِحَمْدِهِ (٣×)",
+    "latin":"Subhaana rabbiyal a'laa wabihamdihi.",
+  "arti":"Maha Suci Tuhanku Yang Maha Tinggi dan dengan memuji-Nya."
+  },
+  {
+    "group": "Ashar",
+    "id": "Ashar",
+    "step": "tasyahud-awal",
+    "title": "Tasyahud Awal",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+  {
+    "group": "Ashar",
+    "id": "Ashar",
+    "step": "rakaat-3-alfatihah",
+    "title": "Rakaat Ketiga - Al-Fatihah",
+    "arab":"بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ ۝ الْحَمْدُ لِلّٰهِ رَبِّ الْعَالَمِيْنَ ۝ الرَّحْمٰنِ الرَّحِيْمِ ۝ مَالِكِ يَوْمِ الدِّيْنِ ۝ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِيْنُ ۝ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَ ۝ صِرَاطَ الَّذِيْنَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوْبِ عَلَيْهِمْ وَلَا الضَّالِّيْنَ",
+    "latin":"Bismillaahir rahmaanir rahiim. Alhamdu lillaahi rabbil 'aalamiin. Ar-rahmaanir rahiim. Maaliki yaumid diin. Iyyaaka na'budu wa iyyaaka nasta'iin. Ihdinash shiraathal mustaqiim. Shiraathal ladziina an'amta 'alaihim ghairil maghdhuubi 'alaihim waladh-dhaalliin.",
+  "arti":"Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah, Tuhan seluruh alam. Yang Maha Pengasih lagi Maha Penyayang. Pemilik Hari Pembalasan. Hanya kepada-Mu kami menyembah dan hanya kepada-Mu kami memohon pertolongan. Tunjukilah kami jalan yang lurus. (Yaitu) jalan orang-orang yang telah Engkau beri nikmat, bukan jalan mereka yang dimurkai dan bukan (pula) jalan mereka yang sesat."
+  },
+  {
+    "group": "Ashar",
+    "id": "Ashar",
+    "step": "rukuk",
+    "title":"Bacaan Ruku",
+    "arab":"سُبْحَانَ رَبِّيَ الْعَظِيمِ وَبِحَمْدِهِ (٣×)",
+    "latin":"Subhaana rabbiyal 'adziimi wabihamdihi.",
+  "arti":"Maha Suci Tuhanku Yang Maha Agung dan dengan memuji-Nya."
+  },
+  {
+    "group": "Ashar",
+    "id": "Ashar",
+    "step": "itidal",
+    "title":"Bacaan I'tidal",
+    "arab":"رَبَّنَا لَكَ الْحَمْدُ مِلْءَ السَّمَاوَاتِ وَمِلْءَ الْأَرْضِ وَمِلْءَ مَا شِئْتَ مِنْ شَيْءٍ بَعْدُ",
+    "latin":"Rabbanaa lakal hamdu mil'us samaawaati wa mil'ul ardhi wa mil'u maa syi'ta min syai'in ba'du.",
+  "arti":"Wahai Tuhan kami, bagi-Mu segala puji sepenuh langit dan sepenuh bumi serta sepenuh apa saja yang Engkau kehendaki setelah itu."
+  },
+  {
+    "group": "Ashar",
+    "id": "Ashar",
+    "step": "sujud-1",
+    "title":"Bacaan Sujud Pertama",
+    "arab":"سُبْحَانَ رَبِّيَ الْأَعْلَى وَبِحَمْدِهِ (٣×)",
+    "latin":"Subhaana rabbiyal a'laa wabihamdihi.",
+  "arti":"Maha Suci Tuhanku Yang Maha Tinggi dan dengan memuji-Nya."
+  },
+  {
+    "group": "Ashar",
+    "id": "Ashar",
+    "step": "duduk-antara-dua-sujud",
+    "title":"Duduk Antara Dua Sujud",
+    "arab":"رَبِّ اغْفِرْ لِي وَارْحَمْنِي وَاجْبُرْنِي وَارْفَعْنِي وَارْزُقْنِي وَاهْدِنِي وَعَافِنِي وَاعْفُ عَنِّي",
+    "latin":"Rabbighfir lii warhamnii wajburnii warfa'nii warzuqnii wahdinii wa'aafinii wa'fu 'annii",
+    "arti":"Ya Tuhanku, ampunilah aku, rahmatilah aku, cukupilah aku, angkatlah derajatku, berilah rezeki kepadaku, tunjukilah aku, sehatkanlah aku, dan maafkanlah aku."
+  },
+  {
+    "group": "Ashar",
+    "id": "Ashar",
+    "step": "sujud-2",
+    "title":"Bacaan Sujud Kedua",
+    "arab":"سُبْحَانَ رَبِّيَ الْأَعْلَى وَبِحَمْدِهِ (٣×)",
+    "latin":"Subhaana rabbiyal a'laa wabihamdihi.",
+  "arti":"Maha Suci Tuhanku Yang Maha Tinggi dan dengan memuji-Nya."
+  },
+  {
+    "group": "Ashar",
+    "id": "Ashar",
+    "step": "rakaat-4-alfatihah",
+    "title": "Rakaat Keempat - Al-Fatihah",
+    "arab":"بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ ۝ الْحَمْدُ لِلّٰهِ رَبِّ الْعَالَمِيْنَ ۝ الرَّحْمٰنِ الرَّحِيْمِ ۝ مَالِكِ يَوْمِ الدِّيْنِ ۝ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِيْنُ ۝ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَ ۝ صِرَاطَ الَّذِيْنَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوْبِ عَلَيْهِمْ وَلَا الضَّالِّيْنَ",
+    "latin":"Bismillaahir rahmaanir rahiim. Alhamdu lillaahi rabbil 'aalamiin. Ar-rahmaanir rahiim. Maaliki yaumid diin. Iyyaaka na'budu wa iyyaaka nasta'iin. Ihdinash shiraathal mustaqiim. Shiraathal ladziina an'amta 'alaihim ghairil maghdhuubi 'alaihim waladh-dhaalliin.",
+  "arti":"Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah, Tuhan seluruh alam. Yang Maha Pengasih lagi Maha Penyayang. Pemilik Hari Pembalasan. Hanya kepada-Mu kami menyembah dan hanya kepada-Mu kami memohon pertolongan. Tunjukilah kami jalan yang lurus. (Yaitu) jalan orang-orang yang telah Engkau beri nikmat, bukan jalan mereka yang dimurkai dan bukan (pula) jalan mereka yang sesat."
+  },
+  {
+    "group": "Ashar",
+    "id": "Ashar",
+    "step": "rukuk",
+    "title":"Bacaan Ruku",
+    "arab":"سُبْحَانَ رَبِّيَ الْعَظِيمِ وَبِحَمْدِهِ (٣×)",
+    "latin":"Subhaana rabbiyal 'adziimi wabihamdihi.",
+  "arti":"Maha Suci Tuhanku Yang Maha Agung dan dengan memuji-Nya."
+  },
+  {
+    "group": "Ashar",
+    "id": "Ashar",
+    "step": "itidal",
+    "title":"Bacaan I'tidal",
+    "arab":"رَبَّنَا لَكَ الْحَمْدُ مِلْءَ السَّمَاوَاتِ وَمِلْءَ الْأَرْضِ وَمِلْءَ مَا شِئْتَ مِنْ شَيْءٍ بَعْدُ",
+    "latin":"Rabbanaa lakal hamdu mil'us samaawaati wa mil'ul ardhi wa mil'u maa syi'ta min syai'in ba'du.",
+  "arti":"Wahai Tuhan kami, bagi-Mu segala puji sepenuh langit dan sepenuh bumi serta sepenuh apa saja yang Engkau kehendaki setelah itu."
+  },
+  {
+    "group": "Ashar",
+    "id": "Ashar",
+    "step": "sujud-1",
+    "title":"Bacaan Sujud Pertama",
+    "arab":"سُبْحَانَ رَبِّيَ الْأَعْلَى وَبِحَمْدِهِ (٣×)",
+    "latin":"Subhaana rabbiyal a'laa wabihamdihi.",
+  "arti":"Maha Suci Tuhanku Yang Maha Tinggi dan dengan memuji-Nya."
+  },
+  {
+    "group": "Ashar",
+    "id": "Ashar",
+    "step": "duduk-antara-dua-sujud",
+    "title":"Duduk Antara Dua Sujud",
+    "arab":"رَبِّ اغْفِرْ لِي وَارْحَمْنِي وَاجْبُرْنِي وَارْفَعْنِي وَارْزُقْنِي وَاهْدِنِي وَعَافِنِي وَاعْفُ عَنِّي",
+    "latin":"Rabbighfir lii warhamnii wajburnii warfa'nii warzuqnii wahdinii wa'aafinii wa'fu 'annii",
+    "arti":"Ya Tuhanku, ampunilah aku, rahmatilah aku, cukupilah aku, angkatlah derajatku, berilah rezeki kepadaku, tunjukilah aku, sehatkanlah aku, dan maafkanlah aku."
+  },
+  {
+    "group": "Ashar",
+    "id": "Ashar",
+    "step": "sujud-2",
+    "title":"Bacaan Sujud Kedua",
+    "arab":"سُبْحَانَ رَبِّيَ الْأَعْلَى وَبِحَمْدِهِ (٣×)",
+    "latin":"Subhaana rabbiyal a'laa wabihamdihi.",
+  "arti":"Maha Suci Tuhanku Yang Maha Tinggi dan dengan memuji-Nya."
+  },
+  {
+    "group": "Ashar",
+    "id": "Ashar",
+    "step": "tasyahud-akhir",
+    "title":"Tasyahud Akhir",
+    "arab":"التَّحِيَّاتُ الْمُبَارَكَاتُ الصَّلَوَاتُ الطَّيِّبَاتُ لِلّٰهِ، السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللّٰهِ وَبَرَكَاتُهُ، السَّلَامُ عَلَيْنَا وَعَلَىٰ عِبَادِ اللّٰهِ الصَّالِحِينَ، أَشْهَدُ أَنْ لَا إِلٰهَ إِلَّا اللّٰهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ اللّٰهِ، اللَّهُمَّ صَلِّ عَلَىٰ سَيِّدِنَا مُحَمَّدٍ وَعَلَىٰ آلِ سَيِّدِنَا مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَىٰ سَيِّدِنَا إِبْرَاهِيمَ وَعَلَىٰ آلِ سَيِّدِنَا إِبْرَاهِيمَ، وَبَارِكْ عَلَىٰ سَيِّدِنَا مُحَمَّدٍ وَعَلَىٰ آلِ سَيِّدِنَا مُحَمَّدٍ كَمَا بَارَكْتَ عَلَىٰ سَيِّدِنَا إِبْرَاهِيمَ وَعَلَىٰ آلِ سَيِّدِنَا إِبْرَاهِيمَ فِي الْعَالَمِينَ إِنَّكَ حَمِيدٌ مَجِيدٌ،",
+"latin":"Attahiyyaatul mubaarakaatush shalawaatuth thayyibatul lillaah, Assalaamu’alaika ayyuhan nabiyyu warahmatullaahi wabarakaatuh, Assalaamu’alainaa wa’alaa ‘ibaadillaahish shaalihiin. Asyhadu allaa ilaaha illallaah, Wa Asyhadu anna Muhammadar rasuulullaah. Allahhumma shalli ‘alaa Muhammad wa ‘alaa aali Muhammad, kamaa shallaita ‘alaa Ibraahim, wa ‘alaa aali Ibraahim. Wabaarik ‘alaa Muhammad, wa ‘alaa aali Muhammad, kamaa baarakta ‘alaa Ibraahim, wa ‘alaa aali Ibraahim. Fil ‘aalamiina innaka hamiidum majiid.",
+"arti":"Segala kehormatan, keberkahan, kebahagiaan dan kebaikan bagi Allah, salam, rahmat, dan berkah-Nya kupanjatkan kepadamu wahai Nabi (Muhammad). Salam keselamatan semoga tetap untuk kami seluruh hamba yang saleh-saleh. Aku bersaksi bahwa tiada Tuhan melainkan Allah. dan aku bersaksi bahwa Nabi Muhammad adalah utusan Allah.
+Ya Allah! Limpahkanlah rahmat kepada Nabi Muhammad. Sebagaimana pernah Engkau beri rahmat kepada Nabi Ibrahim dan keluarganya. Dan limpahkanlah berkah atas Nabi Muhammad beserta para keluarganya. Sebagaimana Engkau memberi berkah kepada Nabi Ibrahim dan keluarganya. Di seluruh alam semesta."
+},
+  {
+    "group": "Ashar",
+    "id": "Ashar",
+    "step": "salam",
+    "title":"Salam",
+    "arab":"السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللّٰهِ",
+    "latin":"Assalaamu'alaikum warahmatullaah",
+    "arti":"Semoga keselamatan dan rahmat Allah tercurah kepada kalian."
+  },
+  
+  {
+    "group": "Maghrib",
+    "rakaat": 3,
+    "id": "maghrib",
+    "step": "niat",
+    "title": "Niat Shalat Maghrib",
+    "arab":"نَوَيْتُ أُصَلِّي فَرْضَ الْمَغْرِبِ ثَلَاثَ رَكَعَاتٍ مُسْتَقْبِلَ الْقِبْلَةِ أَدَاءً لِلّٰهِ تَعَالَى",
+        "latin":"Nawaitu Usholli fardhol 'isyaa-i arba'a roka'aatin mustaqbilal qiblati adaa-an lillaahi ta'aalaa.",
+  "arti":"Saya niat shalat fardu Isya empat rakaat menghadap kiblat karena Allah Ta'ala."
+      },
+  {
+    "group": "Maghrib",
+    "id": "maghrib",
+    "step": "takbiratul-ihram",
+    "title":"Takbiratul Ihram",
+    "arab":"اللّٰهُ أَكْبَرُ",
+    "latin":"Allahu Akbar",
+    "arti":"Allah Maha Besar."
+  },
+  {
+    "group": "Maghrib",
+    "id": "maghrib",
+    "step": "doa-iftitah",
+    "title":"Doa Iftitah",
+    "arab":"اللّٰهُ أَكْبَرُ كَبِيرًا وَالْحَمْدُ لِلّٰهِ كَثِيرًا وَسُبْحَانَ اللّٰهِ بُكْرَةً وَأَصِيلًا، إِنِّي وَجَّهْتُ وَجْهِيَ لِلَّذِي فَطَرَ السَّمَاوَاتِ وَالْأَرْضَ حَنِيفًا مُسْلِمًا وَمَا أَنَا مِنَ الْمُشْرِكِينَ، إِنَّ صَلَاتِي وَنُسُكِي وَمَحْيَايَ وَمَمَاتِي لِلّٰهِ رَبِّ الْعَالَمِينَ، لَا شَرِيكَ لَهُ وَبِذَٰلِكَ أُمِرْتُ وَأَنَا مِنَ الْمُسْلِمِينَ",
+  "latin":"Allaahu akbar kabiraa walhamdulillaahi katsiiraa, wa subhaanallaahi bukratan wa ashiilaa. Innii wajjahtu wajhiya lilladzii fatharas samaawaati wal ardha haniifan musliman wa maa anaa minal musyrikiin. Inna shalaatii wa nusukii wa mahyaaya wa mamaatii lillaahi rabbil 'aalamiin. Laa syariika lahu wa bidzaalika umirtu wa ana minal muslimiin.",
+  "arti":"Allah Maha Besar dengan sebesar-besarnya. Segala puji bagi Allah dengan pujian yang banyak. Maha Suci Allah pada waktu pagi dan petang. Sesungguhnya aku menghadapkan wajahku kepada Dzat yang menciptakan langit dan bumi dengan penuh kepasrahan sebagai seorang muslim, dan aku bukanlah termasuk orang-orang musyrik. Sesungguhnya shalatku, ibadahku, hidupku, dan matiku hanyalah untuk Allah Tuhan semesta alam. Tiada sekutu bagi-Nya. Dengan itulah aku diperintahkan dan aku termasuk orang-orang muslim."
+  },
+  {
+    "group": "Maghrib",
+    "id": "maghrib",
+    "step": "alfatihah",
+    "title":"Surah Al-Fatihah",
+    "arab":"بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ ۝ الْحَمْدُ لِلّٰهِ رَبِّ الْعَالَمِيْنَ ۝ الرَّحْمٰنِ الرَّحِيْمِ ۝ مَالِكِ يَوْمِ الدِّيْنِ ۝ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِيْنُ ۝ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَ ۝ صِرَاطَ الَّذِيْنَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوْبِ عَلَيْهِمْ وَلَا الضَّالِّيْنَ",
+    "latin":"Bismillaahir rahmaanir rahiim. Alhamdu lillaahi rabbil 'aalamiin. Ar-rahmaanir rahiim. Maaliki yaumid diin. Iyyaaka na'budu wa iyyaaka nasta'iin. Ihdinash shiraathal mustaqiim. Shiraathal ladziina an'amta 'alaihim ghairil maghdhuubi 'alaihim waladh-dhaalliin.",
+  "arti":"Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah, Tuhan seluruh alam. Yang Maha Pengasih lagi Maha Penyayang. Pemilik Hari Pembalasan. Hanya kepada-Mu kami menyembah dan hanya kepada-Mu kami memohon pertolongan. Tunjukilah kami jalan yang lurus. (Yaitu) jalan orang-orang yang telah Engkau beri nikmat, bukan jalan mereka yang dimurkai dan bukan (pula) jalan mereka yang sesat."
+  },
+  {
+    "group": "Maghrib",
+    "id": "maghrib",
+    "step": "surat-pendek",
+    "title": "Surat Pendek",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+  {
+    "group": "Maghrib",
+    "id": "maghrib",
+    "step": "rukuk",
+    "title":"Bacaan Ruku",
+    "arab":"سُبْحَانَ رَبِّيَ الْعَظِيمِ وَبِحَمْدِهِ (٣×)",
+    "latin":"Subhaana rabbiyal 'adziimi wabihamdihi.",
+  "arti":"Maha Suci Tuhanku Yang Maha Agung dan dengan memuji-Nya."
+  },
+  {
+    "group": "Maghrib",
+    "id": "maghrib",
+    "step": "itidal",
+    "title":"Bacaan I'tidal",
+    "arab":"رَبَّنَا لَكَ الْحَمْدُ مِلْءَ السَّمَاوَاتِ وَمِلْءَ الْأَرْضِ وَمِلْءَ مَا شِئْتَ مِنْ شَيْءٍ بَعْدُ",
+    "latin":"Rabbanaa lakal hamdu mil'us samaawaati wa mil'ul ardhi wa mil'u maa syi'ta min syai'in ba'du.",
+  "arti":"Wahai Tuhan kami, bagi-Mu segala puji sepenuh langit dan sepenuh bumi serta sepenuh apa saja yang Engkau kehendaki setelah itu."
+  },
+  {
+    "group": "Maghrib",
+    "id": "maghrib",
+    "step": "sujud-1",
+    "title":"Bacaan Sujud Pertama",
+    "arab":"سُبْحَانَ رَبِّيَ الْأَعْلَى وَبِحَمْدِهِ (٣×)",
+    "latin":"Subhaana rabbiyal a'laa wabihamdihi.",
+  "arti":"Maha Suci Tuhanku Yang Maha Tinggi dan dengan memuji-Nya."
+  },
+  {
+    "group": "Maghrib",
+    "id": "maghrib",
+    "step": "duduk-antara-dua-sujud",
+    "title":"Duduk Antara Dua Sujud",
+    "arab":"رَبِّ اغْفِرْ لِي وَارْحَمْنِي وَاجْبُرْنِي وَارْفَعْنِي وَارْزُقْنِي وَاهْدِنِي وَعَافِنِي وَاعْفُ عَنِّي",
+    "latin":"Rabbighfir lii warhamnii wajburnii warfa'nii warzuqnii wahdinii wa'aafinii wa'fu 'annii",
+    "arti":"Ya Tuhanku, ampunilah aku, rahmatilah aku, cukupilah aku, angkatlah derajatku, berilah rezeki kepadaku, tunjukilah aku, sehatkanlah aku, dan maafkanlah aku."
+  },
+  {
+    "group": "Maghrib",
+    "id": "maghrib",
+    "step": "sujud-2",
+    "title":"Bacaan Sujud Kedua",
+    "arab":"سُبْحَانَ رَبِّيَ الْأَعْلَى وَبِحَمْدِهِ (٣×)",
+    "latin":"Subhaana rabbiyal a'laa wabihamdihi.",
+  "arti":"Maha Suci Tuhanku Yang Maha Tinggi dan dengan memuji-Nya."
+  },
+
+  {
+    "group": "Maghrib",
+    "id": "maghrib",
+    "step": "rakaat-2-alfatihah",
+    "title": "Rakaat Kedua - Al-Fatihah",
+    "arab":"بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ ۝ الْحَمْدُ لِلّٰهِ رَبِّ الْعَالَمِيْنَ ۝ الرَّحْمٰنِ الرَّحِيْمِ ۝ مَالِكِ يَوْمِ الدِّيْنِ ۝ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِيْنُ ۝ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَ ۝ صِرَاطَ الَّذِيْنَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوْبِ عَلَيْهِمْ وَلَا الضَّالِّيْنَ",
+    "latin":"Bismillaahir rahmaanir rahiim. Alhamdu lillaahi rabbil 'aalamiin. Ar-rahmaanir rahiim. Maaliki yaumid diin. Iyyaaka na'budu wa iyyaaka nasta'iin. Ihdinash shiraathal mustaqiim. Shiraathal ladziina an'amta 'alaihim ghairil maghdhuubi 'alaihim waladh-dhaalliin.",
+  "arti":"Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah, Tuhan seluruh alam. Yang Maha Pengasih lagi Maha Penyayang. Pemilik Hari Pembalasan. Hanya kepada-Mu kami menyembah dan hanya kepada-Mu kami memohon pertolongan. Tunjukilah kami jalan yang lurus. (Yaitu) jalan orang-orang yang telah Engkau beri nikmat, bukan jalan mereka yang dimurkai dan bukan (pula) jalan mereka yang sesat."
+  },
+  {
+    "group": "Maghrib",
+    "id": "maghrib",
+    "step": "rakaat-2-surat-pendek",
+    "title": "Rakaat Kedua - Surat Pendek",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+  {
+    "group": "Maghrib",
+    "id": "maghrib",
+    "step": "rukuk",
+    "title":"Bacaan Ruku",
+    "arab":"سُبْحَانَ رَبِّيَ الْعَظِيمِ وَبِحَمْدِهِ (٣×)",
+    "latin":"Subhaana rabbiyal 'adziimi wabihamdihi.",
+  "arti":"Maha Suci Tuhanku Yang Maha Agung dan dengan memuji-Nya."
+  },
+  {
+    "group": "Maghrib",
+    "id": "maghrib",
+    "step": "itidal",
+    "title":"Bacaan I'tidal",
+    "arab":"رَبَّنَا لَكَ الْحَمْدُ مِلْءَ السَّمَاوَاتِ وَمِلْءَ الْأَرْضِ وَمِلْءَ مَا شِئْتَ مِنْ شَيْءٍ بَعْدُ",
+    "latin":"Rabbanaa lakal hamdu mil'us samaawaati wa mil'ul ardhi wa mil'u maa syi'ta min syai'in ba'du.",
+  "arti":"Wahai Tuhan kami, bagi-Mu segala puji sepenuh langit dan sepenuh bumi serta sepenuh apa saja yang Engkau kehendaki setelah itu."
+  },
+  {
+    "group": "Maghrib",
+    "id": "maghrib",
+    "step": "sujud-1",
+    "title":"Bacaan Sujud Pertama",
+    "arab":"سُبْحَانَ رَبِّيَ الْأَعْلَى وَبِحَمْدِهِ (٣×)",
+    "latin":"Subhaana rabbiyal a'laa wabihamdihi.",
+  "arti":"Maha Suci Tuhanku Yang Maha Tinggi dan dengan memuji-Nya."
+  },
+  {
+    "group": "Maghrib",
+    "id": "maghrib",
+    "step": "duduk-antara-dua-sujud",
+    "title":"Duduk Antara Dua Sujud",
+    "arab":"رَبِّ اغْفِرْ لِي وَارْحَمْنِي وَاجْبُرْنِي وَارْفَعْنِي وَارْزُقْنِي وَاهْدِنِي وَعَافِنِي وَاعْفُ عَنِّي",
+    "latin":"Rabbighfir lii warhamnii wajburnii warfa'nii warzuqnii wahdinii wa'aafinii wa'fu 'annii",
+    "arti":"Ya Tuhanku, ampunilah aku, rahmatilah aku, cukupilah aku, angkatlah derajatku, berilah rezeki kepadaku, tunjukilah aku, sehatkanlah aku, dan maafkanlah aku."
+  },
+  {
+    "group": "Maghrib",
+    "id": "maghrib",
+    "step": "sujud-2",
+    "title":"Bacaan Sujud Kedua",
+    "arab":"سُبْحَانَ رَبِّيَ الْأَعْلَى وَبِحَمْدِهِ (٣×)",
+    "latin":"Subhaana rabbiyal a'laa wabihamdihi.",
+  "arti":"Maha Suci Tuhanku Yang Maha Tinggi dan dengan memuji-Nya."
+  },
+  {
+    "group": "Maghrib",
+    "id": "maghrib",
+    "step": "tasyahud-awal",
+    "title": "Tasyahud Awal",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+  {
+    "group": "Maghrib",
+    "id": "maghrib",
+    "step": "rakaat-3-alfatihah",
+    "title": "Rakaat Ketiga - Al-Fatihah",
+    "arab":"بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ ۝ الْحَمْدُ لِلّٰهِ رَبِّ الْعَالَمِيْنَ ۝ الرَّحْمٰنِ الرَّحِيْمِ ۝ مَالِكِ يَوْمِ الدِّيْنِ ۝ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِيْنُ ۝ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَ ۝ صِرَاطَ الَّذِيْنَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوْبِ عَلَيْهِمْ وَلَا الضَّالِّيْنَ",
+    "latin":"Bismillaahir rahmaanir rahiim. Alhamdu lillaahi rabbil 'aalamiin. Ar-rahmaanir rahiim. Maaliki yaumid diin. Iyyaaka na'budu wa iyyaaka nasta'iin. Ihdinash shiraathal mustaqiim. Shiraathal ladziina an'amta 'alaihim ghairil maghdhuubi 'alaihim waladh-dhaalliin.",
+  "arti":"Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah, Tuhan seluruh alam. Yang Maha Pengasih lagi Maha Penyayang. Pemilik Hari Pembalasan. Hanya kepada-Mu kami menyembah dan hanya kepada-Mu kami memohon pertolongan. Tunjukilah kami jalan yang lurus. (Yaitu) jalan orang-orang yang telah Engkau beri nikmat, bukan jalan mereka yang dimurkai dan bukan (pula) jalan mereka yang sesat."
+  },
+  {
+    "group": "Maghrib",
+    "id": "maghrib",
+    "step": "rukuk",
+    "title":"Bacaan Ruku",
+    "arab":"سُبْحَانَ رَبِّيَ الْعَظِيمِ وَبِحَمْدِهِ (٣×)",
+    "latin":"Subhaana rabbiyal 'adziimi wabihamdihi.",
+  "arti":"Maha Suci Tuhanku Yang Maha Agung dan dengan memuji-Nya."
+  },
+  {
+    "group": "Maghrib",
+    "id": "maghrib",
+    "step": "itidal",
+    "title":"Bacaan I'tidal",
+    "arab":"رَبَّنَا لَكَ الْحَمْدُ مِلْءَ السَّمَاوَاتِ وَمِلْءَ الْأَرْضِ وَمِلْءَ مَا شِئْتَ مِنْ شَيْءٍ بَعْدُ",
+    "latin":"Rabbanaa lakal hamdu mil'us samaawaati wa mil'ul ardhi wa mil'u maa syi'ta min syai'in ba'du.",
+  "arti":"Wahai Tuhan kami, bagi-Mu segala puji sepenuh langit dan sepenuh bumi serta sepenuh apa saja yang Engkau kehendaki setelah itu."
+  },
+  {
+    "group": "Maghrib",
+    "id": "maghrib",
+    "step": "sujud-1",
+    "title":"Bacaan Sujud Pertama",
+    "arab":"سُبْحَانَ رَبِّيَ الْأَعْلَى وَبِحَمْدِهِ (٣×)",
+    "latin":"Subhaana rabbiyal a'laa wabihamdihi.",
+  "arti":"Maha Suci Tuhanku Yang Maha Tinggi dan dengan memuji-Nya."
+  },
+  {
+    "group": "Maghrib",
+    "id": "maghrib",
+    "step": "duduk-antara-dua-sujud",
+    "title":"Duduk Antara Dua Sujud",
+    "arab":"رَبِّ اغْفِرْ لِي وَارْحَمْنِي وَاجْبُرْنِي وَارْفَعْنِي وَارْزُقْنِي وَاهْدِنِي وَعَافِنِي وَاعْفُ عَنِّي",
+    "latin":"Rabbighfir lii warhamnii wajburnii warfa'nii warzuqnii wahdinii wa'aafinii wa'fu 'annii",
+    "arti":"Ya Tuhanku, ampunilah aku, rahmatilah aku, cukupilah aku, angkatlah derajatku, berilah rezeki kepadaku, tunjukilah aku, sehatkanlah aku, dan maafkanlah aku."
+  },
+  {
+    "group": "Maghrib",
+    "id": "maghrib",
+    "step": "sujud-2",
+    "title":"Bacaan Sujud Kedua",
+    "arab":"سُبْحَانَ رَبِّيَ الْأَعْلَى وَبِحَمْدِهِ (٣×)",
+    "latin":"Subhaana rabbiyal a'laa wabihamdihi.",
+  "arti":"Maha Suci Tuhanku Yang Maha Tinggi dan dengan memuji-Nya."
+  },
+  {
+    "group": "Maghrib",
+    "id": "maghrib",
+    "step": "tasyahud-akhir",
+    "title":"Tasyahud Akhir",
+    "arab":"التَّحِيَّاتُ الْمُبَارَكَاتُ الصَّلَوَاتُ الطَّيِّبَاتُ لِلّٰهِ، السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللّٰهِ وَبَرَكَاتُهُ، السَّلَامُ عَلَيْنَا وَعَلَىٰ عِبَادِ اللّٰهِ الصَّالِحِينَ، أَشْهَدُ أَنْ لَا إِلٰهَ إِلَّا اللّٰهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ اللّٰهِ، اللَّهُمَّ صَلِّ عَلَىٰ سَيِّدِنَا مُحَمَّدٍ وَعَلَىٰ آلِ سَيِّدِنَا مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَىٰ سَيِّدِنَا إِبْرَاهِيمَ وَعَلَىٰ آلِ سَيِّدِنَا إِبْرَاهِيمَ، وَبَارِكْ عَلَىٰ سَيِّدِنَا مُحَمَّدٍ وَعَلَىٰ آلِ سَيِّدِنَا مُحَمَّدٍ كَمَا بَارَكْتَ عَلَىٰ سَيِّدِنَا إِبْرَاهِيمَ وَعَلَىٰ آلِ سَيِّدِنَا إِبْرَاهِيمَ فِي الْعَالَمِينَ إِنَّكَ حَمِيدٌ مَجِيدٌ،",
+"latin":"Attahiyyaatul mubaarakaatush shalawaatuth thayyibatul lillaah, Assalaamu’alaika ayyuhan nabiyyu warahmatullaahi wabarakaatuh, Assalaamu’alainaa wa’alaa ‘ibaadillaahish shaalihiin. Asyhadu allaa ilaaha illallaah, Wa Asyhadu anna Muhammadar rasuulullaah. Allahhumma shalli ‘alaa Muhammad wa ‘alaa aali Muhammad, kamaa shallaita ‘alaa Ibraahim, wa ‘alaa aali Ibraahim. Wabaarik ‘alaa Muhammad, wa ‘alaa aali Muhammad, kamaa baarakta ‘alaa Ibraahim, wa ‘alaa aali Ibraahim. Fil ‘aalamiina innaka hamiidum majiid.",
+"arti":"Segala kehormatan, keberkahan, kebahagiaan dan kebaikan bagi Allah, salam, rahmat, dan berkah-Nya kupanjatkan kepadamu wahai Nabi (Muhammad). Salam keselamatan semoga tetap untuk kami seluruh hamba yang saleh-saleh. Aku bersaksi bahwa tiada Tuhan melainkan Allah. dan aku bersaksi bahwa Nabi Muhammad adalah utusan Allah.
+Ya Allah! Limpahkanlah rahmat kepada Nabi Muhammad. Sebagaimana pernah Engkau beri rahmat kepada Nabi Ibrahim dan keluarganya. Dan limpahkanlah berkah atas Nabi Muhammad beserta para keluarganya. Sebagaimana Engkau memberi berkah kepada Nabi Ibrahim dan keluarganya. Di seluruh alam semesta."
+},
+  {
+    "group": "Maghrib",
+    "id": "maghrib",
+    "step": "salam",
+    "title":"Salam",
+    "arab":"السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللّٰهِ",
+    "latin":"Assalaamu'alaikum warahmatullaah",
+    "arti":"Semoga keselamatan dan rahmat Allah tercurah kepada kalian."
+  },
+  
+  {
+    "group": "Isya",
+    "rakaat": 4,
+    "id": "isya",
+    "step": "niat",
+    "title": "Niat Shalat Isya",
+    "arab":"نَوَيْتُ أُصَلِّي فَرْضَ الْعِشَاءِ أَرْبَعَ رَكَعَاتٍ مُسْتَقْبِلَ الْقِبْلَةِ أَدَاءً لِلّٰهِ تَعَالَى",
+        "latin":"Nawaitu Usholli fardhol 'isyaa-i arba'a roka'aatin mustaqbilal qiblati adaa-an lillaahi ta'aalaa.",
+  "arti":"Saya niat shalat fardu Isya empat rakaat menghadap kiblat karena Allah Ta'ala."
+      },
+  {
+    "group": "Isya",
+    "id": "isya",
+    "step": "takbiratul-ihram",
+    "title":"Takbiratul Ihram",
+    "arab":"اللّٰهُ أَكْبَرُ",
+    "latin":"Allahu Akbar",
+    "arti":"Allah Maha Besar."
+  },
+  {
+    "group": "Isya",
+    "id": "isya",
+    "step": "doa-iftitah",
+    "title":"Doa Iftitah",
+    "arab":"اللّٰهُ أَكْبَرُ كَبِيرًا وَالْحَمْدُ لِلّٰهِ كَثِيرًا وَسُبْحَانَ اللّٰهِ بُكْرَةً وَأَصِيلًا، إِنِّي وَجَّهْتُ وَجْهِيَ لِلَّذِي فَطَرَ السَّمَاوَاتِ وَالْأَرْضَ حَنِيفًا مُسْلِمًا وَمَا أَنَا مِنَ الْمُشْرِكِينَ، إِنَّ صَلَاتِي وَنُسُكِي وَمَحْيَايَ وَمَمَاتِي لِلّٰهِ رَبِّ الْعَالَمِينَ، لَا شَرِيكَ لَهُ وَبِذَٰلِكَ أُمِرْتُ وَأَنَا مِنَ الْمُسْلِمِينَ",
+  "latin":"Allaahu akbar kabiraa walhamdulillaahi katsiiraa, wa subhaanallaahi bukratan wa ashiilaa. Innii wajjahtu wajhiya lilladzii fatharas samaawaati wal ardha haniifan musliman wa maa anaa minal musyrikiin. Inna shalaatii wa nusukii wa mahyaaya wa mamaatii lillaahi rabbil 'aalamiin. Laa syariika lahu wa bidzaalika umirtu wa ana minal muslimiin.",
+  "arti":"Allah Maha Besar dengan sebesar-besarnya. Segala puji bagi Allah dengan pujian yang banyak. Maha Suci Allah pada waktu pagi dan petang. Sesungguhnya aku menghadapkan wajahku kepada Dzat yang menciptakan langit dan bumi dengan penuh kepasrahan sebagai seorang muslim, dan aku bukanlah termasuk orang-orang musyrik. Sesungguhnya shalatku, ibadahku, hidupku, dan matiku hanyalah untuk Allah Tuhan semesta alam. Tiada sekutu bagi-Nya. Dengan itulah aku diperintahkan dan aku termasuk orang-orang muslim."
+  },
+  {
+    "group": "Isya",
+    "id": "isya",
+    "step": "alfatihah",
+    "title":"Surah Al-Fatihah",
+    "arab":"بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ ۝ الْحَمْدُ لِلّٰهِ رَبِّ الْعَالَمِيْنَ ۝ الرَّحْمٰنِ الرَّحِيْمِ ۝ مَالِكِ يَوْمِ الدِّيْنِ ۝ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِيْنُ ۝ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَ ۝ صِرَاطَ الَّذِيْنَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوْبِ عَلَيْهِمْ وَلَا الضَّالِّيْنَ",
+    "latin":"Bismillaahir rahmaanir rahiim. Alhamdu lillaahi rabbil 'aalamiin. Ar-rahmaanir rahiim. Maaliki yaumid diin. Iyyaaka na'budu wa iyyaaka nasta'iin. Ihdinash shiraathal mustaqiim. Shiraathal ladziina an'amta 'alaihim ghairil maghdhuubi 'alaihim waladh-dhaalliin.",
+  "arti":"Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah, Tuhan seluruh alam. Yang Maha Pengasih lagi Maha Penyayang. Pemilik Hari Pembalasan. Hanya kepada-Mu kami menyembah dan hanya kepada-Mu kami memohon pertolongan. Tunjukilah kami jalan yang lurus. (Yaitu) jalan orang-orang yang telah Engkau beri nikmat, bukan jalan mereka yang dimurkai dan bukan (pula) jalan mereka yang sesat."
+  },
+  {
+    "group": "Isya",
+    "id": "isya",
+    "step": "surat-pendek",
+    "title": "Surat Pendek",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+  {
+    "group": "Isya",
+    "id": "isya",
+    "step": "rukuk",
+    "title":"Bacaan Ruku",
+    "arab":"سُبْحَانَ رَبِّيَ الْعَظِيمِ وَبِحَمْدِهِ (٣×)",
+    "latin":"Subhaana rabbiyal 'adziimi wabihamdihi.",
+  "arti":"Maha Suci Tuhanku Yang Maha Agung dan dengan memuji-Nya."
+  },
+  {
+    "group": "Isya",
+    "id": "isya",
+    "step": "itidal",
+    "title":"Bacaan I'tidal",
+    "arab":"رَبَّنَا لَكَ الْحَمْدُ مِلْءَ السَّمَاوَاتِ وَمِلْءَ الْأَرْضِ وَمِلْءَ مَا شِئْتَ مِنْ شَيْءٍ بَعْدُ",
+    "latin":"Rabbanaa lakal hamdu mil'us samaawaati wa mil'ul ardhi wa mil'u maa syi'ta min syai'in ba'du.",
+  "arti":"Wahai Tuhan kami, bagi-Mu segala puji sepenuh langit dan sepenuh bumi serta sepenuh apa saja yang Engkau kehendaki setelah itu."
+  },
+  {
+    "group": "Isya",
+    "id": "isya",
+    "step": "sujud-1",
+    "title":"Bacaan Sujud Pertama",
+    "arab":"سُبْحَانَ رَبِّيَ الْأَعْلَى وَبِحَمْدِهِ (٣×)",
+    "latin":"Subhaana rabbiyal a'laa wabihamdihi.",
+  "arti":"Maha Suci Tuhanku Yang Maha Tinggi dan dengan memuji-Nya."
+  },
+  {
+    "group": "Isya",
+    "id": "isya",
+    "step": "duduk-antara-dua-sujud",
+    "title":"Duduk Antara Dua Sujud",
+    "arab":"رَبِّ اغْفِرْ لِي وَارْحَمْنِي وَاجْبُرْنِي وَارْفَعْنِي وَارْزُقْنِي وَاهْدِنِي وَعَافِنِي وَاعْفُ عَنِّي",
+    "latin":"Rabbighfir lii warhamnii wajburnii warfa'nii warzuqnii wahdinii wa'aafinii wa'fu 'annii",
+    "arti":"Ya Tuhanku, ampunilah aku, rahmatilah aku, cukupilah aku, angkatlah derajatku, berilah rezeki kepadaku, tunjukilah aku, sehatkanlah aku, dan maafkanlah aku."
+  },
+  {
+    "group": "Isya",
+    "id": "isya",
+    "step": "sujud-2",
+    "title":"Bacaan Sujud Kedua",
+    "arab":"سُبْحَانَ رَبِّيَ الْأَعْلَى وَبِحَمْدِهِ (٣×)",
+    "latin":"Subhaana rabbiyal a'laa wabihamdihi.",
+  "arti":"Maha Suci Tuhanku Yang Maha Tinggi dan dengan memuji-Nya."
+  },
+
+  {
+    "group": "Isya",
+    "id": "isya",
+    "step": "rakaat-2-alfatihah",
+    "title": "Rakaat Kedua - Al-Fatihah",
+    "arab":"بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ ۝ الْحَمْدُ لِلّٰهِ رَبِّ الْعَالَمِيْنَ ۝ الرَّحْمٰنِ الرَّحِيْمِ ۝ مَالِكِ يَوْمِ الدِّيْنِ ۝ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِيْنُ ۝ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَ ۝ صِرَاطَ الَّذِيْنَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوْبِ عَلَيْهِمْ وَلَا الضَّالِّيْنَ",
+    "latin":"Bismillaahir rahmaanir rahiim. Alhamdu lillaahi rabbil 'aalamiin. Ar-rahmaanir rahiim. Maaliki yaumid diin. Iyyaaka na'budu wa iyyaaka nasta'iin. Ihdinash shiraathal mustaqiim. Shiraathal ladziina an'amta 'alaihim ghairil maghdhuubi 'alaihim waladh-dhaalliin.",
+  "arti":"Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah, Tuhan seluruh alam. Yang Maha Pengasih lagi Maha Penyayang. Pemilik Hari Pembalasan. Hanya kepada-Mu kami menyembah dan hanya kepada-Mu kami memohon pertolongan. Tunjukilah kami jalan yang lurus. (Yaitu) jalan orang-orang yang telah Engkau beri nikmat, bukan jalan mereka yang dimurkai dan bukan (pula) jalan mereka yang sesat."
+  },
+  {
+    "group": "Isya",
+    "id": "isya",
+    "step": "rakaat-2-surat-pendek",
+    "title": "Rakaat Kedua - Surat Pendek",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+  {
+    "group": "Isya",
+    "id": "isya",
+    "step": "rukuk",
+    "title":"Bacaan Ruku",
+    "arab":"سُبْحَانَ رَبِّيَ الْعَظِيمِ وَبِحَمْدِهِ (٣×)",
+    "latin":"Subhaana rabbiyal 'adziimi wabihamdihi.",
+  "arti":"Maha Suci Tuhanku Yang Maha Agung dan dengan memuji-Nya."
+  },
+  {
+    "group": "Isya",
+    "id": "isya",
+    "step": "itidal",
+    "title":"Bacaan I'tidal",
+    "arab":"رَبَّنَا لَكَ الْحَمْدُ مِلْءَ السَّمَاوَاتِ وَمِلْءَ الْأَرْضِ وَمِلْءَ مَا شِئْتَ مِنْ شَيْءٍ بَعْدُ",
+    "latin":"Rabbanaa lakal hamdu mil'us samaawaati wa mil'ul ardhi wa mil'u maa syi'ta min syai'in ba'du.",
+  "arti":"Wahai Tuhan kami, bagi-Mu segala puji sepenuh langit dan sepenuh bumi serta sepenuh apa saja yang Engkau kehendaki setelah itu."
+  },
+  {
+    "group": "Isya",
+    "id": "isya",
+    "step": "sujud-1",
+    "title":"Bacaan Sujud Pertama",
+    "arab":"سُبْحَانَ رَبِّيَ الْأَعْلَى وَبِحَمْدِهِ (٣×)",
+    "latin":"Subhaana rabbiyal a'laa wabihamdihi.",
+  "arti":"Maha Suci Tuhanku Yang Maha Tinggi dan dengan memuji-Nya."
+  },
+  {
+    "group": "Isya",
+    "id": "isya",
+    "step": "duduk-antara-dua-sujud",
+    "title":"Duduk Antara Dua Sujud",
+    "arab":"رَبِّ اغْفِرْ لِي وَارْحَمْنِي وَاجْبُرْنِي وَارْفَعْنِي وَارْزُقْنِي وَاهْدِنِي وَعَافِنِي وَاعْفُ عَنِّي",
+    "latin":"Rabbighfir lii warhamnii wajburnii warfa'nii warzuqnii wahdinii wa'aafinii wa'fu 'annii",
+    "arti":"Ya Tuhanku, ampunilah aku, rahmatilah aku, cukupilah aku, angkatlah derajatku, berilah rezeki kepadaku, tunjukilah aku, sehatkanlah aku, dan maafkanlah aku."
+  },
+  {
+    "group": "Isya",
+    "id": "isya",
+    "step": "sujud-2",
+    "title":"Bacaan Sujud Kedua",
+    "arab":"سُبْحَانَ رَبِّيَ الْأَعْلَى وَبِحَمْدِهِ (٣×)",
+    "latin":"Subhaana rabbiyal a'laa wabihamdihi.",
+  "arti":"Maha Suci Tuhanku Yang Maha Tinggi dan dengan memuji-Nya."
+  },
+  {
+    "group": "Isya",
+    "id": "isya",
+    "step": "tasyahud-awal",
+    "title": "Tasyahud Awal",
+    "arab": "isi",
+    "latin": "isi",
+    "arti": "isi"
+  },
+  {
+    "group": "Isya",
+    "id": "isya",
+    "step": "rakaat-3-alfatihah",
+    "title": "Rakaat Ketiga - Al-Fatihah",
+    "arab":"بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ ۝ الْحَمْدُ لِلّٰهِ رَبِّ الْعَالَمِيْنَ ۝ الرَّحْمٰنِ الرَّحِيْمِ ۝ مَالِكِ يَوْمِ الدِّيْنِ ۝ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِيْنُ ۝ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَ ۝ صِرَاطَ الَّذِيْنَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوْبِ عَلَيْهِمْ وَلَا الضَّالِّيْنَ",
+    "latin":"Bismillaahir rahmaanir rahiim. Alhamdu lillaahi rabbil 'aalamiin. Ar-rahmaanir rahiim. Maaliki yaumid diin. Iyyaaka na'budu wa iyyaaka nasta'iin. Ihdinash shiraathal mustaqiim. Shiraathal ladziina an'amta 'alaihim ghairil maghdhuubi 'alaihim waladh-dhaalliin.",
+  "arti":"Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah, Tuhan seluruh alam. Yang Maha Pengasih lagi Maha Penyayang. Pemilik Hari Pembalasan. Hanya kepada-Mu kami menyembah dan hanya kepada-Mu kami memohon pertolongan. Tunjukilah kami jalan yang lurus. (Yaitu) jalan orang-orang yang telah Engkau beri nikmat, bukan jalan mereka yang dimurkai dan bukan (pula) jalan mereka yang sesat."
+  },
+  {
+    "group": "Isya",
+    "id": "isya",
+    "step": "rukuk",
+    "title":"Bacaan Ruku",
+    "arab":"سُبْحَانَ رَبِّيَ الْعَظِيمِ وَبِحَمْدِهِ (٣×)",
+    "latin":"Subhaana rabbiyal 'adziimi wabihamdihi.",
+  "arti":"Maha Suci Tuhanku Yang Maha Agung dan dengan memuji-Nya."
+  },
+  {
+    "group": "Isya",
+    "id": "isya",
+    "step": "itidal",
+    "title":"Bacaan I'tidal",
+    "arab":"رَبَّنَا لَكَ الْحَمْدُ مِلْءَ السَّمَاوَاتِ وَمِلْءَ الْأَرْضِ وَمِلْءَ مَا شِئْتَ مِنْ شَيْءٍ بَعْدُ",
+    "latin":"Rabbanaa lakal hamdu mil'us samaawaati wa mil'ul ardhi wa mil'u maa syi'ta min syai'in ba'du.",
+  "arti":"Wahai Tuhan kami, bagi-Mu segala puji sepenuh langit dan sepenuh bumi serta sepenuh apa saja yang Engkau kehendaki setelah itu."
+  },
+  {
+    "group": "Isya",
+    "id": "isya",
+    "step": "sujud-1",
+    "title":"Bacaan Sujud Pertama",
+    "arab":"سُبْحَانَ رَبِّيَ الْأَعْلَى وَبِحَمْدِهِ (٣×)",
+    "latin":"Subhaana rabbiyal a'laa wabihamdihi.",
+  "arti":"Maha Suci Tuhanku Yang Maha Tinggi dan dengan memuji-Nya."
+  },
+  {
+    "group": "Isya",
+    "id": "isya",
+    "step": "duduk-antara-dua-sujud",
+    "title":"Duduk Antara Dua Sujud",
+    "arab":"رَبِّ اغْفِرْ لِي وَارْحَمْنِي وَاجْبُرْنِي وَارْفَعْنِي وَارْزُقْنِي وَاهْدِنِي وَعَافِنِي وَاعْفُ عَنِّي",
+    "latin":"Rabbighfir lii warhamnii wajburnii warfa'nii warzuqnii wahdinii wa'aafinii wa'fu 'annii",
+    "arti":"Ya Tuhanku, ampunilah aku, rahmatilah aku, cukupilah aku, angkatlah derajatku, berilah rezeki kepadaku, tunjukilah aku, sehatkanlah aku, dan maafkanlah aku."
+  },
+  {
+    "group": "Isya",
+    "id": "isya",
+    "step": "sujud-2",
+    "title":"Bacaan Sujud Kedua",
+    "arab":"سُبْحَانَ رَبِّيَ الْأَعْلَى وَبِحَمْدِهِ (٣×)",
+    "latin":"Subhaana rabbiyal a'laa wabihamdihi.",
+  "arti":"Maha Suci Tuhanku Yang Maha Tinggi dan dengan memuji-Nya."
+  },
+  {
+    "group": "Isya",
+    "id": "isya",
+    "step": "rakaat-4-alfatihah",
+    "title": "Rakaat Keempat - Al-Fatihah",
+    "arab":"بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ ۝ الْحَمْدُ لِلّٰهِ رَبِّ الْعَالَمِيْنَ ۝ الرَّحْمٰنِ الرَّحِيْمِ ۝ مَالِكِ يَوْمِ الدِّيْنِ ۝ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِيْنُ ۝ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَ ۝ صِرَاطَ الَّذِيْنَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوْبِ عَلَيْهِمْ وَلَا الضَّالِّيْنَ",
+    "latin":"Bismillaahir rahmaanir rahiim. Alhamdu lillaahi rabbil 'aalamiin. Ar-rahmaanir rahiim. Maaliki yaumid diin. Iyyaaka na'budu wa iyyaaka nasta'iin. Ihdinash shiraathal mustaqiim. Shiraathal ladziina an'amta 'alaihim ghairil maghdhuubi 'alaihim waladh-dhaalliin.",
+  "arti":"Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah, Tuhan seluruh alam. Yang Maha Pengasih lagi Maha Penyayang. Pemilik Hari Pembalasan. Hanya kepada-Mu kami menyembah dan hanya kepada-Mu kami memohon pertolongan. Tunjukilah kami jalan yang lurus. (Yaitu) jalan orang-orang yang telah Engkau beri nikmat, bukan jalan mereka yang dimurkai dan bukan (pula) jalan mereka yang sesat."
+  },
+  {
+    "group": "Isya",
+    "id": "isya",
+    "step": "rukuk",
+    "title":"Bacaan Ruku",
+    "arab":"سُبْحَانَ رَبِّيَ الْعَظِيمِ وَبِحَمْدِهِ (٣×)",
+    "latin":"Subhaana rabbiyal 'adziimi wabihamdihi.",
+  "arti":"Maha Suci Tuhanku Yang Maha Agung dan dengan memuji-Nya."
+  },
+  {
+    "group": "Isya",
+    "id": "isya",
+    "step": "itidal",
+    "title":"Bacaan I'tidal",
+    "arab":"رَبَّنَا لَكَ الْحَمْدُ مِلْءَ السَّمَاوَاتِ وَمِلْءَ الْأَرْضِ وَمِلْءَ مَا شِئْتَ مِنْ شَيْءٍ بَعْدُ",
+    "latin":"Rabbanaa lakal hamdu mil'us samaawaati wa mil'ul ardhi wa mil'u maa syi'ta min syai'in ba'du.",
+  "arti":"Wahai Tuhan kami, bagi-Mu segala puji sepenuh langit dan sepenuh bumi serta sepenuh apa saja yang Engkau kehendaki setelah itu."
+  },
+  {
+    "group": "Isya",
+    "id": "isya",
+    "step": "sujud-1",
+    "title":"Bacaan Sujud Pertama",
+    "arab":"سُبْحَانَ رَبِّيَ الْأَعْلَى وَبِحَمْدِهِ (٣×)",
+    "latin":"Subhaana rabbiyal a'laa wabihamdihi.",
+  "arti":"Maha Suci Tuhanku Yang Maha Tinggi dan dengan memuji-Nya."
+  },
+  {
+    "group": "Isya",
+    "id": "isya",
+    "step": "duduk-antara-dua-sujud",
+    "title":"Duduk Antara Dua Sujud",
+    "arab":"رَبِّ اغْفِرْ لِي وَارْحَمْنِي وَاجْبُرْنِي وَارْفَعْنِي وَارْزُقْنِي وَاهْدِنِي وَعَافِنِي وَاعْفُ عَنِّي",
+    "latin":"Rabbighfir lii warhamnii wajburnii warfa'nii warzuqnii wahdinii wa'aafinii wa'fu 'annii",
+    "arti":"Ya Tuhanku, ampunilah aku, rahmatilah aku, cukupilah aku, angkatlah derajatku, berilah rezeki kepadaku, tunjukilah aku, sehatkanlah aku, dan maafkanlah aku."
+  },
+  {
+    "group": "Isya",
+    "id": "isya",
+    "step": "sujud-2",
+    "title":"Bacaan Sujud Kedua",
+    "arab":"سُبْحَانَ رَبِّيَ الْأَعْلَى وَبِحَمْدِهِ (٣×)",
+    "latin":"Subhaana rabbiyal a'laa wabihamdihi.",
+  "arti":"Maha Suci Tuhanku Yang Maha Tinggi dan dengan memuji-Nya."
+  },
+  {
+    "group": "Isya",
+    "id": "isya",
+    "step": "tasyahud-akhir",
+    "title":"Tasyahud Akhir",
+    "arab":"التَّحِيَّاتُ الْمُبَارَكَاتُ الصَّلَوَاتُ الطَّيِّبَاتُ لِلّٰهِ، السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللّٰهِ وَبَرَكَاتُهُ، السَّلَامُ عَلَيْنَا وَعَلَىٰ عِبَادِ اللّٰهِ الصَّالِحِينَ، أَشْهَدُ أَنْ لَا إِلٰهَ إِلَّا اللّٰهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ اللّٰهِ، اللَّهُمَّ صَلِّ عَلَىٰ سَيِّدِنَا مُحَمَّدٍ وَعَلَىٰ آلِ سَيِّدِنَا مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَىٰ سَيِّدِنَا إِبْرَاهِيمَ وَعَلَىٰ آلِ سَيِّدِنَا إِبْرَاهِيمَ، وَبَارِكْ عَلَىٰ سَيِّدِنَا مُحَمَّدٍ وَعَلَىٰ آلِ سَيِّدِنَا مُحَمَّدٍ كَمَا بَارَكْتَ عَلَىٰ سَيِّدِنَا إِبْرَاهِيمَ وَعَلَىٰ آلِ سَيِّدِنَا إِبْرَاهِيمَ فِي الْعَالَمِينَ إِنَّكَ حَمِيدٌ مَجِيدٌ،",
+"latin":"Attahiyyaatul mubaarakaatush shalawaatuth thayyibatul lillaah, Assalaamu’alaika ayyuhan nabiyyu warahmatullaahi wabarakaatuh, Assalaamu’alainaa wa’alaa ‘ibaadillaahish shaalihiin. Asyhadu allaa ilaaha illallaah, Wa Asyhadu anna Muhammadar rasuulullaah. Allahhumma shalli ‘alaa Muhammad wa ‘alaa aali Muhammad, kamaa shallaita ‘alaa Ibraahim, wa ‘alaa aali Ibraahim. Wabaarik ‘alaa Muhammad, wa ‘alaa aali Muhammad, kamaa baarakta ‘alaa Ibraahim, wa ‘alaa aali Ibraahim. Fil ‘aalamiina innaka hamiidum majiid.",
+"arti":"Segala kehormatan, keberkahan, kebahagiaan dan kebaikan bagi Allah, salam, rahmat, dan berkah-Nya kupanjatkan kepadamu wahai Nabi (Muhammad). Salam keselamatan semoga tetap untuk kami seluruh hamba yang saleh-saleh. Aku bersaksi bahwa tiada Tuhan melainkan Allah. dan aku bersaksi bahwa Nabi Muhammad adalah utusan Allah.
+Ya Allah! Limpahkanlah rahmat kepada Nabi Muhammad. Sebagaimana pernah Engkau beri rahmat kepada Nabi Ibrahim dan keluarganya. Dan limpahkanlah berkah atas Nabi Muhammad beserta para keluarganya. Sebagaimana Engkau memberi berkah kepada Nabi Ibrahim dan keluarganya. Di seluruh alam semesta."
+},
+  {
+    "group": "Isya",
+    "id": "isya",
+    "step": "salam",
+    "title":"Salam",
+    "arab":"السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللّٰهِ",
+    "latin":"Assalaamu'alaikum warahmatullaah",
+    "arti":"Semoga keselamatan dan rahmat Allah tercurah kepada kalian."
   }
 ]
