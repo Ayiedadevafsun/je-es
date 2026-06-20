@@ -1,0 +1,305 @@
+[
+  {
+    "category": "Kumpulan Doa",
+    "group": "Kumpulan Doa",
+    "id": "kumpulandoa",
+    "step": "doa-mau-makan",
+    "title": "Doa Mau Makan",
+    "arab": "بِسْمِ اللهِ",
+    "latin": "Bismillah",
+    "arti": "Dengan nama Allah"
+  },
+  {
+    "category": "Kumpulan Doa",
+    "group": "Kumpulan Doa",
+    "id": "kumpulandoa",
+    "step": "doa-sesudah-makan",
+    "title": "Doa Sesudah Makan",
+    "arab": "الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنَا وَسَقَانَا",
+    "latin": "Alhamdulillahil ladzi ath'amana wa saqana",
+    "arti": "Segala puji bagi Allah yang telah memberi kami makan dan minum"
+  },
+  {
+    "category": "Kumpulan Doa",
+    "group": "Kumpulan Doa",
+    "id": "kumpulandoa",
+    "step": "doa-masuk-masjid",
+    "title": "Doa Masuk Masjid",
+    "arab": "اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
+    "latin": "Allahumma iftah li abwaba rahmatik",
+    "arti": "Ya Allah, bukakanlah untukku pintu-pintu rahmat-Mu"
+  },
+  {
+    "category": "Kumpulan Doa",
+    "group": "Kumpulan Doa",
+    "id": "kumpulandoa",
+    "step": "doa-keluar-masjid",
+    "title": "Doa Keluar Masjid",
+    "arab": "اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ",
+    "latin": "Allahumma inni as'aluka min fadlik",
+    "arti": "Ya Allah, aku memohon karunia-Mu"
+  },
+
+  {
+    "category": "Kumpulan Doa",
+    "group": "Kumpulan Doa",
+    "id": "kumpulandoa",
+    "step": "doa-sebelum-tidur",
+    "title": "Doa Sebelum Tidur",
+    "arab": "بِاسْمِكَ اللَّهُمَّ أَمُوتُ وَأَحْيَا",
+    "latin": "Bismika Allahumma amutu wa ahya",
+    "arti": "Dengan nama-Mu ya Allah aku mati dan hidup"
+  },
+  {
+    "category": "Kumpulan Doa",
+    "group": "Kumpulan Doa",
+    "id": "kumpulandoa",
+    "step": "doa-bangun-tidur",
+    "title": "Doa Bangun Tidur",
+    "arab": "الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا",
+    "latin": "Alhamdulillahil ladzi ahyana ba'da ma amatana",
+    "arti": "Segala puji bagi Allah yang menghidupkan kami setelah mematikan kami"
+  },
+  {
+    "category": "Kumpulan Doa",
+    "group": "Kumpulan Doa",
+    "id": "kumpulandoa",
+    "step": "doa-mandi",
+    "title": "Doa Masuk Kamar Mandi",
+    "arab": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْخُبُثِ وَالْخَبَائِثِ",
+    "latin": "Allahumma inni a'udzu bika minal khubutsi wal khaba'its",
+    "arti": "Ya Allah aku berlindung kepada-Mu dari setan laki-laki dan perempuan"
+  },
+  {
+    "category": "Kumpulan Doa",
+    "group": "Kumpulan Doa",
+    "id": "kumpulandoa",
+    "step": "doa-keluar-mandi",
+    "title": "Doa Keluar Kamar Mandi",
+    "arab": "غُفْرَانَكَ",
+    "latin": "Ghufranak",
+    "arti": "Aku memohon ampunan-Mu"
+  },
+
+  {
+    "category": "Kumpulan Doa",
+    "group": "Kumpulan Doa",
+    "id": "kumpulandoa",
+    "step": "doa-pergi-rumah",
+    "title": "Doa Keluar Rumah",
+    "arab": "بِسْمِ اللهِ تَوَكَّلْتُ عَلَى اللهِ",
+    "latin": "Bismillahi tawakkaltu 'alallah",
+    "arti": "Dengan nama Allah aku bertawakal kepada Allah"
+  },
+  {
+    "category": "Kumpulan Doa",
+    "group": "Kumpulan Doa",
+    "id": "kumpulandoa",
+    "step": "doa-masuk-rumah",
+    "title": "Doa Masuk Rumah",
+    "arab": "بِسْمِ اللهِ وَلَجْنَا وَبِسْمِ اللهِ خَرَجْنَا",
+    "latin": "Bismillahi walajna wa bismillahi kharajna",
+    "arti": "Dengan nama Allah kami masuk dan keluar"
+  },
+
+  {
+    "category": "Kumpulan Doa",
+    "group": "Kumpulan Doa",
+    "id": "kumpulandoa",
+    "step": "doa-minta-ilmu",
+    "title": "Doa Meminta Ilmu",
+    "arab": "رَبِّ زِدْنِي عِلْمًا",
+    "latin": "Rabbi zidni 'ilma",
+    "arti": "Ya Tuhanku, tambahkanlah aku ilmu"
+  },
+  {
+    "category": "Kumpulan Doa",
+    "group": "Kumpulan Doa",
+    "id": "kumpulandoa",
+    "step": "doa-minta-rezeki",
+    "title": "Doa Meminta Rezeki",
+    "arab": "اللَّهُمَّ ارْزُقْنِي رِزْقًا حَلَالًا طَيِّبًا",
+    "latin": "Allahummarzuqni rizqan halalal tayyiba",
+    "arti": "Ya Allah, berikan aku rezeki yang halal dan baik"
+  },
+  {
+    "category": "Kumpulan Doa",
+    "group": "Kumpulan Doa",
+    "id": "kumpulandoa",
+    "step": "doa-keselamatan",
+    "title": "Doa Keselamatan",
+    "arab": "اللَّهُمَّ عَافِنِي فِي بَدَنِي",
+    "latin": "Allahumma 'afini fi badani",
+    "arti": "Ya Allah, sehatkan tubuhku"
+  },
+  {
+    "category": "Kumpulan Doa",
+    "group": "Kumpulan Doa",
+    "id": "kumpulandoa",
+    "step": "doa-terhindar-bahaya",
+    "title": "Doa Terhindar dari Bahaya",
+    "arab": "اللَّهُمَّ احْفَظْنِي",
+    "latin": "Allahumma ihfazni",
+    "arti": "Ya Allah, lindungilah aku"
+  },
+  {
+    "category": "Kumpulan Doa",
+    "group": "Kumpulan Doa",
+    "id": "kumpulandoa",
+    "step": "doa-safar",
+    "title": "Doa Safar (Bepergian)",
+    "arab": "اللَّهُمَّ إِنَّا نَسْأَلُكَ فِي سَفَرِنَا هَذَا الْبِرَّ وَالتَّقْوَى",
+    "latin": "Allahumma inna nas'aluka fi safarina hadza al-birra wat-taqwa",
+    "arti": "Ya Allah, kami memohon kebaikan dan ketakwaan dalam perjalanan ini"
+  },
+  {
+    "category": "Kumpulan Doa",
+    "group": "Kumpulan Doa",
+    "id": "kumpulandoa",
+    "step": "doa-naik-kendaraan",
+    "title": "Doa Naik Kendaraan",
+    "arab": "سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا",
+    "latin": "Subhanalladzi sakhkhara lana hadza",
+    "arti": "Maha Suci Allah yang menundukkan kendaraan ini untuk kami"
+  },
+  {
+    "category": "Kumpulan Doa",
+    "group": "Kumpulan Doa",
+    "id": "kumpulandoa",
+    "step": "doa-masuk-pasar",
+    "title": "Doa Masuk Pasar",
+    "arab": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ",
+    "latin": "La ilaha illallah wahdahu la sharika lah",
+    "arti": "Tiada Tuhan selain Allah, tiada sekutu bagi-Nya"
+  },
+  {
+    "category": "Kumpulan Doa",
+    "group": "Kumpulan Doa",
+    "id": "kumpulandoa",
+    "step": "doa-cermin",
+    "title": "Doa Melihat Cermin",
+    "arab": "اللَّهُمَّ كَمَا حَسَّنْتَ خَلْقِي فَحَسِّنْ خُلُقِي",
+    "latin": "Allahumma kama hassanta khalqi fahassin khuluqi",
+    "arti": "Ya Allah, sebagaimana Engkau memperindah penciptaanku, perindah juga akhlakku"
+  },
+  {
+    "category": "Kumpulan Doa",
+    "group": "Kumpulan Doa",
+    "id": "kumpulandoa",
+    "step": "doa-orang-tua",
+    "title": "Doa untuk Orang Tua",
+    "arab": "رَبِّ اغْفِرْ لِي وَلِوَالِدَيَّ",
+    "latin": "Rabbighfir li wa liwalidayya",
+    "arti": "Ya Tuhanku, ampunilah aku dan kedua orang tuaku"
+  },
+  {
+    "category": "Kumpulan Doa",
+    "group": "Kumpulan Doa",
+    "id": "kumpulandoa",
+    "step": "doa-dunia-akhirat",
+    "title": "Doa Kebaikan Dunia dan Akhirat",
+    "arab": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً",
+    "latin": "Rabbana atina fid-dunya hasanah wa fil-akhirati hasanah",
+    "arti": "Ya Tuhan kami, berilah kami kebaikan di dunia dan akhirat"
+  },
+  {
+    "category": "Kumpulan Doa",
+    "group": "Kumpulan Doa",
+    "id": "kumpulandoa",
+    "step": "doa-istighfar",
+    "title": "Doa Istighfar",
+    "arab": "أَسْتَغْفِرُ اللَّهَ الْعَظِيمَ",
+    "latin": "Astaghfirullahal 'azim",
+    "arti": "Aku memohon ampun kepada Allah Yang Maha Agung"
+  },
+  {
+    "category": "Kumpulan Doa",
+    "group": "Kumpulan Doa",
+    "id": "kumpulandoa",
+    "step": "doa-belajar",
+    "title": "Doa Sebelum Belajar",
+    "arab": "رَبِّ زِدْنِي عِلْمًا وَارْزُقْنِي فَهْمًا",
+    "latin": "Rabbi zidni 'ilma warzuqni fahma",
+    "arti": "Ya Tuhanku, tambahkan aku ilmu dan berikan aku pemahaman"
+  },
+  {
+    "category": "Kumpulan Doa",
+    "group": "Kumpulan Doa",
+    "id": "kumpulandoa",
+    "step": "doa-hujan",
+    "title": "Doa Ketika Hujan Turun",
+    "arab": "اللَّهُمَّ صَيِّبًا نَافِعًا",
+    "latin": "Allahumma shayyiban nafi'an",
+    "arti": "Ya Allah, jadikan hujan ini bermanfaat"
+  },
+  {
+    "category": "Kumpulan Doa",
+    "group": "Kumpulan Doa",
+    "id": "kumpulandoa",
+    "step": "doa-setelah-hujan",
+    "title": "Doa Setelah Hujan",
+    "arab": "مُطِرْنَا بِفَضْلِ اللَّهِ وَرَحْمَتِهِ",
+    "latin": "Mutirna bifadlillahi wa rahmatih",
+    "arti": "Kami diberi hujan karena karunia Allah"
+  },
+  {
+    "category": "Kumpulan Doa",
+    "group": "Kumpulan Doa",
+    "id": "kumpulandoa",
+    "step": "doa-bersin",
+    "title": "Doa Ketika Bersin",
+    "arab": "الْحَمْدُ لِلَّهِ",
+    "latin": "Alhamdulillah",
+    "arti": "Segala puji bagi Allah"
+  },
+  {
+    "category": "Kumpulan Doa",
+    "group": "Kumpulan Doa",
+    "id": "kumpulandoa",
+    "step": "doa-setelah-adzan",
+    "title": "Doa Setelah Mendengar Adzan",
+    "arab": "اللَّهُمَّ رَبَّ هَذِهِ الدَّعْوَةِ التَّامَّةِ",
+    "latin": "Allahumma rabba hadzihid da'wah at-tammah",
+    "arti": "Ya Allah, Tuhan dari panggilan yang sempurna ini"
+  },
+  {
+    "category": "Kumpulan Doa",
+    "group": "Kumpulan Doa",
+    "id": "kumpulandoa",
+    "step": "doa-berbuka",
+    "title": "Doa Berbuka Puasa",
+    "arab": "اللَّهُمَّ لَكَ صُمْتُ وَعَلَى رِزْقِكَ أَفْطَرْتُ",
+    "latin": "Allahumma laka shumtu wa 'ala rizqika aftartu",
+    "arti": "Ya Allah, karena-Mu aku berpuasa dan dengan rezeki-Mu aku berbuka"
+  },
+  {
+    "category": "Kumpulan Doa",
+    "group": "Kumpulan Doa",
+    "id": "kumpulandoa",
+    "step": "doa-sahur",
+    "title": "Doa Sahur",
+    "arab": "نَوَيْتُ صَوْمَ غَدٍ لِلَّهِ تَعَالَى",
+    "latin": "Nawaitu shauma ghadin lillahi ta'ala",
+    "arti": "Aku berniat puasa esok hari karena Allah"
+  },
+  {
+    "category": "Kumpulan Doa",
+    "group": "Kumpulan Doa",
+    "id": "kumpulandoa",
+    "step": "doa-hati-tenang",
+    "title": "Doa Ketenangan Hati",
+    "arab": "أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ",
+    "latin": "Ala bidzikrillahi tathma'innul qulub",
+    "arti": "Ingatlah, hanya dengan mengingat Allah hati menjadi tenang"
+  },
+  {
+    "category": "Kumpulan Doa",
+    "group": "Kumpulan Doa",
+    "id": "kumpulandoa",
+    "step": "doa-lindung-hutang",
+    "title": "Doa Terhindar dari Hutang",
+    "arab": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْمَأْثَمِ وَالْمَغْرَمِ",
+    "latin": "Allahumma inni a'udzu bika minal ma'tsami wal maghram",
+    "arti": "Ya Allah, aku berlindung dari dosa dan lilitan hutang"
+  }
+]
