@@ -1,13 +1,14 @@
 [
   {
+  {
     "category": "Kumpulan Doa",
     "group": "Kumpulan Doa",
     "id": "kumpulandoa",
-    "step": "doa-mau-makan",
-    "title": "Doa Mau Makan",
-    "arab": "بِسْمِ اللهِ",
-    "latin": "Bismillah",
-    "arti": "Dengan nama Allah"
+    "step": "doa-sebelum-makan",
+    "title": "Doa Sebelum Makan",
+    "arab": "بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيْمِ، اَللّٰهُمَّ بَارِكْ لَنَا فِيْمَا رَزَقْتَنَا وَقِنَا عَذَابَ النَّارِ",
+    "latin": "Bismillahirrahmanirrohim Allahumma baarik lanaa fiimaa rozaqtanaa wa qinaa 'adzaa bannaar.",
+    "arti": "Dengan menyebut Nama Allah yang Maha Pengasih, Maha Penyayang. Ya Allah, berkahilah rezeki yang Engkau berikan kepada kami, dan karuniakanlah rezeki yang lebih baik dari itu dan peliharalah kami dari siksa api neraka."
   },
   {
     "category": "Kumpulan Doa",
@@ -15,9 +16,9 @@
     "id": "kumpulandoa",
     "step": "doa-sesudah-makan",
     "title": "Doa Sesudah Makan",
-    "arab": "الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنَا وَسَقَانَا",
-    "latin": "Alhamdulillahil ladzi ath'amana wa saqana",
-    "arti": "Segala puji bagi Allah yang telah memberi kami makan dan minum"
+    "arab": "اَلْحَمْدُ ِللهِ الَّذِىْ اَطْعَمَنَا وَسَقَانَا وَجَعَلَنَا مُسْلِمِيْنَ",
+    "latin": "Alhamdulillahilladzi ath-’amanaa wa saqoonaa wa ja’alanaa minal muslimiin.",
+    "arti": "Segala puji bagi Allah yang memberikan makan dan minum kepada kami. Dan menjadikan kami orang Islam"
   },
   {
     "category": "Kumpulan Doa",
